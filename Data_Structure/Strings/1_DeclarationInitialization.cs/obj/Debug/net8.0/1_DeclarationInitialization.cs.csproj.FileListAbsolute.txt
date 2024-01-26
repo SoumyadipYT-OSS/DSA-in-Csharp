@@ -1,0 +1,15 @@
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\1_DeclarationInitialization.cs\obj\Debug\net8.0\1_DeclarationInitialization.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\1_DeclarationInitialization.cs\obj\Debug\net8.0\1_DeclarationInitialization.cs.AssemblyInfoInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\1_DeclarationInitialization.cs\obj\Debug\net8.0\1_DeclarationInitialization.cs.AssemblyInfo.cs
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\1_DeclarationInitialization.cs\obj\Debug\net8.0\1_DeclarationInitialization.cs.csproj.CoreCompileInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\1_DeclarationInitialization.cs\obj\Debug\net8.0\1_DeclarationInitialization.cs.sourcelink.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\1_DeclarationInitialization.cs\bin\Debug\net8.0\1_DeclarationInitialization.cs.exe
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\1_DeclarationInitialization.cs\bin\Debug\net8.0\1_DeclarationInitialization.cs.deps.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\1_DeclarationInitialization.cs\bin\Debug\net8.0\1_DeclarationInitialization.cs.runtimeconfig.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\1_DeclarationInitialization.cs\bin\Debug\net8.0\1_DeclarationInitialization.cs.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\1_DeclarationInitialization.cs\bin\Debug\net8.0\1_DeclarationInitialization.cs.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\1_DeclarationInitialization.cs\obj\Debug\net8.0\1_DeclarationInitialization.cs.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\1_DeclarationInitialization.cs\obj\Debug\net8.0\refint\1_DeclarationInitialization.cs.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\1_DeclarationInitialization.cs\obj\Debug\net8.0\1_DeclarationInitialization.cs.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\1_DeclarationInitialization.cs\obj\Debug\net8.0\1_DeclarationInitialization.cs.genruntimeconfig.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\1_DeclarationInitialization.cs\obj\Debug\net8.0\ref\1_DeclarationInitialization.cs.dll
