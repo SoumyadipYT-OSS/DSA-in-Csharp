@@ -1,0 +1,15 @@
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\4_VerbatimStringLiterals\bin\Debug\net8.0\4_VerbatimStringLiterals.exe
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\4_VerbatimStringLiterals\bin\Debug\net8.0\4_VerbatimStringLiterals.deps.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\4_VerbatimStringLiterals\bin\Debug\net8.0\4_VerbatimStringLiterals.runtimeconfig.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\4_VerbatimStringLiterals\bin\Debug\net8.0\4_VerbatimStringLiterals.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\4_VerbatimStringLiterals\bin\Debug\net8.0\4_VerbatimStringLiterals.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\4_VerbatimStringLiterals\obj\Debug\net8.0\4_VerbatimStringLiterals.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\4_VerbatimStringLiterals\obj\Debug\net8.0\4_VerbatimStringLiterals.AssemblyInfoInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\4_VerbatimStringLiterals\obj\Debug\net8.0\4_VerbatimStringLiterals.AssemblyInfo.cs
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\4_VerbatimStringLiterals\obj\Debug\net8.0\4_VerbatimStringLiterals.csproj.CoreCompileInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\4_VerbatimStringLiterals\obj\Debug\net8.0\4_VerbatimStringLiterals.sourcelink.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\4_VerbatimStringLiterals\obj\Debug\net8.0\4_VerbatimStringLiterals.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\4_VerbatimStringLiterals\obj\Debug\net8.0\refint\4_VerbatimStringLiterals.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\4_VerbatimStringLiterals\obj\Debug\net8.0\4_VerbatimStringLiterals.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\4_VerbatimStringLiterals\obj\Debug\net8.0\4_VerbatimStringLiterals.genruntimeconfig.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\4_VerbatimStringLiterals\obj\Debug\net8.0\ref\4_VerbatimStringLiterals.dll

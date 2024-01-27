@@ -1,0 +1,15 @@
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\5_RawStringLiterals\bin\Debug\net8.0\5_RawStringLiterals.exe
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\5_RawStringLiterals\bin\Debug\net8.0\5_RawStringLiterals.deps.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\5_RawStringLiterals\bin\Debug\net8.0\5_RawStringLiterals.runtimeconfig.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\5_RawStringLiterals\bin\Debug\net8.0\5_RawStringLiterals.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\5_RawStringLiterals\bin\Debug\net8.0\5_RawStringLiterals.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\5_RawStringLiterals\obj\Debug\net8.0\5_RawStringLiterals.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\5_RawStringLiterals\obj\Debug\net8.0\5_RawStringLiterals.AssemblyInfoInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\5_RawStringLiterals\obj\Debug\net8.0\5_RawStringLiterals.AssemblyInfo.cs
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\5_RawStringLiterals\obj\Debug\net8.0\5_RawStringLiterals.csproj.CoreCompileInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\5_RawStringLiterals\obj\Debug\net8.0\5_RawStringLiterals.sourcelink.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\5_RawStringLiterals\obj\Debug\net8.0\5_RawStringLiterals.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\5_RawStringLiterals\obj\Debug\net8.0\refint\5_RawStringLiterals.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\5_RawStringLiterals\obj\Debug\net8.0\5_RawStringLiterals.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\5_RawStringLiterals\obj\Debug\net8.0\5_RawStringLiterals.genruntimeconfig.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\5_RawStringLiterals\obj\Debug\net8.0\ref\5_RawStringLiterals.dll
