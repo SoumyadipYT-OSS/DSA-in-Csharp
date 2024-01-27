@@ -63,16 +63,7 @@ namespace pr6
             // Output:
             // Jupiter Hammon was an African American poet born in 1711.
             // He was first published in 1761 at the age of 50.
-            // He'd be over 300 years old today.
-
-
-            //----------------------------------------------------------------------------------------------------------------------
-
-
-            Console.WriteLine("\n__Example 4__");
-            var infoMsg = (Brand: "HP", Series: "Omen", ModelNo: 16, ModelName: "Transcend", ReleaseMonth: "June", ReleaseYear: 2023);
-            Console.WriteLine($"Brand new {infoMsg.Brand} release its new {infoMsg.Series} series model: {infoMsg.ModelName}{infoMsg.ModelNo}");
-            Console.WriteLine($"The model is released on {infoMsg.ReleaseMonth},{infoMsg.ReleaseYear}\n");
+            // He'd be over 300 years old today
         }
     }
 }

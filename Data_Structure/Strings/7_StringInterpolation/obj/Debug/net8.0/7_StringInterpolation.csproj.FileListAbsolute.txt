@@ -1,0 +1,15 @@
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\7_StringInterpolation\bin\Debug\net8.0\7_StringInterpolation.exe
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\7_StringInterpolation\bin\Debug\net8.0\7_StringInterpolation.deps.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\7_StringInterpolation\bin\Debug\net8.0\7_StringInterpolation.runtimeconfig.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\7_StringInterpolation\bin\Debug\net8.0\7_StringInterpolation.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\7_StringInterpolation\bin\Debug\net8.0\7_StringInterpolation.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\7_StringInterpolation\obj\Debug\net8.0\7_StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\7_StringInterpolation\obj\Debug\net8.0\7_StringInterpolation.AssemblyInfoInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\7_StringInterpolation\obj\Debug\net8.0\7_StringInterpolation.AssemblyInfo.cs
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\7_StringInterpolation\obj\Debug\net8.0\7_StringInterpolation.csproj.CoreCompileInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\7_StringInterpolation\obj\Debug\net8.0\7_StringInterpolation.sourcelink.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\7_StringInterpolation\obj\Debug\net8.0\7_StringInterpolation.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\7_StringInterpolation\obj\Debug\net8.0\refint\7_StringInterpolation.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\7_StringInterpolation\obj\Debug\net8.0\7_StringInterpolation.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\7_StringInterpolation\obj\Debug\net8.0\7_StringInterpolation.genruntimeconfig.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\7_StringInterpolation\obj\Debug\net8.0\ref\7_StringInterpolation.dll
