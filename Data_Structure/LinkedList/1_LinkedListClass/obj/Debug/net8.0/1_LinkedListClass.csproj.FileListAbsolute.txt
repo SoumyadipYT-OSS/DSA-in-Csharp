@@ -1,0 +1,15 @@
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\1_LinkedListClass\obj\Debug\net8.0\1_LinkedListClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\1_LinkedListClass\obj\Debug\net8.0\1_LinkedListClass.AssemblyInfoInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\1_LinkedListClass\obj\Debug\net8.0\1_LinkedListClass.AssemblyInfo.cs
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\1_LinkedListClass\obj\Debug\net8.0\1_LinkedListClass.csproj.CoreCompileInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\1_LinkedListClass\obj\Debug\net8.0\1_LinkedListClass.sourcelink.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\1_LinkedListClass\bin\Debug\net8.0\1_LinkedListClass.exe
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\1_LinkedListClass\bin\Debug\net8.0\1_LinkedListClass.deps.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\1_LinkedListClass\bin\Debug\net8.0\1_LinkedListClass.runtimeconfig.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\1_LinkedListClass\bin\Debug\net8.0\1_LinkedListClass.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\1_LinkedListClass\bin\Debug\net8.0\1_LinkedListClass.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\1_LinkedListClass\obj\Debug\net8.0\1_LinkedListClass.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\1_LinkedListClass\obj\Debug\net8.0\refint\1_LinkedListClass.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\1_LinkedListClass\obj\Debug\net8.0\1_LinkedListClass.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\1_LinkedListClass\obj\Debug\net8.0\1_LinkedListClass.genruntimeconfig.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\1_LinkedListClass\obj\Debug\net8.0\ref\1_LinkedListClass.dll
