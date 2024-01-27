@@ -1,0 +1,15 @@
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\2_Immutability_of_Strings\bin\Debug\net8.0\2_Immutability_of_Strings.exe
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\2_Immutability_of_Strings\bin\Debug\net8.0\2_Immutability_of_Strings.deps.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\2_Immutability_of_Strings\bin\Debug\net8.0\2_Immutability_of_Strings.runtimeconfig.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\2_Immutability_of_Strings\bin\Debug\net8.0\2_Immutability_of_Strings.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\2_Immutability_of_Strings\bin\Debug\net8.0\2_Immutability_of_Strings.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\2_Immutability_of_Strings\obj\Debug\net8.0\2_Immutability_of_Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\2_Immutability_of_Strings\obj\Debug\net8.0\2_Immutability_of_Strings.AssemblyInfoInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\2_Immutability_of_Strings\obj\Debug\net8.0\2_Immutability_of_Strings.AssemblyInfo.cs
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\2_Immutability_of_Strings\obj\Debug\net8.0\2_Immutability_of_Strings.csproj.CoreCompileInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\2_Immutability_of_Strings\obj\Debug\net8.0\2_Immutability_of_Strings.sourcelink.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\2_Immutability_of_Strings\obj\Debug\net8.0\2_Immutability_of_Strings.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\2_Immutability_of_Strings\obj\Debug\net8.0\refint\2_Immutability_of_Strings.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\2_Immutability_of_Strings\obj\Debug\net8.0\2_Immutability_of_Strings.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\2_Immutability_of_Strings\obj\Debug\net8.0\2_Immutability_of_Strings.genruntimeconfig.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\2_Immutability_of_Strings\obj\Debug\net8.0\ref\2_Immutability_of_Strings.dll
