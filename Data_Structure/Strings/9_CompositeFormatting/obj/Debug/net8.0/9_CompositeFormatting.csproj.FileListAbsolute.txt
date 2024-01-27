@@ -1,0 +1,15 @@
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\9_CompositeFormatting\bin\Debug\net8.0\9_CompositeFormatting.exe
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\9_CompositeFormatting\bin\Debug\net8.0\9_CompositeFormatting.deps.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\9_CompositeFormatting\bin\Debug\net8.0\9_CompositeFormatting.runtimeconfig.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\9_CompositeFormatting\bin\Debug\net8.0\9_CompositeFormatting.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\9_CompositeFormatting\bin\Debug\net8.0\9_CompositeFormatting.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\9_CompositeFormatting\obj\Debug\net8.0\9_CompositeFormatting.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\9_CompositeFormatting\obj\Debug\net8.0\9_CompositeFormatting.AssemblyInfoInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\9_CompositeFormatting\obj\Debug\net8.0\9_CompositeFormatting.AssemblyInfo.cs
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\9_CompositeFormatting\obj\Debug\net8.0\9_CompositeFormatting.csproj.CoreCompileInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\9_CompositeFormatting\obj\Debug\net8.0\9_CompositeFormatting.sourcelink.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\9_CompositeFormatting\obj\Debug\net8.0\9_CompositeFormatting.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\9_CompositeFormatting\obj\Debug\net8.0\refint\9_CompositeFormatting.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\9_CompositeFormatting\obj\Debug\net8.0\9_CompositeFormatting.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\9_CompositeFormatting\obj\Debug\net8.0\9_CompositeFormatting.genruntimeconfig.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\9_CompositeFormatting\obj\Debug\net8.0\ref\9_CompositeFormatting.dll
