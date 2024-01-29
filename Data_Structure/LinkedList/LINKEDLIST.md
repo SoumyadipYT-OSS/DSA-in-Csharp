@@ -14,4 +14,5 @@ to some other element.
 
 <strong> The Node </strong> <br>
 Each node in its basic contains has two portions: the data, and references to the next node in the sequences.
-In, C#(sharp) we define Node as a structure that has the data and the reference pointer information.
+In, C#(sharp) we define Node as a structure that has the data and the reference pointer information. <br>
+![ScreenshotNodeCreate](https://github.com/SoumyadipYT-OSS/DSA-in-Csharp/assets/94290293/847ea71d-b676-40bd-a3af-3bbf9bac9420)
