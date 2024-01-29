@@ -3,3 +3,5 @@
 ![MasterHead](https://i1.faceprep.in/Companies-1/types-of-linked-list.png)
 
 <img width="550" height="350" src="https://scaler-topics-articles-md.s3.us-west-2.amazonaws.com/traversal-operation-of-linked-list.gif">
+
+<span style = "font-size: 20px; font-family: Arial"><strong> What is Linked List? </strong></span>
