@@ -15,4 +15,14 @@ to some other element.
 <strong> The Node </strong> <br>
 Each node in its basic contains has two portions: the data, and references to the next node in the sequences.
 In, C#(sharp) we define Node as a structure that has the data and the reference pointer information. <br>
-![ScreenshotNodeCreate](https://github.com/SoumyadipYT-OSS/DSA-in-Csharp/assets/94290293/847ea71d-b676-40bd-a3af-3bbf9bac9420)
+![ScreenshotNodeCreate](https://github.com/SoumyadipYT-OSS/DSA-in-Csharp/assets/94290293/847ea71d-b676-40bd-a3af-3bbf9bac9420) 
+<br>
+
+<strong> • Advantages over an array </strong> <br>
+	- <b> Not fixed in size: </b> Linked lists are ot fixed in size unlike that of arrays, hence they can grow and shrink depending on the data to be inserted.
+    Only the amount of memory required to store the data is used. <br>
+	- <b> Efficient Insertion and Deletion: </b> Insertion and deletion are efficient and take constant time as only the links are manipulated, not the actual elements. <br>
+
+
+<strong> • Disadvantages over an array </strong> <br>
+	- <b> Slightly more memory usage: </b>
