@@ -1,13 +1,15 @@
 ﻿using System;
 
-namespace pr2
-{
-    public class Node {
-        private static int data;
-        private static Node next;
+namespace representSinglyLinkedList{
+    // Generic Type
+    public class ListNode<T> {
+        private T data;
+        private ListNode<T> next;
     }
 
-    public class LinkedListCreate {
-        public Node head;
+    // Integer Type
+    public class Node {
+        private int data;
+        private Node next;
     }
 }
