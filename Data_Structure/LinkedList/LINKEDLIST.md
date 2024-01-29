@@ -2,7 +2,7 @@
 
 ![MasterHead](https://i1.faceprep.in/Companies-1/types-of-linked-list.png)
 
-<img width="850" height="370" src="https://scaler-topics-articles-md.s3.us-west-2.amazonaws.com/traversal-operation-of-linked-list.gif">
+<img width="850" height="400" src="https://scaler-topics-articles-md.s3.us-west-2.amazonaws.com/traversal-operation-of-linked-list.gif">
 
 <span style = "font-size: 20px; font-family: Arial"><strong> What is Linked List? </strong></span> <br>
 A linked list is a linear data structure where each element is a separate object, known as a node. Each node contains some data and points 
