@@ -4,4 +4,4 @@
 
 <img width="550" height="350" src="https://scaler-topics-articles-md.s3.us-west-2.amazonaws.com/traversal-operation-of-linked-list.gif">
 
-<span style = "font-size: 50px; font-family: Arial"><strong> What is Linked List? </strong></span>
+<span style = "font-size: 50px; font-family: Arial"> What is Linked List? </span>
