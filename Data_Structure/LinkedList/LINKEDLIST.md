@@ -19,10 +19,10 @@ In, C#(sharp) we define Node as a structure that has the data and the reference 
 <br>
 
 <strong> • Advantages over an array </strong> <br>
-	- <b> Not fixed in size: </b> Linked lists are ot fixed in size unlike that of arrays, hence they can grow and shrink depending on the data to be inserted.
+	- Not fixed in size: Linked lists are ot fixed in size unlike that of arrays, hence they can grow and shrink depending on the data to be inserted.
     Only the amount of memory required to store the data is used. <br>
-	- <b> Efficient Insertion and Deletion: </b> Insertion and deletion are efficient and take constant time as only the links are manipulated, not the actual elements. <br>
+	- Efficient Insertion and Deletion: Insertion and deletion are efficient and take constant time as only the links are manipulated, not the actual elements. <br>
 
 
 <strong> • Disadvantages over an array </strong> <br>
-	- <b> Slightly more memory usage: </b>
+	- Slightly more memory usage: 
