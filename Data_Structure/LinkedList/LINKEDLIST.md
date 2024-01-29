@@ -15,4 +15,4 @@ to some other element.
 <strong> The Node </strong>
 Each node in its basic contains has two portions: the data, and references to the next node in the sequences.
 In, C#(sharp) we define Node as a structure that has the data and the reference pointer information.
-!(D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\2_representLinkedList\Screenshot NodeCreate.png)
+![image](D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\2_representLinkedList\ScreenshotNodeCreate.png)
