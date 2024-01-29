@@ -1,0 +1,15 @@
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\12_StringBuilderAccess\bin\Debug\net8.0\12_StringBuilderAccess.exe
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\12_StringBuilderAccess\bin\Debug\net8.0\12_StringBuilderAccess.deps.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\12_StringBuilderAccess\bin\Debug\net8.0\12_StringBuilderAccess.runtimeconfig.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\12_StringBuilderAccess\bin\Debug\net8.0\12_StringBuilderAccess.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\12_StringBuilderAccess\bin\Debug\net8.0\12_StringBuilderAccess.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\12_StringBuilderAccess\obj\Debug\net8.0\12_StringBuilderAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\12_StringBuilderAccess\obj\Debug\net8.0\12_StringBuilderAccess.AssemblyInfoInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\12_StringBuilderAccess\obj\Debug\net8.0\12_StringBuilderAccess.AssemblyInfo.cs
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\12_StringBuilderAccess\obj\Debug\net8.0\12_StringBuilderAccess.csproj.CoreCompileInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\12_StringBuilderAccess\obj\Debug\net8.0\12_StringBuilderAccess.sourcelink.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\12_StringBuilderAccess\obj\Debug\net8.0\12_StringBuilderAccess.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\12_StringBuilderAccess\obj\Debug\net8.0\refint\12_StringBuilderAccess.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\12_StringBuilderAccess\obj\Debug\net8.0\12_StringBuilderAccess.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\12_StringBuilderAccess\obj\Debug\net8.0\12_StringBuilderAccess.genruntimeconfig.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\12_StringBuilderAccess\obj\Debug\net8.0\ref\12_StringBuilderAccess.dll

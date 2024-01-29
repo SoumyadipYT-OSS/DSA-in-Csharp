@@ -1,0 +1,15 @@
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\15_StringConcatenation\bin\Debug\net8.0\15_StringConcatenation.exe
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\15_StringConcatenation\bin\Debug\net8.0\15_StringConcatenation.deps.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\15_StringConcatenation\bin\Debug\net8.0\15_StringConcatenation.runtimeconfig.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\15_StringConcatenation\bin\Debug\net8.0\15_StringConcatenation.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\15_StringConcatenation\bin\Debug\net8.0\15_StringConcatenation.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\15_StringConcatenation\obj\Debug\net8.0\15_StringConcatenation.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\15_StringConcatenation\obj\Debug\net8.0\15_StringConcatenation.AssemblyInfoInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\15_StringConcatenation\obj\Debug\net8.0\15_StringConcatenation.AssemblyInfo.cs
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\15_StringConcatenation\obj\Debug\net8.0\15_StringConcatenation.csproj.CoreCompileInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\15_StringConcatenation\obj\Debug\net8.0\15_StringConcatenation.sourcelink.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\15_StringConcatenation\obj\Debug\net8.0\15_StringConcatenation.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\15_StringConcatenation\obj\Debug\net8.0\refint\15_StringConcatenation.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\15_StringConcatenation\obj\Debug\net8.0\15_StringConcatenation.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\15_StringConcatenation\obj\Debug\net8.0\15_StringConcatenation.genruntimeconfig.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\15_StringConcatenation\obj\Debug\net8.0\ref\15_StringConcatenation.dll

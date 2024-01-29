@@ -1,0 +1,15 @@
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\18_stringBuilderClass\obj\Debug\net8.0\18_stringBuilderClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\18_stringBuilderClass\obj\Debug\net8.0\18_stringBuilderClass.AssemblyInfoInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\18_stringBuilderClass\obj\Debug\net8.0\18_stringBuilderClass.AssemblyInfo.cs
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\18_stringBuilderClass\obj\Debug\net8.0\18_stringBuilderClass.csproj.CoreCompileInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\18_stringBuilderClass\obj\Debug\net8.0\18_stringBuilderClass.sourcelink.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\18_stringBuilderClass\bin\Debug\net8.0\18_stringBuilderClass.exe
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\18_stringBuilderClass\bin\Debug\net8.0\18_stringBuilderClass.deps.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\18_stringBuilderClass\bin\Debug\net8.0\18_stringBuilderClass.runtimeconfig.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\18_stringBuilderClass\bin\Debug\net8.0\18_stringBuilderClass.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\18_stringBuilderClass\bin\Debug\net8.0\18_stringBuilderClass.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\18_stringBuilderClass\obj\Debug\net8.0\18_stringBuilderClass.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\18_stringBuilderClass\obj\Debug\net8.0\refint\18_stringBuilderClass.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\18_stringBuilderClass\obj\Debug\net8.0\18_stringBuilderClass.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\18_stringBuilderClass\obj\Debug\net8.0\18_stringBuilderClass.genruntimeconfig.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\18_stringBuilderClass\obj\Debug\net8.0\ref\18_stringBuilderClass.dll

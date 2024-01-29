@@ -1,0 +1,15 @@
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\11_AccessingIndividualCharacters\bin\Debug\net8.0\11_AccessingIndividualCharacters.exe
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\11_AccessingIndividualCharacters\bin\Debug\net8.0\11_AccessingIndividualCharacters.deps.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\11_AccessingIndividualCharacters\bin\Debug\net8.0\11_AccessingIndividualCharacters.runtimeconfig.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\11_AccessingIndividualCharacters\bin\Debug\net8.0\11_AccessingIndividualCharacters.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\11_AccessingIndividualCharacters\bin\Debug\net8.0\11_AccessingIndividualCharacters.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\11_AccessingIndividualCharacters\obj\Debug\net8.0\11_AccessingIndividualCharacters.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\11_AccessingIndividualCharacters\obj\Debug\net8.0\11_AccessingIndividualCharacters.AssemblyInfoInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\11_AccessingIndividualCharacters\obj\Debug\net8.0\11_AccessingIndividualCharacters.AssemblyInfo.cs
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\11_AccessingIndividualCharacters\obj\Debug\net8.0\11_AccessingIndividualCharacters.csproj.CoreCompileInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\11_AccessingIndividualCharacters\obj\Debug\net8.0\11_AccessingIndividualCharacters.sourcelink.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\11_AccessingIndividualCharacters\obj\Debug\net8.0\11_AccessingIndividualCharacters.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\11_AccessingIndividualCharacters\obj\Debug\net8.0\refint\11_AccessingIndividualCharacters.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\11_AccessingIndividualCharacters\obj\Debug\net8.0\11_AccessingIndividualCharacters.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\11_AccessingIndividualCharacters\obj\Debug\net8.0\11_AccessingIndividualCharacters.genruntimeconfig.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\Strings\11_AccessingIndividualCharacters\obj\Debug\net8.0\ref\11_AccessingIndividualCharacters.dll
