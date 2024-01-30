@@ -1,0 +1,15 @@
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\5_InsertNodeBeginning\obj\Debug\net8.0\5_InsertNodeBeginning.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\5_InsertNodeBeginning\obj\Debug\net8.0\5_InsertNodeBeginning.AssemblyInfoInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\5_InsertNodeBeginning\obj\Debug\net8.0\5_InsertNodeBeginning.AssemblyInfo.cs
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\5_InsertNodeBeginning\obj\Debug\net8.0\5_InsertNodeBeginning.csproj.CoreCompileInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\5_InsertNodeBeginning\obj\Debug\net8.0\5_InsertNodeBeginning.sourcelink.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\5_InsertNodeBeginning\bin\Debug\net8.0\5_InsertNodeBeginning.exe
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\5_InsertNodeBeginning\bin\Debug\net8.0\5_InsertNodeBeginning.deps.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\5_InsertNodeBeginning\bin\Debug\net8.0\5_InsertNodeBeginning.runtimeconfig.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\5_InsertNodeBeginning\bin\Debug\net8.0\5_InsertNodeBeginning.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\5_InsertNodeBeginning\bin\Debug\net8.0\5_InsertNodeBeginning.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\5_InsertNodeBeginning\obj\Debug\net8.0\5_InsertNodeBeginning.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\5_InsertNodeBeginning\obj\Debug\net8.0\refint\5_InsertNodeBeginning.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\5_InsertNodeBeginning\obj\Debug\net8.0\5_InsertNodeBeginning.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\5_InsertNodeBeginning\obj\Debug\net8.0\5_InsertNodeBeginning.genruntimeconfig.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\5_InsertNodeBeginning\obj\Debug\net8.0\ref\5_InsertNodeBeginning.dll

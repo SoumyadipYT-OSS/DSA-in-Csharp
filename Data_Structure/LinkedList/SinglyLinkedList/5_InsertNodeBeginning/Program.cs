@@ -31,5 +31,32 @@ namespace InsertNode_at_Beginning {
             newNode.next = head;
             head = newNode;
         }
+
+        // method to find length of the singly linked list
+        protected static void LengthSinglyLinkedList() {
+            if (head == null) {
+                Console.WriteLine("Linked List is empty");
+                return;
+            }
+            int count = 0;
+            ListNode? curr = head;
+            while (curr != null) {
+                count++;
+                curr = curr.next;
+            }
+            Console.WriteLine("Length: " + count);
+        }
+
+
+        // main method
+        static void Main(string[] args) {
+            InsertAtBeginning(24);
+            displayLinkedList();
+            LengthSinglyLinkedList();
+
+            InsertAtBeginning(10);
+            displayLinkedList();
+            LengthSinglyLinkedList();
+        }
     }
 }
