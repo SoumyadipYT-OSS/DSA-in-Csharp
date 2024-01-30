@@ -46,8 +46,17 @@ An element in a linked list cannot be accessed directly, unlike an array. Thus, 
 element that has to traverse from one end of the linked list to the element that has to be accessed. <br>
 
 This is what causes the average O(n) search and access time in a linked list. Insertion and deletion on the other hand is constant time as only
-few pointers have to be modified. <br>
+few pointers have to be modified. <br><br>
 
 
+<strong> Uses of Linked List </strong> <br>
+1. Implement other data structures: It is used to implement other data structures such as stacks, queues and non-linear ones
+like trees and graphs.<br>
+2. Hash Chaining:  It has uses in hash chaining for the implementation in open chaining. <br><br>
 
+
+<strong> Types </strong>
+> Singly Linked List: (Every node has one pointer - next) <br>
+> Doubly Linked List: (Every node has two pointers: next and previous) <br>
+> Circular Linked List: (Last node connects to the first node, forming a loop)
 
