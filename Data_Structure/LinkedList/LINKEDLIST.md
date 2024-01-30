@@ -32,6 +32,7 @@ In, C#(sharp) we define Node as a structure that has the data and the reference 
 
 
 ```
+<strong> Time Complexity </strong>
 	Access: O(n)
 	Search: O(n)
 	Insertion: O(n)
