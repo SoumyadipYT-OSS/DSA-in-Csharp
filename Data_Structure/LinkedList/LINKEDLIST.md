@@ -30,3 +30,23 @@ In, C#(sharp) we define Node as a structure that has the data and the reference 
 	- Difficult reverse traversal: Difficulties arise in linked lists when it comes to reverse traversing in a singly linked list.
 	This can be resolved using doubly linked lists, but this again increases memory as we have to store the previous reference pointer.
 
+
+	```sh
+		Access: O(n)
+		Search: O(n)
+		Insertion: O(n)
+		Deletion: O(n)
+		Space: O(n)
+	```
+<br>
+
+<strong> Accessing an element in a Linked List </strong> <br>
+An element in a linked list cannot be accessed directly, unlike an array. Thus, one has to traverse from one end of the linked list to the
+element that has to traverse from one end of the linked list to the element that has to be accessed. <br>
+
+This is what causes the average O(n) search and access time in a linked list. Insertion and deletion on the other hand is constant time as only
+few pointers have to be modified. <br>
+
+
+
+
