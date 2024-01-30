@@ -56,7 +56,7 @@ like trees and graphs.<br>
 
 
 <strong> Types </strong>
-> Singly Linked List: (Every node has one pointer - next) <br>
-> Doubly Linked List: (Every node has two pointers: next and previous) <br>
-> Circular Linked List: (Last node connects to the first node, forming a loop)
+> Singly Linked List: (Every node has one pointer - next) [https://github.com/SoumyadipYT-OSS/DSA-in-Csharp/blob/main/Data_Structure/LinkedList/SinglyLinkedList/Singly.md] <br>
+> Doubly Linked List: (Every node has two pointers: next and previous) [https://github.com/SoumyadipYT-OSS/DSA-in-Csharp/blob/main/Data_Structure/LinkedList/DoublyLinkedList/Doubly.md] <br>
+> Circular Linked List: (Last node connects to the first node, forming a loop) [https://github.com/SoumyadipYT-OSS/DSA-in-Csharp/blob/main/Data_Structure/LinkedList/CircularLinkedList/Circular.md]
 
