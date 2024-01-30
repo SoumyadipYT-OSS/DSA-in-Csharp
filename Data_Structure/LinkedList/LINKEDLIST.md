@@ -31,13 +31,13 @@ In, C#(sharp) we define Node as a structure that has the data and the reference 
 	This can be resolved using doubly linked lists, but this again increases memory as we have to store the previous reference pointer.
 
 
-	```sh
-		Access: O(n)
-		Search: O(n)
-		Insertion: O(n)
-		Deletion: O(n)
-		Space: O(n)
-	```
+```
+	Access: O(n)
+	Search: O(n)
+	Insertion: O(n)
+	Deletion: O(n)
+	Space: O(n)
+```
 <br>
 
 <strong> Accessing an element in a Linked List </strong> <br>
