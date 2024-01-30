@@ -58,18 +58,18 @@ namespace Length_of_SinglyLinkedList
             Console.WriteLine("Length of the linked list: " + count);
         }
 
+
         // main method
-        static void Main(string[] args)
-        {
-            head = new ListNode(10);
+        static void Main(string[] args) {
+            head = new ListNode(8);
             ListNode second = new ListNode(1);
-            ListNode third = new ListNode(8);
-            ListNode fourth = new ListNode(11);
-            // Now we will connect them together to form a chain
-            head.next = second;     // 10 -> 1
-            second.next = third;    // 10 -> 1 -> 8
-            third.next = fourth;    // 10 -> 1 -> 8 -> 11
-            fourth.next = null;     // 10 -> 1 -> 8 -> 11 -> null
+            ListNode third = new ListNode(10);
+            ListNode fourth = new ListNode(12);
+
+            head.next = second;
+            second.next = third;
+            third.next = fourth;
+            fourth.next = null;
             displayLinkedList();
             LengthSinglyLinkedList(head);
         }
