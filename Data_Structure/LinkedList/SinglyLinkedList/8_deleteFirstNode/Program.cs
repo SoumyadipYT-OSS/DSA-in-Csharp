@@ -1,6 +1,7 @@
 ﻿using System;
 
 namespace deleteFirstNode {
+
     public class ListNode {
         public int data;
         public ListNode? next = null;
@@ -11,6 +12,7 @@ namespace deleteFirstNode {
             this.next = null;
         }
     }
+
     class SinglyLinkedList {
         private static ListNode? head = null;
 

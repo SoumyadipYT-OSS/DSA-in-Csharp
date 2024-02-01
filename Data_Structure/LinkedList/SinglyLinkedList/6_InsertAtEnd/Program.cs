@@ -1,18 +1,20 @@
 ﻿using System;
 
 namespace InsertNode_at_End {
+
+    public class ListNode {
+        public int data;
+        public ListNode? next;
+
+        public ListNode(int data) {
+            this.data = data;
+            this.next = null;
+        }
+    }
+
+
     public class  SinglyLinkedList {
         private static ListNode? head = null;
-
-        private class ListNode {
-            public int data;
-            public ListNode? next;
-
-            public ListNode(int data) {
-                this.data = data;
-                this.next = null;
-            }
-        }
 
 
         // method to display linked list

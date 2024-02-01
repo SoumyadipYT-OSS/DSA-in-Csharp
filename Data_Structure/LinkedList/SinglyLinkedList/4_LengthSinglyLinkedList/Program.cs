@@ -17,20 +17,22 @@
      }
 */
 
-namespace Length_of_SinglyLinkedList
-{
+namespace Length_of_SinglyLinkedList {
+#pragma warning disable
+
+    public class ListNode {
+        public int data;
+        public ListNode? next;
+
+        public ListNode(int data) {
+            this.data = data;
+            this.next = null;
+        }
+    }
+
 
     public class SinglyLinkedList {
         private static ListNode? head = null;
-
-        private class ListNode {
-            public int data; // generic type
-            public ListNode? next = null;
-
-            public ListNode(int data) {
-                this.data = data;
-            }
-        }
 
         // method to print the Singly Linked List
         protected static void displayLinkedList() {
@@ -74,5 +76,5 @@ namespace Length_of_SinglyLinkedList
             LengthSinglyLinkedList(head);
         }
     }
-
+#pragma warning restore
 }
