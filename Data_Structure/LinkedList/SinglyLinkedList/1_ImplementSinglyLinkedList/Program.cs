@@ -21,12 +21,10 @@ namespace ImplementSinglyLinkedList
 
     public class SinglyLinkedList {
         private ListNode head;
-    }
 
-    // main class
-    class q1 {
-        static void Main(string[] args) {
-            
+        // main method
+        static void Main(string[] args){
+
         }
     }
 }
