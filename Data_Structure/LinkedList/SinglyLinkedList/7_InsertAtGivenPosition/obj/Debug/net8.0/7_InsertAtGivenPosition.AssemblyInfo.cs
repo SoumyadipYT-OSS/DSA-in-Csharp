@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("7_InsertAtGivenPosition")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d13c2c53e004a616b927ab3e4824ff5af07962f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6adc1646caff0c442a4655ebaefa36da5ee2d8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("7_InsertAtGivenPosition")]
 [assembly: System.Reflection.AssemblyTitleAttribute("7_InsertAtGivenPosition")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

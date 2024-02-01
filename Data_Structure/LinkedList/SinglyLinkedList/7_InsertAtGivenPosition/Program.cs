@@ -56,7 +56,7 @@ namespace InsertAtGivenPosition {
                 head = newNode;
                 return;
             } else {
-                ListNode curr = head;
+                ListNode? curr = head;
                 for (int idx=0; idx<pos-2; idx++) {
                     if (curr == null) {
                         return;
@@ -93,6 +93,18 @@ namespace InsertAtGivenPosition {
             findLength() ;
             Console.WriteLine();
             Insert_at_GivenPosition(4, 110);
+            displayLinkedList();
+            findLength();
+            Console.WriteLine();
+            Insert_at_GivenPosition(1, 5);
+            displayLinkedList();
+            findLength();
+            Console.WriteLine();
+            Insert_at_GivenPosition(1, 4);
+            displayLinkedList();
+            findLength();
+            Console.WriteLine();
+            Insert_at_GivenPosition(4, 18);
             displayLinkedList();
             findLength();
         }
