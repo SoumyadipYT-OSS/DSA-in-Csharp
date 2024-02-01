@@ -6,8 +6,9 @@
 
 using System;
 
-namespace ImplementSinglyLinkedList
-{
+namespace ImplementSinglyLinkedList {
+
+#pragma warning disable
     public  class ListNode {
         public int data; // generic type
         public ListNode next;
@@ -27,4 +28,5 @@ namespace ImplementSinglyLinkedList
 
         }
     }
+#pragma warning restore
 }
