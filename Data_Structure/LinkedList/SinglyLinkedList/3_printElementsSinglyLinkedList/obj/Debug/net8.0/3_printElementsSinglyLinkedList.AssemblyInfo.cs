@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3_printElementsSinglyLinkedList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4059e7c2f634c18443210a1c8cfc55c825279441")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65cdfa2765a20281379d5e594a87aff7c8e7a72c")]
 [assembly: System.Reflection.AssemblyProductAttribute("3_printElementsSinglyLinkedList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3_printElementsSinglyLinkedList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

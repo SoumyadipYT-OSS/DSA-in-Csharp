@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace CreateSinglyLinkedList {
-
+#pragma warning disable
     public class ListNode {
         public int data; // generic type
         public ListNode next;
@@ -32,5 +32,5 @@ namespace CreateSinglyLinkedList {
             fourth.next = null;     // 10 -> 1 -> 8 -> 11 -> null
         }
     }
-
+#pragma warning restore
 }
