@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub repo connections\\DSA_Csharp\\DSA-in-Csharp\\Data_Structure\\LinkedList\\SinglyLinkedList\\7_InsertGivenPosition\\7_InsertGivenPosition.csproj": {}
+    "D:\\GitHub repo connections\\DSA_Csharp\\DSA-in-Csharp\\Data_Structure\\LinkedList\\SinglyLinkedList\\7_InsertAtGivenPosition\\7_InsertAtGivenPosition.csproj": {}
   },
   "projects": {
-    "D:\\GitHub repo connections\\DSA_Csharp\\DSA-in-Csharp\\Data_Structure\\LinkedList\\SinglyLinkedList\\7_InsertGivenPosition\\7_InsertGivenPosition.csproj": {
+    "D:\\GitHub repo connections\\DSA_Csharp\\DSA-in-Csharp\\Data_Structure\\LinkedList\\SinglyLinkedList\\7_InsertAtGivenPosition\\7_InsertAtGivenPosition.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub repo connections\\DSA_Csharp\\DSA-in-Csharp\\Data_Structure\\LinkedList\\SinglyLinkedList\\7_InsertGivenPosition\\7_InsertGivenPosition.csproj",
-        "projectName": "7_InsertGivenPosition",
-        "projectPath": "D:\\GitHub repo connections\\DSA_Csharp\\DSA-in-Csharp\\Data_Structure\\LinkedList\\SinglyLinkedList\\7_InsertGivenPosition\\7_InsertGivenPosition.csproj",
+        "projectUniqueName": "D:\\GitHub repo connections\\DSA_Csharp\\DSA-in-Csharp\\Data_Structure\\LinkedList\\SinglyLinkedList\\7_InsertAtGivenPosition\\7_InsertAtGivenPosition.csproj",
+        "projectName": "7_InsertAtGivenPosition",
+        "projectPath": "D:\\GitHub repo connections\\DSA_Csharp\\DSA-in-Csharp\\Data_Structure\\LinkedList\\SinglyLinkedList\\7_InsertAtGivenPosition\\7_InsertAtGivenPosition.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub repo connections\\DSA_Csharp\\DSA-in-Csharp\\Data_Structure\\LinkedList\\SinglyLinkedList\\7_InsertGivenPosition\\obj\\",
+        "outputPath": "D:\\GitHub repo connections\\DSA_Csharp\\DSA-in-Csharp\\Data_Structure\\LinkedList\\SinglyLinkedList\\7_InsertAtGivenPosition\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

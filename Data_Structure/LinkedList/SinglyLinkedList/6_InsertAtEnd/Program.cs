@@ -6,7 +6,7 @@ namespace InsertNode_at_End {
 
         private class ListNode {
             public int data;
-            public ListNode? next = null;
+            public ListNode? next;
 
             public ListNode(int data) {
                 this.data = data;
@@ -17,6 +17,10 @@ namespace InsertNode_at_End {
 
         // method to display linked list
         protected static void displayLinkedList() {
+            if (head == null) {
+                Console.WriteLine("LinkedList is empty");
+                return;
+            }
             ListNode? curr = head;
             while (curr != null) {
                 Console.Write(curr.data + "-->");
