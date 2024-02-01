@@ -1,20 +1,20 @@
 ﻿using System;
 
-namespace CreateSinglyLinkedList 
-{
-    
+namespace CreateSinglyLinkedList {
+
+    public class ListNode {
+        public int data; // generic type
+        public ListNode next;
+
+        public ListNode(int data) {
+            this.data = data;
+            this.next = null;
+        }
+    }
+
+
     public class SinglyLinkedList {
         private ListNode head;
-
-        private class ListNode {
-            public int data; // generic type
-            public ListNode next;
-
-            public ListNode(int data) {
-                this.data = data;
-                this.next = null;
-            }
-        }
 
 
         // main method

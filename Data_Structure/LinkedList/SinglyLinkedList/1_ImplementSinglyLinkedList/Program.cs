@@ -8,20 +8,20 @@ using System;
 
 namespace ImplementSinglyLinkedList
 {
-    public class SinglyLinkedList {
-        private ListNode head;
+    public  class ListNode {
+        public int data; // generic type
+        public ListNode next;
 
-        private class ListNode {
-            public int data; // generic type
-            public ListNode next;
-
-            public ListNode(int data) {
-                this.data = data;
-                this.next = null;
-            }
+        public ListNode(int data) {
+            this.data = data;
+            this.next = null;
         }
     }
 
+
+    public class SinglyLinkedList {
+        private ListNode head;
+    }
 
     // main class
     class q1 {
