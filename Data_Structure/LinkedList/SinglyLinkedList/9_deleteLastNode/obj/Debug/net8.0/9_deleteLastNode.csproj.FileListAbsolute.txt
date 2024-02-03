@@ -1,0 +1,15 @@
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\9_deleteLastNode\bin\Debug\net8.0\9_deleteLastNode.exe
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\9_deleteLastNode\bin\Debug\net8.0\9_deleteLastNode.deps.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\9_deleteLastNode\bin\Debug\net8.0\9_deleteLastNode.runtimeconfig.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\9_deleteLastNode\bin\Debug\net8.0\9_deleteLastNode.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\9_deleteLastNode\bin\Debug\net8.0\9_deleteLastNode.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\9_deleteLastNode\obj\Debug\net8.0\9_deleteLastNode.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\9_deleteLastNode\obj\Debug\net8.0\9_deleteLastNode.AssemblyInfoInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\9_deleteLastNode\obj\Debug\net8.0\9_deleteLastNode.AssemblyInfo.cs
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\9_deleteLastNode\obj\Debug\net8.0\9_deleteLastNode.csproj.CoreCompileInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\9_deleteLastNode\obj\Debug\net8.0\9_deleteLastNode.sourcelink.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\9_deleteLastNode\obj\Debug\net8.0\9_deleteLastNode.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\9_deleteLastNode\obj\Debug\net8.0\refint\9_deleteLastNode.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\9_deleteLastNode\obj\Debug\net8.0\9_deleteLastNode.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\9_deleteLastNode\obj\Debug\net8.0\9_deleteLastNode.genruntimeconfig.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\9_deleteLastNode\obj\Debug\net8.0\ref\9_deleteLastNode.dll
