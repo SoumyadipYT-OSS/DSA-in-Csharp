@@ -33,7 +33,7 @@ namespace deleteFirstNode {
 
         // method to delete first node
 #pragma warning disable 8603   // this is used to disable warning the possible nullable
-        public ListNode deleteFirst() {
+        public static ListNode deleteFirst() {
             if (head == null)
                 return null;
 
@@ -58,6 +58,10 @@ namespace deleteFirstNode {
             third.next = fourth;
             fourth.next = null;
 
+            displayLinkedList();
+
+            Console.WriteLine("\nAfter deleting first node...");
+            deleteFirst();
             displayLinkedList();
         }
     }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("8_deleteFirstNode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfb6602a14662487879da4167a0e6b05c57f4a02")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71a0c35f71c90c7c9d660cbfbba558c71b713417")]
 [assembly: System.Reflection.AssemblyProductAttribute("8_deleteFirstNode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("8_deleteFirstNode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
