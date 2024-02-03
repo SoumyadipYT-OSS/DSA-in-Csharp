@@ -1,0 +1,15 @@
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\12_insertNodeSortedLinkedList\obj\Debug\net8.0\12_insertNodeSortedLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\12_insertNodeSortedLinkedList\obj\Debug\net8.0\12_insertNodeSortedLinkedList.AssemblyInfoInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\12_insertNodeSortedLinkedList\obj\Debug\net8.0\12_insertNodeSortedLinkedList.AssemblyInfo.cs
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\12_insertNodeSortedLinkedList\obj\Debug\net8.0\12_insertNodeSortedLinkedList.csproj.CoreCompileInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\12_insertNodeSortedLinkedList\obj\Debug\net8.0\12_insertNodeSortedLinkedList.sourcelink.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\12_insertNodeSortedLinkedList\bin\Debug\net8.0\12_insertNodeSortedLinkedList.exe
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\12_insertNodeSortedLinkedList\bin\Debug\net8.0\12_insertNodeSortedLinkedList.deps.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\12_insertNodeSortedLinkedList\bin\Debug\net8.0\12_insertNodeSortedLinkedList.runtimeconfig.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\12_insertNodeSortedLinkedList\bin\Debug\net8.0\12_insertNodeSortedLinkedList.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\12_insertNodeSortedLinkedList\bin\Debug\net8.0\12_insertNodeSortedLinkedList.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\12_insertNodeSortedLinkedList\obj\Debug\net8.0\12_insertNodeSortedLinkedList.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\12_insertNodeSortedLinkedList\obj\Debug\net8.0\refint\12_insertNodeSortedLinkedList.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\12_insertNodeSortedLinkedList\obj\Debug\net8.0\12_insertNodeSortedLinkedList.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\12_insertNodeSortedLinkedList\obj\Debug\net8.0\12_insertNodeSortedLinkedList.genruntimeconfig.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\12_insertNodeSortedLinkedList\obj\Debug\net8.0\ref\12_insertNodeSortedLinkedList.dll
