@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "10_deleteNodeGivenPosition/1.0.0": {
+        "runtime": {
+          "10_deleteNodeGivenPosition.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "10_deleteNodeGivenPosition/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

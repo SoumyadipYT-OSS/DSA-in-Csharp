@@ -1,0 +1,15 @@
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\10_deleteNodeGivenPosition\bin\Debug\net8.0\10_deleteNodeGivenPosition.exe
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\10_deleteNodeGivenPosition\bin\Debug\net8.0\10_deleteNodeGivenPosition.deps.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\10_deleteNodeGivenPosition\bin\Debug\net8.0\10_deleteNodeGivenPosition.runtimeconfig.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\10_deleteNodeGivenPosition\bin\Debug\net8.0\10_deleteNodeGivenPosition.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\10_deleteNodeGivenPosition\bin\Debug\net8.0\10_deleteNodeGivenPosition.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\10_deleteNodeGivenPosition\obj\Debug\net8.0\10_deleteNodeGivenPosition.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\10_deleteNodeGivenPosition\obj\Debug\net8.0\10_deleteNodeGivenPosition.AssemblyInfoInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\10_deleteNodeGivenPosition\obj\Debug\net8.0\10_deleteNodeGivenPosition.AssemblyInfo.cs
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\10_deleteNodeGivenPosition\obj\Debug\net8.0\10_deleteNodeGivenPosition.csproj.CoreCompileInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\10_deleteNodeGivenPosition\obj\Debug\net8.0\10_deleteNodeGivenPosition.sourcelink.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\10_deleteNodeGivenPosition\obj\Debug\net8.0\10_deleteNodeGivenPosition.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\10_deleteNodeGivenPosition\obj\Debug\net8.0\refint\10_deleteNodeGivenPosition.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\10_deleteNodeGivenPosition\obj\Debug\net8.0\10_deleteNodeGivenPosition.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\10_deleteNodeGivenPosition\obj\Debug\net8.0\10_deleteNodeGivenPosition.genruntimeconfig.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\10_deleteNodeGivenPosition\obj\Debug\net8.0\ref\10_deleteNodeGivenPosition.dll
