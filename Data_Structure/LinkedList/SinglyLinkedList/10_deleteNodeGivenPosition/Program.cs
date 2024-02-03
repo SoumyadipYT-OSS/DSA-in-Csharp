@@ -62,8 +62,8 @@ namespace deleteAtGivenPosition {
             fourth.next = null;
 
             displayLinkedList();
-            Console.WriteLine("\nAfter deleting the third position...");
-            deleteNodeGivenPosition(4);
+            Console.WriteLine("\nAfter deleting the second position...");
+            deleteNodeGivenPosition(2);
             displayLinkedList();
         }
     }
