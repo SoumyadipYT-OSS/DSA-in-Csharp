@@ -1,0 +1,15 @@
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\15_ReverseSinglyLinkedList\bin\Debug\net8.0\15_ReverseSinglyLinkedList.exe
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\15_ReverseSinglyLinkedList\bin\Debug\net8.0\15_ReverseSinglyLinkedList.deps.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\15_ReverseSinglyLinkedList\bin\Debug\net8.0\15_ReverseSinglyLinkedList.runtimeconfig.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\15_ReverseSinglyLinkedList\bin\Debug\net8.0\15_ReverseSinglyLinkedList.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\15_ReverseSinglyLinkedList\bin\Debug\net8.0\15_ReverseSinglyLinkedList.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\15_ReverseSinglyLinkedList\obj\Debug\net8.0\15_ReverseSinglyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\15_ReverseSinglyLinkedList\obj\Debug\net8.0\15_ReverseSinglyLinkedList.AssemblyInfoInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\15_ReverseSinglyLinkedList\obj\Debug\net8.0\15_ReverseSinglyLinkedList.AssemblyInfo.cs
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\15_ReverseSinglyLinkedList\obj\Debug\net8.0\15_ReverseSinglyLinkedList.csproj.CoreCompileInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\15_ReverseSinglyLinkedList\obj\Debug\net8.0\15_ReverseSinglyLinkedList.sourcelink.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\15_ReverseSinglyLinkedList\obj\Debug\net8.0\15_ReverseSinglyLinkedList.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\15_ReverseSinglyLinkedList\obj\Debug\net8.0\refint\15_ReverseSinglyLinkedList.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\15_ReverseSinglyLinkedList\obj\Debug\net8.0\15_ReverseSinglyLinkedList.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\15_ReverseSinglyLinkedList\obj\Debug\net8.0\15_ReverseSinglyLinkedList.genruntimeconfig.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\SinglyLinkedList\15_ReverseSinglyLinkedList\obj\Debug\net8.0\ref\15_ReverseSinglyLinkedList.dll

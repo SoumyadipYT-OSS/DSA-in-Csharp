@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("13_removeDuplicateSortedSinglyLinkedList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c27aa30e843fbda1c4aca2a61a313116c9b9b18")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3eb9ab13f76fbb2b78482c00ecd4c626434163fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("13_removeDuplicateSortedSinglyLinkedList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("13_removeDuplicateSortedSinglyLinkedList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

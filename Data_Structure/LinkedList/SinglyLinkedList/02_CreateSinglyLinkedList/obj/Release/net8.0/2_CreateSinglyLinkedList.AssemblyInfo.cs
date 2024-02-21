@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2_CreateSinglyLinkedList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d599ccc097630f4925a162578f9670c3f6127ff5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3eb9ab13f76fbb2b78482c00ecd4c626434163fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("2_CreateSinglyLinkedList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2_CreateSinglyLinkedList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
