@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("16_find_NthNode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+663e4e8f510065e3799ed7266cb2ed9ed542ba21")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39485b66a395e69c4ba383834e79c05e2e8ed3a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("16_find_NthNode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("16_find_NthNode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

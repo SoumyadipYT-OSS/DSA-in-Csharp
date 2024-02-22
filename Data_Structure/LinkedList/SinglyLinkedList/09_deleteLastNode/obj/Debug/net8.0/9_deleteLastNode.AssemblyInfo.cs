@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("9_deleteLastNode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3eb9ab13f76fbb2b78482c00ecd4c626434163fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39485b66a395e69c4ba383834e79c05e2e8ed3a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("9_deleteLastNode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("9_deleteLastNode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

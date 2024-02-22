@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("18_detectStartIndexLoop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2a13b2c24039f552fc11293d1ee1a264325069b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39485b66a395e69c4ba383834e79c05e2e8ed3a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("18_detectStartIndexLoop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("18_detectStartIndexLoop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
