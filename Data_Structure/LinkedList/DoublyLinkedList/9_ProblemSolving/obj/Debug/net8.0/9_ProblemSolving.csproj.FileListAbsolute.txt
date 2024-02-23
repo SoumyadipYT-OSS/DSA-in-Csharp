@@ -1,0 +1,15 @@
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\9_ProblemSolving\bin\Debug\net8.0\9_ProblemSolving.exe
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\9_ProblemSolving\bin\Debug\net8.0\9_ProblemSolving.deps.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\9_ProblemSolving\bin\Debug\net8.0\9_ProblemSolving.runtimeconfig.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\9_ProblemSolving\bin\Debug\net8.0\9_ProblemSolving.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\9_ProblemSolving\bin\Debug\net8.0\9_ProblemSolving.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\9_ProblemSolving\obj\Debug\net8.0\9_ProblemSolving.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\9_ProblemSolving\obj\Debug\net8.0\9_ProblemSolving.AssemblyInfoInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\9_ProblemSolving\obj\Debug\net8.0\9_ProblemSolving.AssemblyInfo.cs
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\9_ProblemSolving\obj\Debug\net8.0\9_ProblemSolving.csproj.CoreCompileInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\9_ProblemSolving\obj\Debug\net8.0\9_ProblemSolving.sourcelink.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\9_ProblemSolving\obj\Debug\net8.0\9_ProblemSolving.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\9_ProblemSolving\obj\Debug\net8.0\refint\9_ProblemSolving.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\9_ProblemSolving\obj\Debug\net8.0\9_ProblemSolving.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\9_ProblemSolving\obj\Debug\net8.0\9_ProblemSolving.genruntimeconfig.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\9_ProblemSolving\obj\Debug\net8.0\ref\9_ProblemSolving.dll
