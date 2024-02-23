@@ -1,0 +1,15 @@
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\6_deleteFirstNode\bin\Debug\net8.0\6_deleteFirstNode.exe
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\6_deleteFirstNode\bin\Debug\net8.0\6_deleteFirstNode.deps.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\6_deleteFirstNode\bin\Debug\net8.0\6_deleteFirstNode.runtimeconfig.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\6_deleteFirstNode\bin\Debug\net8.0\6_deleteFirstNode.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\6_deleteFirstNode\bin\Debug\net8.0\6_deleteFirstNode.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\6_deleteFirstNode\obj\Debug\net8.0\6_deleteFirstNode.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\6_deleteFirstNode\obj\Debug\net8.0\6_deleteFirstNode.AssemblyInfoInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\6_deleteFirstNode\obj\Debug\net8.0\6_deleteFirstNode.AssemblyInfo.cs
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\6_deleteFirstNode\obj\Debug\net8.0\6_deleteFirstNode.csproj.CoreCompileInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\6_deleteFirstNode\obj\Debug\net8.0\6_deleteFirstNode.sourcelink.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\6_deleteFirstNode\obj\Debug\net8.0\6_deleteFirstNode.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\6_deleteFirstNode\obj\Debug\net8.0\refint\6_deleteFirstNode.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\6_deleteFirstNode\obj\Debug\net8.0\6_deleteFirstNode.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\6_deleteFirstNode\obj\Debug\net8.0\6_deleteFirstNode.genruntimeconfig.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\6_deleteFirstNode\obj\Debug\net8.0\ref\6_deleteFirstNode.dll

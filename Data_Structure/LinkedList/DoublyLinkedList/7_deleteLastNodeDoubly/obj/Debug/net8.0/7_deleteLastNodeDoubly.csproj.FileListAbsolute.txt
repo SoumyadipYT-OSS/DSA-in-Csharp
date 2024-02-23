@@ -1,0 +1,15 @@
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\7_deleteLastNodeDoubly\obj\Debug\net8.0\7_deleteLastNodeDoubly.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\7_deleteLastNodeDoubly\obj\Debug\net8.0\7_deleteLastNodeDoubly.AssemblyInfoInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\7_deleteLastNodeDoubly\obj\Debug\net8.0\7_deleteLastNodeDoubly.AssemblyInfo.cs
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\7_deleteLastNodeDoubly\obj\Debug\net8.0\7_deleteLastNodeDoubly.csproj.CoreCompileInputs.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\7_deleteLastNodeDoubly\obj\Debug\net8.0\7_deleteLastNodeDoubly.sourcelink.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\7_deleteLastNodeDoubly\bin\Debug\net8.0\7_deleteLastNodeDoubly.exe
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\7_deleteLastNodeDoubly\bin\Debug\net8.0\7_deleteLastNodeDoubly.deps.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\7_deleteLastNodeDoubly\bin\Debug\net8.0\7_deleteLastNodeDoubly.runtimeconfig.json
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\7_deleteLastNodeDoubly\bin\Debug\net8.0\7_deleteLastNodeDoubly.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\7_deleteLastNodeDoubly\bin\Debug\net8.0\7_deleteLastNodeDoubly.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\7_deleteLastNodeDoubly\obj\Debug\net8.0\7_deleteLastNodeDoubly.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\7_deleteLastNodeDoubly\obj\Debug\net8.0\refint\7_deleteLastNodeDoubly.dll
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\7_deleteLastNodeDoubly\obj\Debug\net8.0\7_deleteLastNodeDoubly.pdb
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\7_deleteLastNodeDoubly\obj\Debug\net8.0\7_deleteLastNodeDoubly.genruntimeconfig.cache
+D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\DoublyLinkedList\7_deleteLastNodeDoubly\obj\Debug\net8.0\ref\7_deleteLastNodeDoubly.dll
