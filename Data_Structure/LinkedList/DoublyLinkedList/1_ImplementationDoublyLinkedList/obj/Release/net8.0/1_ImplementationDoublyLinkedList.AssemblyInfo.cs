@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1_ImplementationDoublyLinkedList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b43eb02de1f1abb69a920a699f0b48a90e1b00a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f630ce8ffeadf8bc84230a3ec6240a2de844f0f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("1_ImplementationDoublyLinkedList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1_ImplementationDoublyLinkedList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

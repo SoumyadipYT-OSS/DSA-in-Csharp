@@ -6,7 +6,7 @@
 
 
 namespace triangleIntegerSumTrianglePattern {
-    class Solution() {
+    class Solution {
         protected static void Sum(int indexVal) {
             for (int i=1; i<=indexVal; i++) {
                 int sum = 0;

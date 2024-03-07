@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("19_removeLoopSinglyLinkedList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d8c9092a19df5f15b48889f472a8bdf470371dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f630ce8ffeadf8bc84230a3ec6240a2de844f0f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("19_removeLoopSinglyLinkedList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("19_removeLoopSinglyLinkedList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
