@@ -1,0 +1,15 @@
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\ArrayList\07_InsertRange_Method\obj\Debug\net8.0\07_InsertRange_Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\ArrayList\07_InsertRange_Method\obj\Debug\net8.0\07_InsertRange_Method.AssemblyInfoInputs.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\ArrayList\07_InsertRange_Method\obj\Debug\net8.0\07_InsertRange_Method.AssemblyInfo.cs
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\ArrayList\07_InsertRange_Method\obj\Debug\net8.0\07_InsertRange_Method.csproj.CoreCompileInputs.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\ArrayList\07_InsertRange_Method\obj\Debug\net8.0\07_InsertRange_Method.sourcelink.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\ArrayList\07_InsertRange_Method\bin\Debug\net8.0\07_InsertRange_Method.exe
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\ArrayList\07_InsertRange_Method\bin\Debug\net8.0\07_InsertRange_Method.deps.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\ArrayList\07_InsertRange_Method\bin\Debug\net8.0\07_InsertRange_Method.runtimeconfig.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\ArrayList\07_InsertRange_Method\bin\Debug\net8.0\07_InsertRange_Method.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\ArrayList\07_InsertRange_Method\bin\Debug\net8.0\07_InsertRange_Method.pdb
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\ArrayList\07_InsertRange_Method\obj\Debug\net8.0\07_InsertRange_Method.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\ArrayList\07_InsertRange_Method\obj\Debug\net8.0\refint\07_InsertRange_Method.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\ArrayList\07_InsertRange_Method\obj\Debug\net8.0\07_InsertRange_Method.pdb
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\ArrayList\07_InsertRange_Method\obj\Debug\net8.0\07_InsertRange_Method.genruntimeconfig.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\ArrayList\07_InsertRange_Method\obj\Debug\net8.0\ref\07_InsertRange_Method.dll

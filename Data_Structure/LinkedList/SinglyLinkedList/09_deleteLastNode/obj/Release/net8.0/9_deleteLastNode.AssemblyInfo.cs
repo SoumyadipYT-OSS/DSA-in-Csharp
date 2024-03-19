@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("9_deleteLastNode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f630ce8ffeadf8bc84230a3ec6240a2de844f0f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6cfb6e9c3ed65eec91c7f152dd50ec1e1ffe4f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("9_deleteLastNode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("9_deleteLastNode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

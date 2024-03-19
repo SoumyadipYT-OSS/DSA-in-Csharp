@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "08_Remove_Methods/1.0.0": {
+        "runtime": {
+          "08_Remove_Methods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "08_Remove_Methods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
