@@ -144,6 +144,52 @@ namespace ArrayList_Properties {
 
 
 
+        /*
+            IsReadOnly: Gets a value indicating whether the ArrayList is read-only.
+            - If the ArrayList is read-only, then it returns true otherwise returns false.
+            - If the ArrayList is read-only, then you cannot edit the ArrayList.
+            - By default, the ArrayList is not read-only.
+            - You can set the read-only of the ArrayList using the IsReadOnly property.
+            - If the ArrayList is read-only, then you cannot change the capacity of the ArrayList.
+        */
+        protected static void ArrayList_IsReadOnly_Property() {
+            ArrayList al = new ArrayList();
+            al.Add("HP");
+            al.Add("DELL");
+            al.Add("ASUS");
+            al.Add("Lava");
+            al.Add("AGP Laptops");
+            al.Add("Micromax");
+
+            bool checkReadOnly = al.IsReadOnly;
+            Console.WriteLine("Is ArrayList read-only? " + checkReadOnly);
+        }
+
+
+
+
+        /*
+            Item: Gets or sets the element at the specified index.
+            - The index is zero-based.
+            - The Item property is used to get or set the element at the specified index.
+            - If you want to get the element at the specified index, then you can use the Item property.
+            - If you want to set the element at the specified index, then you can use the Item property.
+        */
+        protected static void Item_Property() {
+            ArrayList al = new ArrayList();
+            al.Add("C#");
+            al.Add("C");
+            al.Add("C++");
+            al.Add("Rust");
+            al.Add("Python");
+
+            Console.WriteLine("Element at index 2: " + al[2]);
+            al[2] = "Objective-C";
+            Display(al);
+        }
+
+
+
 
         // main method 
         static void Main(string[] args) {
