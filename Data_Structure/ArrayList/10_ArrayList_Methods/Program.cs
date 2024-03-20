@@ -62,6 +62,25 @@ namespace ArrayList_Properties {
                 increase as per your new added elements, then you can use the TrimToSize() method.
                 In the example we will see how to use the TrimToSize() method.
             */
+            Console.WriteLine("\t - Example 4:");
+            ArrayList al4 = new ArrayList(5);  // Set capacity to 5
+            al4.Add(21);
+            al4.Add(22);
+            al4.Add(23);
+            al4.Add(24);
+            al4.Add(25);
+            al4.Add(26);
+            al4.Add(27);
+            al4.Add(28);
+
+            // now the capacity will be increased to 10 because we have added 8 elements
+            // and the capacity will be doubled. (from 5 to 10)
+            // But we want to ensure that the capacity should be 8 only.
+            al4.TrimToSize();   // Now the capacity will be 8
+            Display(al4);
+            Console.WriteLine("ArrayList capacity: " + al4.Capacity);
+
+            // The TrimToSize() method is used to optimize the memory of the ArrayList.
         }
 
 
