@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "10_ArrayList_Methods/1.0.0": {
+        "runtime": {
+          "10_ArrayList_Methods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "10_ArrayList_Methods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
