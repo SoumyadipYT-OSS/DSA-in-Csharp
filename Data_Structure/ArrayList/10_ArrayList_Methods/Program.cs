@@ -116,6 +116,32 @@ namespace ArrayList_Properties {
             - You can set the fixed size of the ArrayList using the IsFixedSize property.
             - If the ArrayList has a fixed size, then you cannot change the capacity of the ArrayList.
         */
+        protected static void ArrayList_IsFixedSize_Property() {
+            ArrayList al = new ArrayList();
+            al.Add("Banana");
+            al.Add("Apple");
+            al.Add("Mango");
+            al.Add("Grapes");
+            al.Add("Orange")
+
+            bool checkFixedSize = al.IsFixedSize;
+            Console.WriteLine("Is ArrayList fixed size? " + checkFixedSize);
+
+
+            ArrayList al2 = new ArrayList(5);
+            al.Add("Pineapple");
+            al.Add("Papaya");
+            al.Add("Guava");
+            al.Add("Watermelon");
+            al.Add("Kiwi");
+            bool checkFixedSize2 = al2.IsFixedSize;
+            Console.WriteLine("Is ArrayList fixed size? " + checkFixedSize2);
+
+            ArrayList myFixedSizeAL = ArrayList.FixedSize(al);
+            Console.WriteLine("myAL {0}.", myFixedSizeAL.IsFixedSize ? "is fixed size" : "is not fixed size");
+        }
+
+
 
 
 
