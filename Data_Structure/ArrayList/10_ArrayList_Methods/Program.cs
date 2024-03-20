@@ -22,14 +22,14 @@ namespace ArrayList_Properties {
         */
         protected static void ArrayList_Capacity() {
             Console.WriteLine("_Capacity_");
-            Console.WriteLine("\t - Example 1:");
+            Console.WriteLine(" - Example 1:");
             ArrayList al = new ArrayList();
             al.Add(1);
             al.Add(2);
             Display(al);
             Console.WriteLine("ArrayList capacity: " + al.Capacity);
 
-            Console.WriteLine("\t - Example 2:");
+            Console.WriteLine(" - Example 2:");
             ArrayList al2 = new ArrayList();
             al2.Add(5);
             al2.Add(6);
@@ -39,7 +39,7 @@ namespace ArrayList_Properties {
             Display(al2);
             Console.WriteLine("ArrayList capacity: " + al2.Capacity);
 
-            Console.WriteLine("\t - Example 3:");
+            Console.WriteLine(" - Example 3:");
             ArrayList al3 = new ArrayList(10);  // Set capacity to 10
             al3.Add(11);
             al3.Add(12);
@@ -62,7 +62,7 @@ namespace ArrayList_Properties {
                 increase as per your new added elements, then you can use the TrimToSize() method.
                 In the example we will see how to use the TrimToSize() method.
             */
-            Console.WriteLine("\t - Example 4:");
+            Console.WriteLine(" - Example 4:");
             ArrayList al4 = new ArrayList(5);  // Set capacity to 5
             al4.Add(21);
             al4.Add(22);
@@ -81,13 +81,49 @@ namespace ArrayList_Properties {
             Console.WriteLine("ArrayList capacity: " + al4.Capacity);
 
             // The TrimToSize() method is used to optimize the memory of the ArrayList.
+            // If we want to see the memory byte size of the ArrayList, then we can use the
+            // Capacity property and the sizeof() operator.
+            // If we put 'byte' in the sizeof() operator, then it will return the size of the ArrayList in bytes.
+            // If we put 'int' in the sizeof() operator, then it will return the size of the ArrayList in integers.
+            Console.WriteLine("Size of ArrayList(Byte): " + sizeof(byte) * al4.Capacity + " bytes.");
+            Console.WriteLine("Size of ArrayList(Int): " + sizeof(int) * al4.Capacity + " integers.");
         }
+
+
+
+        /*
+            Count: Gets the number of elements actually contained in the ArrayList. 
+        */
+        protected static void ArrayList_Count() {
+            Console.WriteLine("_Count_");
+            Console.WriteLine(" - Example 1:");
+            ArrayList al = new ArrayList();
+            al.Add(11);
+            al.Add(24);
+            al.Add(38);
+            
+            Display(al);
+            Console.WriteLine("ArrayList count: " + al.Count);
+        }
+
+
+
+        /*
+            IsFixedSize: Gets a value indicating whether the ArrayList has a fixed size.
+            - If the ArrayList has a fixed size, then it returns true otherwise returns false.
+            - If the ArrayList has a fixed size, then you cannot add or remove elements from the ArrayList.
+            - By default, the ArrayList does not have a fixed size.
+            - You can set the fixed size of the ArrayList using the IsFixedSize property.
+            - If the ArrayList has a fixed size, then you cannot change the capacity of the ArrayList.
+        */
 
 
 
         // main method 
         static void Main(string[] args) {
             ArrayList_Capacity();
+            Console.WriteLine("\n\n");
+            ArrayList_Count();
         }
     }
 }
