@@ -122,7 +122,7 @@ namespace ArrayList_Properties {
             al.Add("Apple");
             al.Add("Mango");
             al.Add("Grapes");
-            al.Add("Orange")
+            al.Add("Orange");
 
             bool checkFixedSize = al.IsFixedSize;
             Console.WriteLine("Is ArrayList fixed size? " + checkFixedSize);
