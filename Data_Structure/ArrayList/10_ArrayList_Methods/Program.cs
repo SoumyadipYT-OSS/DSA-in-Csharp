@@ -117,6 +117,7 @@ namespace ArrayList_Properties {
             - If the ArrayList has a fixed size, then you cannot change the capacity of the ArrayList.
         */
         protected static void ArrayList_IsFixedSize_Property() {
+            Console.WriteLine("_IsFixedSize_");
             ArrayList al = new ArrayList();
             al.Add("Banana");
             al.Add("Apple");
@@ -153,6 +154,7 @@ namespace ArrayList_Properties {
             - If the ArrayList is read-only, then you cannot change the capacity of the ArrayList.
         */
         protected static void ArrayList_IsReadOnly_Property() {
+            Console.WriteLine("_IsReadOnly_");
             ArrayList al = new ArrayList();
             al.Add("HP");
             al.Add("DELL");
@@ -176,6 +178,7 @@ namespace ArrayList_Properties {
             - If you want to set the element at the specified index, then you can use the Item property.
         */
         protected static void Item_Property() {
+            Console.WriteLine("_Item_Property_");
             ArrayList al = new ArrayList();
             al.Add("C#");
             al.Add("C");
@@ -191,11 +194,79 @@ namespace ArrayList_Properties {
 
 
 
+        /*
+            IsSynchronized: Gets a value indicating whether access to the 
+                            ArrayList is synchronized (thread safe).
+            - If the ArrayList is synchronized, then it returns true otherwise returns false.
+            - If the ArrayList is synchronized, then it is thread safe.
+            - By default, the ArrayList is not synchronized.
+            - You can set the synchronized of the ArrayList using the IsSynchronized property.
+        */
+        protected static void ArrayList_IsSynchronized_Property() {
+            Console.WriteLine("_IsSynchronized_");
+            ArrayList al = new ArrayList();
+            al.Add("C#");
+            al.Add("C");
+            al.Add("C++");
+            al.Add("Rust");
+            al.Add("Python");
+
+            bool checkSynchronized = al.IsSynchronized;
+            Console.WriteLine("Is ArrayList synchronized? " + checkSynchronized);
+        }
+
+
+        // method to make ArrayList synchronized
+        protected static void MakeArrayListSynchronized() {
+            Console.WriteLine("_MakeArrayListSynchronized_");
+            ArrayList al = new ArrayList();
+            al.Add("C#");
+            al.Add("C");
+            al.Add("C++");
+            al.Add("Rust");
+            al.Add("Python");
+
+            ArrayList mySyncAL = ArrayList.Synchronized(al);
+            Console.WriteLine("myAL {0}.", mySyncAL.IsSynchronized ? "is synchronized" : "is not synchronized");
+        }
+
+        /*
+          method SyncRoot to get the object that can be used to synchronize access to the ArrayList.
+          - The SyncRoot property returns an object that can be used to synchronize access to the ArrayList.
+          - If you want to synchronize access to the ArrayList, then you can use the SyncRoot property.
+        */
+        protected static void SyncRoot() {
+            Console.WriteLine("_SyncRoot_");
+            ArrayList al = new ArrayList();
+            al.Add("C#");
+            al.Add("C");
+            al.Add("C++");
+            al.Add("Rust");
+            al.Add("Python");
+
+            object obj = al.SyncRoot;
+            Console.WriteLine("SyncRoot: " + obj);
+        }
+
+
+
+
         // main method 
         static void Main(string[] args) {
             ArrayList_Capacity();
             Console.WriteLine("\n\n");
             ArrayList_Count();
+            Console.WriteLine("\n\n");
+            ArrayList_IsFixedSize_Property();
+            Console.WriteLine("\n\n");
+            ArrayList_IsReadOnly_Property();
+            Console.WriteLine("\n\n");
+            Item_Property();
+            Console.WriteLine("\n\n");
+            ArrayList_IsSynchronized_Property();
+            MakeArrayListSynchronized();
+            Console.WriteLine("\n\n");
+            SyncRoot();
         }
     }
 }
