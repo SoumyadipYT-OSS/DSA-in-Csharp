@@ -1,0 +1,15 @@
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\00_declares_a_structure\obj\Debug\net8.0\00_declares_a_structure.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\00_declares_a_structure\obj\Debug\net8.0\00_declares_a_structure.AssemblyInfoInputs.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\00_declares_a_structure\obj\Debug\net8.0\00_declares_a_structure.AssemblyInfo.cs
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\00_declares_a_structure\obj\Debug\net8.0\00_declares_a_structure.csproj.CoreCompileInputs.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\00_declares_a_structure\obj\Debug\net8.0\00_declares_a_structure.sourcelink.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\00_declares_a_structure\bin\Debug\net8.0\00_declares_a_structure.exe
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\00_declares_a_structure\bin\Debug\net8.0\00_declares_a_structure.deps.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\00_declares_a_structure\bin\Debug\net8.0\00_declares_a_structure.runtimeconfig.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\00_declares_a_structure\bin\Debug\net8.0\00_declares_a_structure.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\00_declares_a_structure\bin\Debug\net8.0\00_declares_a_structure.pdb
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\00_declares_a_structure\obj\Debug\net8.0\00_declares_a_structure.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\00_declares_a_structure\obj\Debug\net8.0\refint\00_declares_a_structure.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\00_declares_a_structure\obj\Debug\net8.0\00_declares_a_structure.pdb
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\00_declares_a_structure\obj\Debug\net8.0\00_declares_a_structure.genruntimeconfig.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\00_declares_a_structure\obj\Debug\net8.0\ref\00_declares_a_structure.dll
