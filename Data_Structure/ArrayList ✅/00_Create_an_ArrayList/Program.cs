@@ -17,4 +17,4 @@ namespace Csharp {
 
      For example, in the above code, the compiler will automatically determine that the 
      type of the variable 'al2' is ArrayList.
- */
+*/
