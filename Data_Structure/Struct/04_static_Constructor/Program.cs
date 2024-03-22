@@ -13,6 +13,7 @@ namespace staticConstructor_in_struct {
         }
     }
 
+    // Main method
     public class Solution {
         static void Main(string[] args) {
             ShapeArea p = ShapeArea.GetArea();

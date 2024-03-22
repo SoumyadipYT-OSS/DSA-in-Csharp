@@ -1,0 +1,15 @@
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\05_Events_in_structure\bin\Debug\net8.0\05_Events_in_structure.exe
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\05_Events_in_structure\bin\Debug\net8.0\05_Events_in_structure.deps.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\05_Events_in_structure\bin\Debug\net8.0\05_Events_in_structure.runtimeconfig.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\05_Events_in_structure\bin\Debug\net8.0\05_Events_in_structure.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\05_Events_in_structure\bin\Debug\net8.0\05_Events_in_structure.pdb
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\05_Events_in_structure\obj\Debug\net8.0\05_Events_in_structure.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\05_Events_in_structure\obj\Debug\net8.0\05_Events_in_structure.AssemblyInfoInputs.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\05_Events_in_structure\obj\Debug\net8.0\05_Events_in_structure.AssemblyInfo.cs
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\05_Events_in_structure\obj\Debug\net8.0\05_Events_in_structure.csproj.CoreCompileInputs.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\05_Events_in_structure\obj\Debug\net8.0\05_Events_in_structure.sourcelink.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\05_Events_in_structure\obj\Debug\net8.0\05_Events_in_structure.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\05_Events_in_structure\obj\Debug\net8.0\refint\05_Events_in_structure.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\05_Events_in_structure\obj\Debug\net8.0\05_Events_in_structure.pdb
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\05_Events_in_structure\obj\Debug\net8.0\05_Events_in_structure.genruntimeconfig.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\05_Events_in_structure\obj\Debug\net8.0\ref\05_Events_in_structure.dll

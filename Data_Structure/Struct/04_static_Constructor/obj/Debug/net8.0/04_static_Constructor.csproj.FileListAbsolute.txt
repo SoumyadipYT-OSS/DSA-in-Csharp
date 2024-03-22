@@ -1,0 +1,15 @@
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\04_static_Constructor\bin\Debug\net8.0\04_static_Constructor.exe
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\04_static_Constructor\bin\Debug\net8.0\04_static_Constructor.deps.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\04_static_Constructor\bin\Debug\net8.0\04_static_Constructor.runtimeconfig.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\04_static_Constructor\bin\Debug\net8.0\04_static_Constructor.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\04_static_Constructor\bin\Debug\net8.0\04_static_Constructor.pdb
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\04_static_Constructor\obj\Debug\net8.0\04_static_Constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\04_static_Constructor\obj\Debug\net8.0\04_static_Constructor.AssemblyInfoInputs.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\04_static_Constructor\obj\Debug\net8.0\04_static_Constructor.AssemblyInfo.cs
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\04_static_Constructor\obj\Debug\net8.0\04_static_Constructor.csproj.CoreCompileInputs.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\04_static_Constructor\obj\Debug\net8.0\04_static_Constructor.sourcelink.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\04_static_Constructor\obj\Debug\net8.0\04_static_Constructor.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\04_static_Constructor\obj\Debug\net8.0\refint\04_static_Constructor.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\04_static_Constructor\obj\Debug\net8.0\04_static_Constructor.pdb
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\04_static_Constructor\obj\Debug\net8.0\04_static_Constructor.genruntimeconfig.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\04_static_Constructor\obj\Debug\net8.0\ref\04_static_Constructor.dll
