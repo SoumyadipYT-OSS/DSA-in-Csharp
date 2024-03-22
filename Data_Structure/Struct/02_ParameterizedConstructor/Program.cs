@@ -1,5 +1,13 @@
 ﻿using System;
 
+/*
+   Important!
+    You must include all the members of the struct in the parameterized constructor.
+    Otherwise, you will get an compile-time error in C#. 
+    Because, in C#, you can't initialize the members of the struct outside the constructor.
+    So, you must include all the members of the struct in the parameterized constructor.
+ */
+
 namespace ParameterizedConstructor_on_Csharp {
     struct Student {
         public int registrationNumber;
