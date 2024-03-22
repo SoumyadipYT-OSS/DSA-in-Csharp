@@ -1,0 +1,15 @@
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\01_Constructors_in_Structure\obj\Debug\net8.0\01_Constructors_in_Structure.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\01_Constructors_in_Structure\obj\Debug\net8.0\01_Constructors_in_Structure.AssemblyInfoInputs.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\01_Constructors_in_Structure\obj\Debug\net8.0\01_Constructors_in_Structure.AssemblyInfo.cs
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\01_Constructors_in_Structure\obj\Debug\net8.0\01_Constructors_in_Structure.csproj.CoreCompileInputs.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\01_Constructors_in_Structure\obj\Debug\net8.0\01_Constructors_in_Structure.sourcelink.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\01_Constructors_in_Structure\bin\Debug\net8.0\01_Constructors_in_Structure.exe
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\01_Constructors_in_Structure\bin\Debug\net8.0\01_Constructors_in_Structure.deps.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\01_Constructors_in_Structure\bin\Debug\net8.0\01_Constructors_in_Structure.runtimeconfig.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\01_Constructors_in_Structure\bin\Debug\net8.0\01_Constructors_in_Structure.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\01_Constructors_in_Structure\bin\Debug\net8.0\01_Constructors_in_Structure.pdb
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\01_Constructors_in_Structure\obj\Debug\net8.0\01_Constructors_in_Structure.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\01_Constructors_in_Structure\obj\Debug\net8.0\refint\01_Constructors_in_Structure.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\01_Constructors_in_Structure\obj\Debug\net8.0\01_Constructors_in_Structure.pdb
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\01_Constructors_in_Structure\obj\Debug\net8.0\01_Constructors_in_Structure.genruntimeconfig.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\01_Constructors_in_Structure\obj\Debug\net8.0\ref\01_Constructors_in_Structure.dll
