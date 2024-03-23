@@ -1,0 +1,15 @@
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\06_Events_Action_Delegate\bin\Debug\net8.0\06_Events_Action_Delegate.exe
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\06_Events_Action_Delegate\bin\Debug\net8.0\06_Events_Action_Delegate.deps.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\06_Events_Action_Delegate\bin\Debug\net8.0\06_Events_Action_Delegate.runtimeconfig.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\06_Events_Action_Delegate\bin\Debug\net8.0\06_Events_Action_Delegate.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\06_Events_Action_Delegate\bin\Debug\net8.0\06_Events_Action_Delegate.pdb
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\06_Events_Action_Delegate\obj\Debug\net8.0\06_Events_Action_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\06_Events_Action_Delegate\obj\Debug\net8.0\06_Events_Action_Delegate.AssemblyInfoInputs.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\06_Events_Action_Delegate\obj\Debug\net8.0\06_Events_Action_Delegate.AssemblyInfo.cs
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\06_Events_Action_Delegate\obj\Debug\net8.0\06_Events_Action_Delegate.csproj.CoreCompileInputs.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\06_Events_Action_Delegate\obj\Debug\net8.0\06_Events_Action_Delegate.sourcelink.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\06_Events_Action_Delegate\obj\Debug\net8.0\06_Events_Action_Delegate.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\06_Events_Action_Delegate\obj\Debug\net8.0\refint\06_Events_Action_Delegate.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\06_Events_Action_Delegate\obj\Debug\net8.0\06_Events_Action_Delegate.pdb
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\06_Events_Action_Delegate\obj\Debug\net8.0\06_Events_Action_Delegate.genruntimeconfig.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Struct\06_Events_Action_Delegate\obj\Debug\net8.0\ref\06_Events_Action_Delegate.dll
