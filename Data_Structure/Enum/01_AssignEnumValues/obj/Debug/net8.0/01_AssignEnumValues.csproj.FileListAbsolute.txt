@@ -1,0 +1,15 @@
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Enum\01_AssignEnumValues\bin\Debug\net8.0\01_AssignEnumValues.exe
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Enum\01_AssignEnumValues\bin\Debug\net8.0\01_AssignEnumValues.deps.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Enum\01_AssignEnumValues\bin\Debug\net8.0\01_AssignEnumValues.runtimeconfig.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Enum\01_AssignEnumValues\bin\Debug\net8.0\01_AssignEnumValues.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Enum\01_AssignEnumValues\bin\Debug\net8.0\01_AssignEnumValues.pdb
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Enum\01_AssignEnumValues\obj\Debug\net8.0\01_AssignEnumValues.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Enum\01_AssignEnumValues\obj\Debug\net8.0\01_AssignEnumValues.AssemblyInfoInputs.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Enum\01_AssignEnumValues\obj\Debug\net8.0\01_AssignEnumValues.AssemblyInfo.cs
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Enum\01_AssignEnumValues\obj\Debug\net8.0\01_AssignEnumValues.csproj.CoreCompileInputs.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Enum\01_AssignEnumValues\obj\Debug\net8.0\01_AssignEnumValues.sourcelink.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Enum\01_AssignEnumValues\obj\Debug\net8.0\01_AssignEnumValues.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Enum\01_AssignEnumValues\obj\Debug\net8.0\refint\01_AssignEnumValues.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Enum\01_AssignEnumValues\obj\Debug\net8.0\01_AssignEnumValues.pdb
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Enum\01_AssignEnumValues\obj\Debug\net8.0\01_AssignEnumValues.genruntimeconfig.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\Enum\01_AssignEnumValues\obj\Debug\net8.0\ref\01_AssignEnumValues.dll
