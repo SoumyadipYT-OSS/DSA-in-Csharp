@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub repo connections\\DSA-in-Csharp\\Data_Structure\\AnonymousType\\pr4_InternalName\\pr4_InternalName.csproj",
+      "projectUniqueName": "D:\\GitHub repo connections\\DSA-in-Csharp\\Data_Structure\\AnonymousType✅\\pr4_InternalName\\pr4_InternalName.csproj",
       "projectName": "pr4_InternalName",
-      "projectPath": "D:\\GitHub repo connections\\DSA-in-Csharp\\Data_Structure\\AnonymousType\\pr4_InternalName\\pr4_InternalName.csproj",
+      "projectPath": "D:\\GitHub repo connections\\DSA-in-Csharp\\Data_Structure\\AnonymousType✅\\pr4_InternalName\\pr4_InternalName.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub repo connections\\DSA-in-Csharp\\Data_Structure\\AnonymousType\\pr4_InternalName\\obj\\",
+      "outputPath": "D:\\GitHub repo connections\\DSA-in-Csharp\\Data_Structure\\AnonymousType✅\\pr4_InternalName\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"

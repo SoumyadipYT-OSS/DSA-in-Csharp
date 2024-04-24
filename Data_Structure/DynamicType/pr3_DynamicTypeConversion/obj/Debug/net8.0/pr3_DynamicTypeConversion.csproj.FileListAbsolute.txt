@@ -1,0 +1,15 @@
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\DynamicType\pr3_DynamicTypeConversion\bin\Debug\net8.0\pr3_DynamicTypeConversion.exe
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\DynamicType\pr3_DynamicTypeConversion\bin\Debug\net8.0\pr3_DynamicTypeConversion.deps.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\DynamicType\pr3_DynamicTypeConversion\bin\Debug\net8.0\pr3_DynamicTypeConversion.runtimeconfig.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\DynamicType\pr3_DynamicTypeConversion\bin\Debug\net8.0\pr3_DynamicTypeConversion.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\DynamicType\pr3_DynamicTypeConversion\bin\Debug\net8.0\pr3_DynamicTypeConversion.pdb
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\DynamicType\pr3_DynamicTypeConversion\obj\Debug\net8.0\pr3_DynamicTypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\DynamicType\pr3_DynamicTypeConversion\obj\Debug\net8.0\pr3_DynamicTypeConversion.AssemblyInfoInputs.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\DynamicType\pr3_DynamicTypeConversion\obj\Debug\net8.0\pr3_DynamicTypeConversion.AssemblyInfo.cs
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\DynamicType\pr3_DynamicTypeConversion\obj\Debug\net8.0\pr3_DynamicTypeConversion.csproj.CoreCompileInputs.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\DynamicType\pr3_DynamicTypeConversion\obj\Debug\net8.0\pr3_DynamicTypeConversion.sourcelink.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\DynamicType\pr3_DynamicTypeConversion\obj\Debug\net8.0\pr3_DynamicTypeConversion.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\DynamicType\pr3_DynamicTypeConversion\obj\Debug\net8.0\refint\pr3_DynamicTypeConversion.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\DynamicType\pr3_DynamicTypeConversion\obj\Debug\net8.0\pr3_DynamicTypeConversion.pdb
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\DynamicType\pr3_DynamicTypeConversion\obj\Debug\net8.0\pr3_DynamicTypeConversion.genruntimeconfig.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\DynamicType\pr3_DynamicTypeConversion\obj\Debug\net8.0\ref\pr3_DynamicTypeConversion.dll
