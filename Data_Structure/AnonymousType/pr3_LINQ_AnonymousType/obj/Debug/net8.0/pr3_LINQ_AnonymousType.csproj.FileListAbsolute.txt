@@ -1,0 +1,15 @@
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr3_LINQ_AnonymousType\obj\Debug\net8.0\pr3_LINQ_AnonymousType.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr3_LINQ_AnonymousType\obj\Debug\net8.0\pr3_LINQ_AnonymousType.AssemblyInfoInputs.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr3_LINQ_AnonymousType\obj\Debug\net8.0\pr3_LINQ_AnonymousType.AssemblyInfo.cs
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr3_LINQ_AnonymousType\obj\Debug\net8.0\pr3_LINQ_AnonymousType.csproj.CoreCompileInputs.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr3_LINQ_AnonymousType\obj\Debug\net8.0\pr3_LINQ_AnonymousType.sourcelink.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr3_LINQ_AnonymousType\bin\Debug\net8.0\pr3_LINQ_AnonymousType.exe
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr3_LINQ_AnonymousType\bin\Debug\net8.0\pr3_LINQ_AnonymousType.deps.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr3_LINQ_AnonymousType\bin\Debug\net8.0\pr3_LINQ_AnonymousType.runtimeconfig.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr3_LINQ_AnonymousType\bin\Debug\net8.0\pr3_LINQ_AnonymousType.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr3_LINQ_AnonymousType\bin\Debug\net8.0\pr3_LINQ_AnonymousType.pdb
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr3_LINQ_AnonymousType\obj\Debug\net8.0\pr3_LINQ_AnonymousType.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr3_LINQ_AnonymousType\obj\Debug\net8.0\refint\pr3_LINQ_AnonymousType.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr3_LINQ_AnonymousType\obj\Debug\net8.0\pr3_LINQ_AnonymousType.pdb
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr3_LINQ_AnonymousType\obj\Debug\net8.0\pr3_LINQ_AnonymousType.genruntimeconfig.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr3_LINQ_AnonymousType\obj\Debug\net8.0\ref\pr3_LINQ_AnonymousType.dll

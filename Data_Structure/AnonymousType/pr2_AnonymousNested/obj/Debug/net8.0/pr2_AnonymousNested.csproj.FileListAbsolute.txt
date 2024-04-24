@@ -1,0 +1,15 @@
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr2_AnonymousNested\bin\Debug\net8.0\pr2_AnonymousNested.exe
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr2_AnonymousNested\bin\Debug\net8.0\pr2_AnonymousNested.deps.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr2_AnonymousNested\bin\Debug\net8.0\pr2_AnonymousNested.runtimeconfig.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr2_AnonymousNested\bin\Debug\net8.0\pr2_AnonymousNested.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr2_AnonymousNested\bin\Debug\net8.0\pr2_AnonymousNested.pdb
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr2_AnonymousNested\obj\Debug\net8.0\pr2_AnonymousNested.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr2_AnonymousNested\obj\Debug\net8.0\pr2_AnonymousNested.AssemblyInfoInputs.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr2_AnonymousNested\obj\Debug\net8.0\pr2_AnonymousNested.AssemblyInfo.cs
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr2_AnonymousNested\obj\Debug\net8.0\pr2_AnonymousNested.csproj.CoreCompileInputs.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr2_AnonymousNested\obj\Debug\net8.0\pr2_AnonymousNested.sourcelink.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr2_AnonymousNested\obj\Debug\net8.0\pr2_AnonymousNested.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr2_AnonymousNested\obj\Debug\net8.0\refint\pr2_AnonymousNested.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr2_AnonymousNested\obj\Debug\net8.0\pr2_AnonymousNested.pdb
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr2_AnonymousNested\obj\Debug\net8.0\pr2_AnonymousNested.genruntimeconfig.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr2_AnonymousNested\obj\Debug\net8.0\ref\pr2_AnonymousNested.dll
