@@ -1,0 +1,15 @@
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\StringBuilder\pr2_RetrieveString\obj\Debug\net8.0\pr2_RetrieveString.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\StringBuilder\pr2_RetrieveString\obj\Debug\net8.0\pr2_RetrieveString.AssemblyInfoInputs.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\StringBuilder\pr2_RetrieveString\obj\Debug\net8.0\pr2_RetrieveString.AssemblyInfo.cs
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\StringBuilder\pr2_RetrieveString\obj\Debug\net8.0\pr2_RetrieveString.csproj.CoreCompileInputs.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\StringBuilder\pr2_RetrieveString\obj\Debug\net8.0\pr2_RetrieveString.sourcelink.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\StringBuilder\pr2_RetrieveString\bin\Debug\net8.0\pr2_RetrieveString.exe
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\StringBuilder\pr2_RetrieveString\bin\Debug\net8.0\pr2_RetrieveString.deps.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\StringBuilder\pr2_RetrieveString\bin\Debug\net8.0\pr2_RetrieveString.runtimeconfig.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\StringBuilder\pr2_RetrieveString\bin\Debug\net8.0\pr2_RetrieveString.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\StringBuilder\pr2_RetrieveString\bin\Debug\net8.0\pr2_RetrieveString.pdb
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\StringBuilder\pr2_RetrieveString\obj\Debug\net8.0\pr2_RetrieveString.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\StringBuilder\pr2_RetrieveString\obj\Debug\net8.0\refint\pr2_RetrieveString.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\StringBuilder\pr2_RetrieveString\obj\Debug\net8.0\pr2_RetrieveString.pdb
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\StringBuilder\pr2_RetrieveString\obj\Debug\net8.0\pr2_RetrieveString.genruntimeconfig.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\StringBuilder\pr2_RetrieveString\obj\Debug\net8.0\ref\pr2_RetrieveString.dll

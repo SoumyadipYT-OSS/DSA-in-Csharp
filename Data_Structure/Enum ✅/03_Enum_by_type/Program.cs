@@ -29,4 +29,4 @@ namespace Enum_By_type {
     By default, the underlying data type for the enum is int.
     You can specify another integral numeric type by using a colon after the enum name.
     In the above example, we have specified the underlying data type of the enum as 'byte'.
- */
+*/
