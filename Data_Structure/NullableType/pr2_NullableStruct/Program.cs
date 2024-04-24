@@ -1,23 +1,21 @@
 ﻿using System;
-using System.Text;
 
-namespace NULLABLE_STRUCT {
+namespace NullableStructExample {
     [Serializable]
     public struct Nullable<T> where T : struct {
-        public bool HasValue { get; }
-        public T value { get;  }
+        private readonly T? _value; // Use T? instead of T
 
-        // other implementation
+        public bool HasValue => _value.HasValue;
+        public T Value => _value.GetValueOrDefault();
+
+        public Nullable(T? value) {
+            _value = value;
+        }
     }
 
     class Solution {
         static void Main(string[] args) {
-            Nullable<int> i = null;
-
-            if (i.HasValue)
-                Console.WriteLine(i.value);
-            else
-                Console.WriteLine("Null");
+            
         }
     }
 }
