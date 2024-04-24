@@ -1,0 +1,15 @@
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\StringBuilder\pr3_methods\obj\Debug\net8.0\pr3_methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\StringBuilder\pr3_methods\obj\Debug\net8.0\pr3_methods.AssemblyInfoInputs.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\StringBuilder\pr3_methods\obj\Debug\net8.0\pr3_methods.AssemblyInfo.cs
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\StringBuilder\pr3_methods\obj\Debug\net8.0\pr3_methods.csproj.CoreCompileInputs.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\StringBuilder\pr3_methods\obj\Debug\net8.0\pr3_methods.sourcelink.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\StringBuilder\pr3_methods\bin\Debug\net8.0\pr3_methods.exe
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\StringBuilder\pr3_methods\bin\Debug\net8.0\pr3_methods.deps.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\StringBuilder\pr3_methods\bin\Debug\net8.0\pr3_methods.runtimeconfig.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\StringBuilder\pr3_methods\bin\Debug\net8.0\pr3_methods.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\StringBuilder\pr3_methods\bin\Debug\net8.0\pr3_methods.pdb
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\StringBuilder\pr3_methods\obj\Debug\net8.0\pr3_methods.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\StringBuilder\pr3_methods\obj\Debug\net8.0\refint\pr3_methods.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\StringBuilder\pr3_methods\obj\Debug\net8.0\pr3_methods.pdb
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\StringBuilder\pr3_methods\obj\Debug\net8.0\pr3_methods.genruntimeconfig.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\StringBuilder\pr3_methods\obj\Debug\net8.0\ref\pr3_methods.dll
