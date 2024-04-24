@@ -1,0 +1,15 @@
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr4_InternalName\bin\Debug\net8.0\pr4_InternalName.exe
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr4_InternalName\bin\Debug\net8.0\pr4_InternalName.deps.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr4_InternalName\bin\Debug\net8.0\pr4_InternalName.runtimeconfig.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr4_InternalName\bin\Debug\net8.0\pr4_InternalName.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr4_InternalName\bin\Debug\net8.0\pr4_InternalName.pdb
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr4_InternalName\obj\Debug\net8.0\pr4_InternalName.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr4_InternalName\obj\Debug\net8.0\pr4_InternalName.AssemblyInfoInputs.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr4_InternalName\obj\Debug\net8.0\pr4_InternalName.AssemblyInfo.cs
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr4_InternalName\obj\Debug\net8.0\pr4_InternalName.csproj.CoreCompileInputs.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr4_InternalName\obj\Debug\net8.0\pr4_InternalName.sourcelink.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr4_InternalName\obj\Debug\net8.0\pr4_InternalName.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr4_InternalName\obj\Debug\net8.0\refint\pr4_InternalName.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr4_InternalName\obj\Debug\net8.0\pr4_InternalName.pdb
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr4_InternalName\obj\Debug\net8.0\pr4_InternalName.genruntimeconfig.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\AnonymousType\pr4_InternalName\obj\Debug\net8.0\ref\pr4_InternalName.dll
