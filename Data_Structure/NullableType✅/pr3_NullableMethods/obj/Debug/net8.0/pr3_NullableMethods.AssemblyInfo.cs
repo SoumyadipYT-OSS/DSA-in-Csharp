@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pr3_NullableMethods")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d33cdd36f913114020140ee7d2e4011ca7f997d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63a3c9283e977c1a056acdb0e61330aee58906a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("pr3_NullableMethods")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pr3_NullableMethods")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

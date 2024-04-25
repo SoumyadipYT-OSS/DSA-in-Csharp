@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pr1_DynamicType")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b96e882a0d3adef4c7d31f2d4edfc931e2a74b8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63a3c9283e977c1a056acdb0e61330aee58906a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("pr1_DynamicType")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pr1_DynamicType")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
