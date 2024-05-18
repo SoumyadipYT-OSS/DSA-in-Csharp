@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01_AlgoInsertion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34e3c9c3f399219d4e4ff08f126a98f613501b29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84dd9fdc80b0b70e034af7be9e730cc819f26d24")]
 [assembly: System.Reflection.AssemblyProductAttribute("01_AlgoInsertion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01_AlgoInsertion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
