@@ -1,0 +1,15 @@
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\ValueType_and_ReferenceType\ValueType\02_Ex2\bin\Debug\net8.0\02_Ex2.exe
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\ValueType_and_ReferenceType\ValueType\02_Ex2\bin\Debug\net8.0\02_Ex2.deps.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\ValueType_and_ReferenceType\ValueType\02_Ex2\bin\Debug\net8.0\02_Ex2.runtimeconfig.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\ValueType_and_ReferenceType\ValueType\02_Ex2\bin\Debug\net8.0\02_Ex2.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\ValueType_and_ReferenceType\ValueType\02_Ex2\bin\Debug\net8.0\02_Ex2.pdb
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\ValueType_and_ReferenceType\ValueType\02_Ex2\obj\Debug\net8.0\02_Ex2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\ValueType_and_ReferenceType\ValueType\02_Ex2\obj\Debug\net8.0\02_Ex2.AssemblyInfoInputs.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\ValueType_and_ReferenceType\ValueType\02_Ex2\obj\Debug\net8.0\02_Ex2.AssemblyInfo.cs
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\ValueType_and_ReferenceType\ValueType\02_Ex2\obj\Debug\net8.0\02_Ex2.csproj.CoreCompileInputs.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\ValueType_and_ReferenceType\ValueType\02_Ex2\obj\Debug\net8.0\02_Ex2.sourcelink.json
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\ValueType_and_ReferenceType\ValueType\02_Ex2\obj\Debug\net8.0\02_Ex2.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\ValueType_and_ReferenceType\ValueType\02_Ex2\obj\Debug\net8.0\refint\02_Ex2.dll
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\ValueType_and_ReferenceType\ValueType\02_Ex2\obj\Debug\net8.0\02_Ex2.pdb
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\ValueType_and_ReferenceType\ValueType\02_Ex2\obj\Debug\net8.0\02_Ex2.genruntimeconfig.cache
+D:\GitHub repo connections\DSA-in-Csharp\Data_Structure\ValueType_and_ReferenceType\ValueType\02_Ex2\obj\Debug\net8.0\ref\02_Ex2.dll
