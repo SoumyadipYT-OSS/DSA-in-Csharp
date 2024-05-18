@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pr4_InternalName")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7fe3096c6eff63e708e6325d7dbb8d4d0cf396e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84dd9fdc80b0b70e034af7be9e730cc819f26d24")]
 [assembly: System.Reflection.AssemblyProductAttribute("pr4_InternalName")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pr4_InternalName")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

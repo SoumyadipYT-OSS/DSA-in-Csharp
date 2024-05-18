@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pr4_RemoveString")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c2439435140b13d4778cb375ebb1e49c07df4e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84dd9fdc80b0b70e034af7be9e730cc819f26d24")]
 [assembly: System.Reflection.AssemblyProductAttribute("pr4_RemoveString")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pr4_RemoveString")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

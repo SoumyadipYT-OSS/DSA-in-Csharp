@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("06_InsertElement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6cfb6e9c3ed65eec91c7f152dd50ec1e1ffe4f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84dd9fdc80b0b70e034af7be9e730cc819f26d24")]
 [assembly: System.Reflection.AssemblyProductAttribute("06_InsertElement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("06_InsertElement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03_Methods_properties_in_struct")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cd11a1a0e8b2812f82aeed0121475737c371a50")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84dd9fdc80b0b70e034af7be9e730cc819f26d24")]
 [assembly: System.Reflection.AssemblyProductAttribute("03_Methods_properties_in_struct")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03_Methods_properties_in_struct")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

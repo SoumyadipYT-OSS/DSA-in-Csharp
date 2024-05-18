@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("10_ArrayList_Methods")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ec13f127eee43df273a250b6742b88aaa3886d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84dd9fdc80b0b70e034af7be9e730cc819f26d24")]
 [assembly: System.Reflection.AssemblyProductAttribute("10_ArrayList_Methods")]
 [assembly: System.Reflection.AssemblyTitleAttribute("10_ArrayList_Methods")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

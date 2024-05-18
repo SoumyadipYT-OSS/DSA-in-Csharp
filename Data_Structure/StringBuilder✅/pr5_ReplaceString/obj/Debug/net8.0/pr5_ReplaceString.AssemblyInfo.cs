@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pr5_ReplaceString")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+862483962a5b9ead499953e1bbce25af54827e42")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84dd9fdc80b0b70e034af7be9e730cc819f26d24")]
 [assembly: System.Reflection.AssemblyProductAttribute("pr5_ReplaceString")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pr5_ReplaceString")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
