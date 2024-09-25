@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1YB2n7wAAIv95MatH9LNr75o8y/VJ/8VQejj1CGJ7syUI3/coK5vrDSZ+4RT24YmxUPogklVHH/XingMrjtbYw==",
+  "dgSpecHash": "ZRIi26l+7iM=",
   "success": true,
-  "projectFilePath": "D:\\GitHub repo connections\\DSA-in-Csharp\\Algorithms\\Sorting\\04_ImprovedBubbleSort\\04_ImprovedBubbleSort.csproj",
+  "projectFilePath": "/workspaces/DSA-in-Csharp/Algorithms/Sorting/04_ImprovedBubbleSort/04_ImprovedBubbleSort.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

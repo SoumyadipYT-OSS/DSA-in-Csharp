@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l1GAgINU5hk80nc4bYQ6ulbNbuqNL6vF8qVyxQumvSt8ziqi/48o5hP9DMxKkyaF+94v+lhRG5LlGncmBLCuFw==",
+  "dgSpecHash": "96CtUc9v3hA=",
   "success": true,
-  "projectFilePath": "D:\\GitHub repo connections\\DSA_Csharp\\DSA-in-Csharp\\Algorithms\\Sorting\\01_AlgoInsertion\\01_AlgoInsertion.csproj",
+  "projectFilePath": "/workspaces/DSA-in-Csharp/Algorithms/Sorting/01_AlgoInsertion/01_AlgoInsertion.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MN7Al6g+azvaVnpAI7Alvh89ywY7NZWOq9DJ1hZH0fIgoS+iJjMqbCJUnNL892LLJSwaBDTXH+dQ0tLtoqDVRw==",
+  "dgSpecHash": "mUly71+il1I=",
   "success": true,
-  "projectFilePath": "D:\\GitHub repo connections\\DSA-in-Csharp\\Algorithms\\Sorting\\02_MergeSort\\02_MergeSort.csproj",
+  "projectFilePath": "/workspaces/DSA-in-Csharp/Algorithms/Sorting/02_MergeSort/02_MergeSort.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
