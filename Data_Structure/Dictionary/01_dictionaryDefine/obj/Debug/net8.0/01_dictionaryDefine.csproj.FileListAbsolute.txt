@@ -1,0 +1,15 @@
+/workspaces/DSA-in-Csharp/Data_Structure/Dictionary/01_dictionaryDefine/obj/Debug/net8.0/01_dictionaryDefine.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DSA-in-Csharp/Data_Structure/Dictionary/01_dictionaryDefine/obj/Debug/net8.0/01_dictionaryDefine.AssemblyInfoInputs.cache
+/workspaces/DSA-in-Csharp/Data_Structure/Dictionary/01_dictionaryDefine/obj/Debug/net8.0/01_dictionaryDefine.AssemblyInfo.cs
+/workspaces/DSA-in-Csharp/Data_Structure/Dictionary/01_dictionaryDefine/obj/Debug/net8.0/01_dictionaryDefine.csproj.CoreCompileInputs.cache
+/workspaces/DSA-in-Csharp/Data_Structure/Dictionary/01_dictionaryDefine/obj/Debug/net8.0/01_dictionaryDefine.sourcelink.json
+/workspaces/DSA-in-Csharp/Data_Structure/Dictionary/01_dictionaryDefine/bin/Debug/net8.0/01_dictionaryDefine
+/workspaces/DSA-in-Csharp/Data_Structure/Dictionary/01_dictionaryDefine/bin/Debug/net8.0/01_dictionaryDefine.deps.json
+/workspaces/DSA-in-Csharp/Data_Structure/Dictionary/01_dictionaryDefine/bin/Debug/net8.0/01_dictionaryDefine.runtimeconfig.json
+/workspaces/DSA-in-Csharp/Data_Structure/Dictionary/01_dictionaryDefine/bin/Debug/net8.0/01_dictionaryDefine.dll
+/workspaces/DSA-in-Csharp/Data_Structure/Dictionary/01_dictionaryDefine/bin/Debug/net8.0/01_dictionaryDefine.pdb
+/workspaces/DSA-in-Csharp/Data_Structure/Dictionary/01_dictionaryDefine/obj/Debug/net8.0/01_dictionaryDefine.dll
+/workspaces/DSA-in-Csharp/Data_Structure/Dictionary/01_dictionaryDefine/obj/Debug/net8.0/refint/01_dictionaryDefine.dll
+/workspaces/DSA-in-Csharp/Data_Structure/Dictionary/01_dictionaryDefine/obj/Debug/net8.0/01_dictionaryDefine.pdb
+/workspaces/DSA-in-Csharp/Data_Structure/Dictionary/01_dictionaryDefine/obj/Debug/net8.0/01_dictionaryDefine.genruntimeconfig.cache
+/workspaces/DSA-in-Csharp/Data_Structure/Dictionary/01_dictionaryDefine/obj/Debug/net8.0/ref/01_dictionaryDefine.dll
