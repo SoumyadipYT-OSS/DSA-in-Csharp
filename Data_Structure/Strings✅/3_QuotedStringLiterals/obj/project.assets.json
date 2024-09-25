@@ -8,26 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {}
+    "/home/codespace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub repo connections\\DSA_Csharp\\DSA-in-Csharp\\Data_Structure\\Strings\\3_QuotedStringLiterals\\3_QuotedStringLiterals.csproj",
+      "projectUniqueName": "/workspaces/DSA-in-Csharp/Data_Structure/Strings✅/3_QuotedStringLiterals/3_QuotedStringLiterals.csproj",
       "projectName": "3_QuotedStringLiterals",
-      "projectPath": "D:\\GitHub repo connections\\DSA_Csharp\\DSA-in-Csharp\\Data_Structure\\Strings\\3_QuotedStringLiterals\\3_QuotedStringLiterals.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub repo connections\\DSA_Csharp\\DSA-in-Csharp\\Data_Structure\\Strings\\3_QuotedStringLiterals\\obj\\",
+      "projectPath": "/workspaces/DSA-in-Csharp/Data_Structure/Strings✅/3_QuotedStringLiterals/3_QuotedStringLiterals.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/workspaces/DSA-in-Csharp/Data_Structure/Strings✅/3_QuotedStringLiterals/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -40,6 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -61,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TZghOO+c7vGr9mZK/RUoFN8LgaKbCoOPeojmmfaE/E+2/1wx8PbwAMaTJO81+5/DuSp8xs+S461smRIm3V96ag==",
+  "dgSpecHash": "cBp8bJt4QBc=",
   "success": true,
-  "projectFilePath": "D:\\GitHub repo connections\\DSA_Csharp\\DSA-in-Csharp\\Data_Structure\\LinkedList\\1_LinkedListClass\\1_LinkedListClass.csproj",
+  "projectFilePath": "/workspaces/DSA-in-Csharp/Data_Structure/LinkedList/1_LinkedListClass/1_LinkedListClass.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

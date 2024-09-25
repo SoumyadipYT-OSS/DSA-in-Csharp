@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xoiqfWnKr9Q/V0ag9BP2eV3F4QJzq7eTARG8mAe3kqTm1/va2SuYKdthujC3dIAeAkaJcp8/oqY64cQRiNIWWA==",
+  "dgSpecHash": "knxzY727nCo=",
   "success": true,
-  "projectFilePath": "D:\\GitHub repo connections\\DSA-in-Csharp\\Data_Structure\\ValueType_and_ReferenceType\\ValueType\\03_Ex3_Class\\03_Ex3_Class.csproj",
+  "projectFilePath": "/workspaces/DSA-in-Csharp/Data_Structure/ValueType_and_ReferenceType/ValueType/03_Ex3_Class/03_Ex3_Class.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
