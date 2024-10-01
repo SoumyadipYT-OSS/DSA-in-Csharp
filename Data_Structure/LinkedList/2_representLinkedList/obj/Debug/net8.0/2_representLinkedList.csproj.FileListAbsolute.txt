@@ -1,5 +1,0 @@
-D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\2_representLinkedList\obj\Debug\net8.0\2_representLinkedList.GeneratedMSBuildEditorConfig.editorconfig
-D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\2_representLinkedList\obj\Debug\net8.0\2_representLinkedList.AssemblyInfoInputs.cache
-D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\2_representLinkedList\obj\Debug\net8.0\2_representLinkedList.AssemblyInfo.cs
-D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\2_representLinkedList\obj\Debug\net8.0\2_representLinkedList.csproj.CoreCompileInputs.cache
-D:\GitHub repo connections\DSA_Csharp\DSA-in-Csharp\Data_Structure\LinkedList\2_representLinkedList\obj\Debug\net8.0\2_representLinkedList.sourcelink.json
