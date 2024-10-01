@@ -3,9 +3,9 @@
 
 ![OIP](https://github.com/user-attachments/assets/9af1c82d-ee08-4e35-a182-407011f0c2db)          ![download](https://github.com/user-attachments/assets/f32be685-d351-4299-a197-04e2d0fcd134)
 
-**_!Important Notes: 
-	✅ This sign for complete all properties and methods for the class.
-	✔️ This sign for new features in C# 12_**
+### **_!Important Notes: 
+	#### ✅ This sign for complete all properties and methods for the class.
+	#### ✔️ This sign for new features in C# 12_**
 
 
 Welcome to the **DSA in CSharp** repository! This project is dedicated to providing comprehensive resources and code examples for mastering Data Structures and Algorithms (DSA) using C# 12 and .NET 8.
