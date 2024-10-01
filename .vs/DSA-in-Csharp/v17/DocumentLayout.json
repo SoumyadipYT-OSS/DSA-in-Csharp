@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub_repo_connections\\DSA-in-Csharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub_repo_connections\\DSA-in-Csharp\\DataStructure\\01_Array\\05_InlineArrays\u2714\uFE0F\\01_Declaration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataStructure\\01_Array\\05_InlineArrays\u2714\uFE0F\\01_Declaration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "01_Declaration.cs",
+              "DocumentMoniker": "D:\\GitHub_repo_connections\\DSA-in-Csharp\\DataStructure\\01_Array\\05_InlineArrays\u2714\uFE0F\\01_Declaration.cs",
+              "RelativeDocumentMoniker": "DataStructure\\01_Array\\05_InlineArrays\u2714\uFE0F\\01_Declaration.cs",
+              "ToolTip": "D:\\GitHub_repo_connections\\DSA-in-Csharp\\DataStructure\\01_Array\\05_InlineArrays\u2714\uFE0F\\01_Declaration.cs",
+              "RelativeToolTip": "DataStructure\\01_Array\\05_InlineArrays\u2714\uFE0F\\01_Declaration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T21:01:13.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
