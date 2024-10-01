@@ -34,6 +34,7 @@ This repository aims to be a one-stop resource for learning and mastering Data S
 
 - Arrays
 - Strings
+- Pointers
 - Linked Lists
 - Stacks
 - Queues
