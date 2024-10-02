@@ -23,14 +23,7 @@ The `Array.BinarySearch` method performs a binary search on a sorted array, usin
 
 The `Array.BinarySearch` method comes with several overloads to cater to different needs:
 
-1. `BinarySearch(Array, Object)`
-2. `BinarySearch(Array, Object, IComparer)`
-3. `BinarySearch(Array, Int32, Int32, Object)`
-4. `BinarySearch(Array, Int32, Int32, Object, IComparer)`
-5. `BinarySearch<T>(T[], T)`
-6. `BinarySearch<T>(T[], T, IComparer<T>)`
-7. `BinarySearch<T>(T[], Int32, Int32, T)`
-8. `BinarySearch<T>(T[], Int32, Int32, T, IComparer<T>)`
+
 
 ## BinarySearch(Array, Object)
 Searches an entire one-dimensional sorted array for a specific element, using
@@ -40,5 +33,5 @@ the *IComparable* interface implemented by each element of the array and by the 
 ```cs --region BinarySearch(Array, Object)
 public static int BinarySearch(Array array, object? value);
 ```
- 
+
  
