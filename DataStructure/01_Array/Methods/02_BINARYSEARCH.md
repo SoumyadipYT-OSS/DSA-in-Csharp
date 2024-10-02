@@ -163,6 +163,73 @@ public class BinarySearchExample {
 
 
 
+## BinarySearch(Array, Int32, Int32, Object, IComparer)
+Searches a range of elements in a one-dimensional sorted array for a value, 
+using the specified IComparer interface.
+
+**Syntax:**
+```cs --region BinarySearch(Array, Int32, Int32, Object, IComparer)
+public static int BinarySearch (Array array, int index, int length, object? value, System.Collections.IComparer? comparer);
+```
+
+**Example:**
+```cs
+using System;
+using System.Collections;
+
+public class BinarySearchExample {
+    public static void Main() {
+        // Create and sort an array of custom objects
+        Person[] people = {
+            new Person("Alice", 30),
+            new Person("Bob", 25),
+            new Person("Charlie", 35),
+            new Person("Diana", 28),
+            new Person("Eve", 22)
+        };
+        Array.Sort(people, new PersonComparer());
+
+        // Define the range to search within
+        int startIndex = 1; // Starting index of the range
+        int length = 3;     // Number of elements in the range
+
+        // Value to search for
+        Person personToFind = new Person("Charlie", 35);
+
+        // Perform binary search within the specified range using a custom comparer
+        int index = Array.BinarySearch(people, startIndex, length, personToFind, new PersonComparer());
+
+        // Check the result
+        if (index >= 0) {
+            Console.WriteLine($"Person {personToFind.Name} found at index {index}.");
+        } else {
+            Console.WriteLine($"Person {personToFind.Name} not found. Nearest index: {~index}.");
+        }
+    }
+}
+
+public class Person {
+    public string Name { get; }
+    public int Age { get; }
+
+    public Person(string name, int age) {
+        Name = name;
+        Age = age;
+    }
+}
+
+public class PersonComparer : IComparer {
+    public int Compare(object x, object y) {
+        if (x == null || y == null) {
+            return 0;
+        }
+        return ((Person)x).Name.CompareTo(((Person)y).Name);
+    }
+}
+
+```
+
+
 ## BinarySearch<T>(T[], T)
 Searches an entire one-dimensional sorted array for a specific element, 
 using the IComparable<T> generic interface implemented by each element 
@@ -381,4 +448,5 @@ binary searches on both primitive and custom data types. This method is particul
 datasets where performance is critical.
 
 ![signature](https://github.com/user-attachments/assets/748d14a3-56b1-4b11-abff-0a75eff93b16)
+
 Happy coding! 🚀
