@@ -4,8 +4,8 @@ Welcome to the comprehensive guide on the `Array.BinarySearch` method in C#! Thi
 
 ## 📚 In This Article
 
-1. Definition
-2. Overloads
+1. *Definition*
+2. *Overloads*
 3. BinarySearch(Array, Object)
 4. BinarySearch(Array, Object, IComparer)
 5. BinarySearch(Array, Int32, Int32, Object)
@@ -22,6 +22,18 @@ The `Array.BinarySearch` method performs a binary search on a sorted array, usin
 ## Overloads
 
 The `Array.BinarySearch` method comes with several overloads to cater to different needs:
+-------------
+| Overload | Description |
+|:-|:-|
+| BinarySearch(Array, Object) | Searches an entire one-dimensional sorted array for a specific element, using the *IComparable* interface implemented by each element of the array and by the specified object. |
+| BinarySearch(Array, Object, IComparer) | Searches an entire one-dimensional sorted array for a specific element, using the specified comparer. |
+| BinarySearch(Array, Int32, Int32, Object) | Searches a range of elements in a one-dimensional sorted array for a specific element, using the *IComparable* interface implemented by each element of the array and by the specified object. |
+| BinarySearch(Array, Int32, Int32, Object, IComparer) | Searches a range of elements in a one-dimensional sorted array for a specific element, using the specified comparer. |
+| BinarySearch\<T>(T[], T) | Searches an entire one-dimensional sorted generic array for a specific element. |
+| BinarySearch\<T>(T[], T, IComparer\<T>) | Searches an entire one-dimensional sorted generic array for a specific element, using the specified comparer. |
+| BinarySearch\<T>(T[], Int32, Int32, T) | Searches a range of elements in a one-dimensional sorted generic array for a specific element. |
+| BinarySearch\<T>(T[], Int32, Int32, T, IComparer\<T>) | Searches a range of elements in a one-dimensional sorted generic array for a specific element, using the specified comparer. |
+-------------
 
 
 
