@@ -10,7 +10,27 @@ public class CaseInsensitiveComparer : IComparer {
 }
 
 
-// For BinarySearchExample 5
+// For BinarySearchExample 4
+public class Car {
+    public string Make { get; }
+    public int Year { get; }
+
+    public Car(string make, int year) {
+        Make = make;
+        Year = year;
+    }
+}
+public class CarComparer : CaseInsensitiveComparer {
+    public int Compare(object x, object y) {
+        if (x == null  ||  y == null) {
+            return 0;
+        }
+        return ((Car)x).Make.CompareTo(((Car)y).Make);
+    }
+}
+
+
+// For BinarySearchExample 6
 public class Person {
     public string Name { get; }
     public int Age { get; }
@@ -76,39 +96,47 @@ class BinarySearchMethods {
     }
 
     protected static void BinarySearchExample4() {
-        int[] numbers = { 1, 3, 5, 7, 9, 11, 13 };
-        Array.Sort(numbers);
+        Car[] cars = {
+            new Car("Toyota", 2015),
+            new Car("Tata", 2016),
+            new Car("Eicher", 2012),
+            new Car("Mahindra", 2018),
+            new Car("BMW", 2020),
+            new Car("Aston Martin", 2022)
+        };
+        Array.Sort(cars, new CarComparer());
 
-        int valueToFind = 7;
+        int startIndex = 1;
+        int length = 3;
 
-        // BinarySearch(Array, Object, IComparer)
-        int index = Array.BinarySearch<int>(numbers, valueToFind);
+        Car carToFind = new Car("Aston Martin", 2022);
 
-        if (index >= 0) Console.WriteLine($"Value {valueToFind} Found at index {index}");
-        else Console.WriteLine($"Not found. Nearest index: {~index}");
+        // BinarySearch(Array, Int32, Int32, Object, IComparer)
+        int index = Array.BinarySearch(cars, startIndex, length, carToFind, new CarComparer());
+
+        if (index >= 0) Console.WriteLine($"Car {carToFind.Make} found at index {index}.");
+        else Console.WriteLine($"Car {carToFind.Make} not found. Nearest index: {~index}.");
     }
 
     protected static void BinarySearchExample5() {
-        Person[] people = {
-            new Person("Subhasis Majee", 22),
-            new Person("Dishant Yadav", 21),
-            new Person("Soumyadip Majumder", 21),
-            new Person("Swarup Karmakar", 20),
-            new Person("Sayan Chowdhury", 21),
-            new Person("Silad Roy Chowdhury", 22)
-        };
-        Array.Sort(people, new PersonComparer());
+        // Create and sort an array of integers
+        int[] numbers = { 1, 3, 5, 7, 9, 11, 13 };
+        Array.Sort(numbers);
 
-        Person personToFind = new Person("Soumyadip Majumder", 21);
+        // Value to search for
+        int valueToFind = 7;
 
-        // BinarySearch(T[], T, IComparer)
-        int index = Array.BinarySearch(people, personToFind, new PersonComparer());
+        // BinarySearch(T[], T)
+        int index = Array.BinarySearch<int>(numbers, valueToFind);
 
-        if (index >= 0) Console.WriteLine($"Person {personToFind.Name} found at index {index}");
-        else Console.WriteLine($"Not found. Nearest index: {~index}.");
+        // Check the result
+        if (index >= 0) Console.WriteLine($"Value {valueToFind} found at index {index}.");
+        else Console.WriteLine($"Value {valueToFind} not found. Nearest index: {~index}.");
     }
 
+    protected static void BinarySearchExample6() {
 
+    }
 
 
     // Main method
