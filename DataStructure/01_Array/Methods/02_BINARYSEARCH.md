@@ -371,3 +371,14 @@ public class PersonComparer : IComparer<Person> {
         return x.Name.CompareTo(y.Name);
     }
 }
+
+```
+
+## 📚 Conclusion
+Binary Search is a built-in method of `Array` class in C#. It is a powerful tool for efficiently searching sorted arrays. 
+By understanding the various overloads of the `Array.BinarySearch` method, you can leverage its capabilities to perform 
+binary searches on both primitive and custom data types. This method is particularly useful when working with large 
+datasets where performance is critical.
+
+
+Happy coding! 🚀
