@@ -20,7 +20,7 @@ public class Car {
         Year = year;
     }
 }
-public class CarComparer : CaseInsensitiveComparer {
+public class CarComparer : IComparer {
     public int Compare(object x, object y) {
         if (x == null  ||  y == null) {
             return 0;
@@ -194,7 +194,7 @@ class BinarySearchMethods {
         Person personToFind = new Person("Charlie", 35);
 
         // BinarySearch(T[], Int32, Int32, T, IComparer)
-        int index = Array.BinarySearch(people, startIndex, length, personToFind, new PersonComparer());
+        int index = Array.BinarySearch(footballers, startIndex, length, personToFind, new PersonComparer());
 
         // Check the result
         if (index >= 0) Console.WriteLine($"Person {personToFind.Name} found at index {index}.");
