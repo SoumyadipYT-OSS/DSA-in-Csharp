@@ -81,6 +81,21 @@ This repository aims to be a one-stop resource for learning and mastering Data S
 - Unsafe Code Blocks
 - Fixed Statement for Pinning Objects
 
+
+## Data Structures and Algorithms
+
+| Data Structure | Description                         | Complexity (Average) |
+|----------------|-------------------------------------|----------------------|
+| **Array**      | Collection of elements              | O(1) for access      |
+| **Linked List**| Sequence of nodes                   | O(n) for access      |
+| **Stack**      | LIFO (Last In, First Out) structure | O(1) for push/pop    |
+| **Queue**      | FIFO (First In, First Out) structure| O(1) for enqueue/dequeue |
+| **Tree**       | Hierarchical structure              | O(log n) for search  |
+| **Graph**      | Set of nodes connected by edges     | O(V+E) for traversal |
+| **Hash Table** | Key-value pairs                     | O(1) for search      |
+
+
+
 ## 🤝 Contributing
 
 We welcome contributions! Please read our Contributing Guidelines for more details.

@@ -1,0 +1,3 @@
+.vs/
+
+icacls .vs /grant SoumyadipYT-OSS:F /T
