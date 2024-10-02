@@ -11,11 +11,9 @@ public class StringSearcher {
     public bool StartsWith(string s) {
         if (string.IsNullOrEmpty(s)) return false;
 
-        if (s.Substring(0, 1).ToUpper() == firstChar.ToString()) return true;
-        else return false;
+        return s.Substring(0, 1).ToUpper() == firstChar.ToString();
     }
 }
-
 
 class Program {
     protected static void Example1() {
@@ -35,7 +33,7 @@ class Program {
         char[] charsToFind = { 'A', 'P', 'M', 'Y' };
 
         foreach (var findchar in charsToFind) {
-            Console.WriteLine("One or more names begin with {0} : {1}", findchar, Array.Exists(names, (new StringSearcher(charsToFind)).StartsWith);
+            Console.WriteLine("One or more names begin with {0} : {1}", findchar, Array.Exists(names, (new StringSearcher(findchar)).StartsWith));
         }
     }
 
@@ -50,11 +48,19 @@ class Program {
             Console.WriteLine("One or more names begin with {0}: {1}", cFind, Array.Exists(programmingLanguages, s => {
                 if (string.IsNullOrEmpty(s))
                     return false;
-                if (s.Substring(0, 1).ToUpper())
-                    return true;
-                else
-                    return false;
+                return s.Substring(0, 1).ToUpper() == cFind.ToString();
             }));
         }
+    }
+
+
+    // Main method
+    static void Main(string[] args) {
+        Console.WriteLine("---- Example 1 ----");
+        Example1();
+        Console.WriteLine("---- Example 2 ----");
+        Example2();
+        Console.WriteLine("---- Example 3 ----");
+        Example3();
     }
 }
