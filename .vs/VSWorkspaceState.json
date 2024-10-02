@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\DataStructure",
-    "\\DataStructure\\01_Array"
+    "\\DataStructure\\01_Array",
+    "\\DataStructure\\01_Array\\Methods"
   ],
-  "SelectedNode": "\\DataStructure\\01_Array\\Properties\u2705",
+  "SelectedNode": "\\DataStructure\\01_Array\\Methods\\02_BINARYSEARCH.md",
   "PreviewInSolutionExplorer": false
 }
