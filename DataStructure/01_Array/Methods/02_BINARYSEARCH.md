@@ -48,4 +48,3 @@ You can try out the code examples directly in your browser using the embedded Tr
 
 ```html
 <iframe src="https://try.dot.net/?fromGist=df44833326fcc575e8169fccb9d41fc7" width="100%" height="500px"></iframe>
-```
