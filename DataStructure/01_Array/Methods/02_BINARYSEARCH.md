@@ -38,12 +38,11 @@ the *IComparable* interface implemented by each element of the array and by the 
 
 **Syntax:**
 <div style="border-radius: 15px; border: 1px solid #ddd; padding: 10px; position: relative; background-color: #f9f9f9;">
-  <div style="position: absolute; top: 10px; left: 10px; font-weight: bold; color: #007acc;">C#</div>
-  <div style="position: absolute; top: 10px; right: 10px; cursor: pointer;" onclick="copyCode(this)">
-    ⎙
-  </div>
+  <div style="position: absolute; top: 10px; right: 10px; cursor: pointer;" onclick="copyCode(this)" />
   <pre><code class="language-csharp" style="color: #333;">
-public static int BinarySearch(Array array, object? value);
+
+	public static int BinarySearch(Array array, object? value);
+
   </code></pre>
 </div>
  
