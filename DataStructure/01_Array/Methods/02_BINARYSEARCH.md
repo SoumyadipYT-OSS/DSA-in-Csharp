@@ -46,4 +46,28 @@ the *IComparable* interface implemented by each element of the array and by the 
 public static int BinarySearch(Array array, object? value);
 ```
 
- 
+**Example:**
+```cs
+using System;
+
+public class BinarySearchExample {
+    public static void Main() {
+        // Create and sort an array
+        int[] numbers = { 1, 3, 5, 7, 9, 11, 13 };
+        Array.Sort(numbers);
+
+        // Value to search for
+        int valueToFind = 7;
+
+        // Perform binary search
+        int index = Array.BinarySearch(numbers, valueToFind);
+
+        // Check the result
+        if (index >= 0) {
+            Console.WriteLine($"Value {valueToFind} found at index {index}.");
+        } else {
+            Console.WriteLine($"Value {valueToFind} not found. Nearest index: {~index}.");
+        }
+    }
+}
+```
