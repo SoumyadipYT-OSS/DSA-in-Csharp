@@ -380,5 +380,5 @@ By understanding the various overloads of the `Array.BinarySearch` method, you c
 binary searches on both primitive and custom data types. This method is particularly useful when working with large 
 datasets where performance is critical.
 
-![signature](https://github.com/user-attachments/assets/0656c109-a2e1-4f66-a453-c25827206a1a)
+![Uploading signature.png…]()
 Happy coding! 🚀
