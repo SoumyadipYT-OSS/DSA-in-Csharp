@@ -46,5 +46,10 @@ public static int BinarySearch(Array array, object? value);
 
 You can try out the code examples directly in your browser using the embedded Try .NET editor below:
 
-```html
-<iframe src="https://try.dot.net/?fromGist=df44833326fcc575e8169fccb9d41fc7" width="100%" height="500px"></iframe>
+<div>
+	<div class="trydotnet-embed" data-theme="dark" data-lang="csharp" data-height="400px">
+		<pre data-lang="csharp" data-target="code">
+			<iframe src="https://try.dot.net/?fromGist=df44833326fcc575e8169fccb9d41fc7">
+			</iframe>	
+	</div>
+</div>
