@@ -28,4 +28,27 @@ class Example {
             return false;
         }
     }
+
+
+    static void Main() {
+        string[] dinosaurs = { "Compsognathus",
+            "Amargasaurus",   "Oviraptor",      "Velociraptor",
+            "Deinonychus",    "Dilophosaurus",  "Gallimimus",
+            "Triceratops" };
+
+        Console.WriteLine();
+        foreach (string dinosaur in dinosaurs) Console.WriteLine(dinosaur);
+
+        // Array.FindLastIndex<T>(T[], Predicate<T>)
+        Console.WriteLine("\nArray.FindLastIndex(dinosaurs, EndsWithSaurus): {0}",
+            Array.FindLastIndex(dinosaurs, EndsWithSaurus));
+
+        // Array.FindLastIndex<T>(T[], Int32, Predicate<T>)
+        Console.WriteLine("\nArray.FindLastIndex(dinosaurs, 2, EndsWithSaurus): {0}",
+            Array.FindLastIndex(dinosaurs, 2, EndsWithSaurus));
+
+        // Array.FindLastIndex<T>(T[], Int32, Int32, Predicate<T>)
+        Console.WriteLine("\nArray.FindLastIndex(dinosaurs, 2, 3, EndsWithSaurus): {0}",
+            Array.FindLastIndex(dinosaurs, 2, 3, EndsWithSaurus));
+    }
 }
