@@ -37,7 +37,7 @@ Searches an entire one-dimensional sorted array for a specific element, using
 the *IComparable* interface implemented by each element of the array and by the specified object.
 
 **Syntax:**
-```C#
+```cs --region BinarySearch(Array, Object)
 public static int BinarySearch(Array array, object? value);
 ```
  
