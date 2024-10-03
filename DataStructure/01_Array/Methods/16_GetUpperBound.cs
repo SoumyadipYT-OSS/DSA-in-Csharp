@@ -24,7 +24,7 @@ class Program {
         int upperBound1 = matrix.GetUpperBound(1);
 
         // Display the lower bounds
-        Console.WriteLine($"The upper bound of the first dimension is: {upperBound0}");
-        Console.WriteLine($"The upper bound of the second dimension is: {upperBound1}");
+        Console.WriteLine($"The upper bound of the first dimension (rows) is: {upperBound0}");
+        Console.WriteLine($"The upper bound of the second dimension(columns) is: {upperBound1}");
     }
 }
