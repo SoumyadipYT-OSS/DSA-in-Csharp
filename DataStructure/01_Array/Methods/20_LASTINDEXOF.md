@@ -140,3 +140,25 @@ class Program {
     }
 }
 ```
+
+
+
+
+## LastIndexOf<T>(T[], T) 🔍
+Searches for the specified object and returns the index of the last occurrence within the entire Array.
+*This method searches for the specified object and returns the zero-based index of the last occurrence within the entire array.*
+
+### Example 💡
+```csharp
+using System;
+
+class Program {
+    static void Main() {
+        string[] words = { "apple", "banana", "cherry", "apple", "date", "banana", "apple" };
+
+        // Find the last occurrence of "apple"
+        int index = Array.LastIndexOf(words, "apple");
+        Console.WriteLine("Last index of 'apple': " + index); // Output: 6
+    }
+}
+```
