@@ -162,3 +162,25 @@ class Program {
     }
 }
 ```
+
+
+
+
+## LastIndexOf<T>(T[], T, Int32) 🔍
+Searches for the specified object and returns the index of the last occurrence within the range of elements 
+in the Array that extends from the first element to the specified index.
+
+### Example 💡
+```csharp
+using System;
+
+class Program {
+    static void Main() {
+        string[] words = { "apple", "banana", "cherry", "apple", "date", "banana", "apple" };
+
+        // Find the last occurrence of "banana", starting from index 5
+        int index = Array.LastIndexOf(words, "banana", 5);
+        Console.WriteLine("Last index of 'banana' starting from index 5: " + index); // Output: 5
+    }
+}
+```
