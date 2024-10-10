@@ -194,3 +194,15 @@ Reverses the sequence of a subset of the elements in the one-dimensional generic
 ```csharp
 public static void Reverse<T> (T[] array, int index, int length);
 ```
+
+
+## Contributing 🤝
+Feel free to contribute to this repository by submitting issues or pull requests. Let's make this resource better together!
+
+## License 📄
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+![signature](https://github.com/user-attachments/assets/748d14a3-56b1-4b11-abff-0a75eff93b16)
+
+Happy coding! 🚀
