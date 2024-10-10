@@ -108,6 +108,15 @@ class Program {
         Console.WriteLine("Last index of 3 starting from index 4 and searching 4 elements: " + index); // Output: 2
     }
 
+    protected static void Example4() {
+        string[] fruits = { "apple", "banana", "cherry", "apple", "date", "banana", "apple" };
+
+        // Find the last occurrence of "apple"
+        int index = Array.LastIndexOf(fruits, "apple");
+        Console.WriteLine("Last index of 'apple': " + index);   // Output: 6
+    }
+
+
 
 
     // Main method
@@ -118,5 +127,7 @@ class Program {
         Example2();
         Console.WriteLine("\n__Example 3__");
         Example3();
+        Console.WriteLine("\n__Example 4__");
+        Example4();
     }
 }
