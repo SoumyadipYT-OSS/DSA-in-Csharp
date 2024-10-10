@@ -184,3 +184,57 @@ class Program {
     }
 }
 ```
+
+
+
+
+## LastIndexOf<T>(T[], T, Int32, Int32) 🔍
+Searches for the specified object and returns the index of the last occurrence within the range of 
+elements in the Array that contains the specified number of elements and ends at the specified index.
+
+### Example 💡
+```csharp
+    string[] dinosaurs = { "Tyrannosaurus",
+        "Amargasaurus",
+        "Mamenchisaurus",
+        "Brachiosaurus",
+        "Deinonychus",
+        "Tyrannosaurus",
+        "Compsognathus" };
+    
+    Console.WriteLine();
+    foreach(string dinosaur in dinosaurs)
+    {
+        Console.WriteLine(dinosaur);
+    }
+    
+    Console.WriteLine(
+        "\nArray.LastIndexOf(dinosaurs, \"Tyrannosaurus\"): {0}",
+        Array.LastIndexOf(dinosaurs, "Tyrannosaurus"));
+    
+    Console.WriteLine(
+        "\nArray.LastIndexOf(dinosaurs, \"Tyrannosaurus\", 3): {0}",
+        Array.LastIndexOf(dinosaurs, "Tyrannosaurus", 3));
+    
+    Console.WriteLine(
+        "\nArray.LastIndexOf(dinosaurs, \"Tyrannosaurus\", 4, 4): {0}",
+        Array.LastIndexOf(dinosaurs, "Tyrannosaurus", 4, 4));
+    
+
+    /* This code example produces the following output:
+    
+        Tyrannosaurus
+        Amargasaurus
+        Mamenchisaurus
+        Brachiosaurus
+        Deinonychus
+        Tyrannosaurus
+        Compsognathus
+        
+        Array.LastIndexOf(dinosaurs, "Tyrannosaurus"): 5
+        
+        Array.LastIndexOf(dinosaurs, "Tyrannosaurus", 3): 0
+        
+        Array.LastIndexOf(dinosaurs, "Tyrannosaurus", 4, 4): -1
+    */
+```
