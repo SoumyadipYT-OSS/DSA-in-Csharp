@@ -98,3 +98,45 @@ class Program {
             The last occurrence of "the" between index 5 and index 10 is at index 10.
         */
 ```
+
+
+
+## LastIndexOf(Array, Object, Int32) 🔍
+Searches for the specified object and returns the zero-based index of the last occurrence within the range of 
+elements in the array that extends from the first element to the specified index.
+
+### Example 💡
+```csharp
+using System;
+
+class Program {
+    static void Main() {
+        int[] numbers = { 1, 2, 3, 4, 3, 2, 1 };
+
+        // Find the last occurrence of 3, starting from index 3
+        int index = Array.LastIndexOf(numbers, 3, 3);
+        Console.WriteLine("Last index of 3 starting from index 3: " + index); // Output: 2
+    }
+}
+```
+
+
+
+## LastIndexOf(Array, Object, Int32, Int32) 🔍
+Searches for the specified object and returns the zero-based index of the last occurrence within the range 
+of elements in the array that contains the specified number of elements and ends at the specified index.
+
+### Example 💡
+```csharp
+using System;
+
+class Program {
+    static void Main() {
+        int[] numbers = { 1, 2, 3, 4, 3, 2, 1 };
+
+        // Find the last occurrence of 3, starting from index 4 and searching 4 elements
+        int index = Array.LastIndexOf(numbers, 3, 4, 4);
+        Console.WriteLine("Last index of 3 starting from index 4 and searching 4 elements: " + index); // Output: 2
+    }
+}
+```
