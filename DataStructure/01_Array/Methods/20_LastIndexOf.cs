@@ -100,13 +100,23 @@ class Program {
         }
     }
 
+    protected static void Example3() {
+        int[] num = { 1, 2, 3, 4, 3, 2, 1 };
+
+        // Find the last occurrence of 3, starting from index 4 and searching 4 elements
+        int index = Array.LastIndexOf(num, 3, 4, 4);
+        Console.WriteLine("Last index of 3 starting from index 4 and searching 4 elements: " + index); // Output: 2
+    }
+
 
 
     // Main method
     static void Main() {
         Console.WriteLine("__Example 1__");
         Example1();
-        Console.WriteLine("__Example 2__");
+        Console.WriteLine("\n__Example 2__");
         Example2();
+        Console.WriteLine("\n__Example 3__");
+        Example3();
     }
 }
