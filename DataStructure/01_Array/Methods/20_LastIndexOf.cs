@@ -90,11 +90,11 @@ class Program {
         Tree target = new Tree("Maple", 60);
 
         int index = Array.LastIndexOf(forest, target, 4);
-        Console.WriteLine("Last index of target tree starting from index 4: " + index);
+        Console.WriteLine("Last index of target tree starting from index: " + index);
 
         // Display the details of the found tree
-        if (index ! = -1) {
-            Console.WriteLine($"Found {forect[index].Name}, Height: {forest[index].Height} at index {index}");
+        if (index != -1) {
+            Console.WriteLine($"Found {forest[index].Name}, Height: {forest[index].Height} at index {index}");
         } else {
             Console.WriteLine("Tree not found.");
         }
