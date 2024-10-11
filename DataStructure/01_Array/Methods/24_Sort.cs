@@ -3,15 +3,15 @@ using System.Collections;
 
 class Program {
     private static void PrintKeysAndValues(string[] myKeys, string[] myValues) {
-        for (int i=0; i<myKeys.Length; i++) {
-            Console.WriteLine("\t {0 - 10}: {1}", myKeys[i], myValues[i]);
+        for (int i = 0; i < myKeys.Length; i++) {
+            Console.WriteLine("\t{0, -10}: {1}", myKeys[i], myValues[i]);
         }
         Console.WriteLine();
     }
 
     protected class myReverserClass : IComparer {
         int IComparer.Compare(object x, object y) {
-            return ( (new CaseInsensitiveComparer()).Compare(y, x) );
+            return ((new CaseInsensitiveComparer()).Compare(y, x));
         }
     }
 
@@ -19,8 +19,8 @@ class Program {
     // Main method
     static void Main(string[] args) {
         // Creates and initializes a new Array and a new custom comparer.
-        String[] myKeys = { "red", "GREEN", "YELLOW", "BLUE", "purple", "black", "orange" };
-        String[] myValues = { "strawberries", "PEARS", "LIMES", "BERRIES", "grapes", "olives", "cantaloupe" };
+        string[] myKeys = { "red", "GREEN", "YELLOW", "BLUE", "purple", "black", "orange" };
+        string[] myValues = { "strawberries", "PEARS", "LIMES", "BERRIES", "grapes", "olives", "cantaloupe" };
         IComparer myComparer = new myReverserClass();
 
         // Displays the values of the Array.
