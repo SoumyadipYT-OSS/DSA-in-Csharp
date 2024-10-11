@@ -4,7 +4,7 @@
 The `Array.Sort` method in C# 12 is used to sort the elements in a one-dimensional array. 
 This method is part of the `System` namespace and provides various overloads to sort arrays based on different criteria.
 
-####### _Sorts the elements in a one-dimensional array._
+###### _Sorts the elements in a one-dimensional array._
 
 
 ## 📖 Definition
