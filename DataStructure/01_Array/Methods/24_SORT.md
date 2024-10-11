@@ -70,5 +70,5 @@ public static void Sort<TKey,TValue> (TKey[] keys, TValue[]? items, int index, i
 | Sort<T>(T[], Int32, Int32, IComparer<T>) | Sorts the elements in a range of elements in an Array using the specified IComparer<T> generic interface. |
 | Sort<TKey,TValue>(TKey[], TValue[], Int32, Int32, IComparer<TKey>) | Sorts a range of elements in a pair of Array objects (one contains the keys and the other contains the corresponding items) based on the keys in the first Array using the specified IComparer<T> generic interface. |
 | Sort<TKey,TValue>(TKey[], TValue[]) | Sorts a pair of Array objects (one contains the keys and the other contains the corresponding items) based on the keys in the first Array using the IComparable<T> generic interface implementation of each key. |
-|  |  |
-|  |  |
+| Sort<TKey,TValue>(TKey[], TValue[], IComparer<TKey>) | Sorts a pair of Array objects (one contains the keys and the other contains the corresponding items) based on the keys in the first Array using the specified IComparer<T> generic interface. |
+| Sort<TKey,TValue>(TKey[], TValue[], Int32, Int32) | Sorts a range of elements in a pair of Array objects (one contains the keys and the other contains the corresponding items) based on the keys in the first Array using the IComparable<T> generic interface implementation of each key. |
