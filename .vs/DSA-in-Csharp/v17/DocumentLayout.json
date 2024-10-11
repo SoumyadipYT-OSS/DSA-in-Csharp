@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "D:\\GitHub_repo_connections\\DSA-in-Csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub_repo_connections\\DSA-in-Csharp\\DataStructure\\01_Array\\Methods\\08_FindAll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataStructure\\01_Array\\Methods\\08_FindAll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub_repo_connections\\DSA-in-Csharp\\DataStructure\\01_Array\\Methods\\18_IndexOf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataStructure\\01_Array\\Methods\\18_IndexOf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub_repo_connections\\DSA-in-Csharp\\DataStructure\\01_Array\\Methods\\07_Find.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataStructure\\01_Array\\Methods\\07_Find.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub_repo_connections\\DSA-in-Csharp\\DataStructure\\01_Array\\Methods\\06_Exists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataStructure\\01_Array\\Methods\\06_Exists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub_repo_connections\\DSA-in-Csharp\\DataStructure\\01_Array\\Methods\\05_CopyTo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataStructure\\01_Array\\Methods\\05_CopyTo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub_repo_connections\\DSA-in-Csharp\\DataStructure\\01_Array\\Methods\\17_GetValue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataStructure\\01_Array\\Methods\\17_GetValue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,54 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "08_FindAll.cs",
-              "DocumentMoniker": "D:\\GitHub_repo_connections\\DSA-in-Csharp\\DataStructure\\01_Array\\Methods\\08_FindAll.cs",
-              "RelativeDocumentMoniker": "DataStructure\\01_Array\\Methods\\08_FindAll.cs",
-              "ToolTip": "D:\\GitHub_repo_connections\\DSA-in-Csharp\\DataStructure\\01_Array\\Methods\\08_FindAll.cs",
-              "RelativeToolTip": "DataStructure\\01_Array\\Methods\\08_FindAll.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Title": "18_IndexOf.cs",
+              "DocumentMoniker": "D:\\GitHub_repo_connections\\DSA-in-Csharp\\DataStructure\\01_Array\\Methods\\18_IndexOf.cs",
+              "RelativeDocumentMoniker": "DataStructure\\01_Array\\Methods\\18_IndexOf.cs",
+              "ToolTip": "D:\\GitHub_repo_connections\\DSA-in-Csharp\\DataStructure\\01_Array\\Methods\\18_IndexOf.cs",
+              "RelativeToolTip": "DataStructure\\01_Array\\Methods\\18_IndexOf.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T18:11:35.773Z",
+              "WhenOpened": "2024-10-03T04:48:55.367Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "07_Find.cs",
-              "DocumentMoniker": "D:\\GitHub_repo_connections\\DSA-in-Csharp\\DataStructure\\01_Array\\Methods\\07_Find.cs",
-              "RelativeDocumentMoniker": "DataStructure\\01_Array\\Methods\\07_Find.cs",
-              "ToolTip": "D:\\GitHub_repo_connections\\DSA-in-Csharp\\DataStructure\\01_Array\\Methods\\07_Find.cs",
-              "RelativeToolTip": "DataStructure\\01_Array\\Methods\\07_Find.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
+              "Title": "17_GetValue.cs",
+              "DocumentMoniker": "D:\\GitHub_repo_connections\\DSA-in-Csharp\\DataStructure\\01_Array\\Methods\\17_GetValue.cs",
+              "RelativeDocumentMoniker": "DataStructure\\01_Array\\Methods\\17_GetValue.cs",
+              "ToolTip": "D:\\GitHub_repo_connections\\DSA-in-Csharp\\DataStructure\\01_Array\\Methods\\17_GetValue.cs",
+              "RelativeToolTip": "DataStructure\\01_Array\\Methods\\17_GetValue.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T17:28:21.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "06_Exists.cs",
-              "DocumentMoniker": "D:\\GitHub_repo_connections\\DSA-in-Csharp\\DataStructure\\01_Array\\Methods\\06_Exists.cs",
-              "RelativeDocumentMoniker": "DataStructure\\01_Array\\Methods\\06_Exists.cs",
-              "ToolTip": "D:\\GitHub_repo_connections\\DSA-in-Csharp\\DataStructure\\01_Array\\Methods\\06_Exists.cs",
-              "RelativeToolTip": "DataStructure\\01_Array\\Methods\\06_Exists.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T14:57:24.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "05_CopyTo.cs",
-              "DocumentMoniker": "D:\\GitHub_repo_connections\\DSA-in-Csharp\\DataStructure\\01_Array\\Methods\\05_CopyTo.cs",
-              "RelativeDocumentMoniker": "DataStructure\\01_Array\\Methods\\05_CopyTo.cs",
-              "ToolTip": "D:\\GitHub_repo_connections\\DSA-in-Csharp\\DataStructure\\01_Array\\Methods\\05_CopyTo.cs",
-              "RelativeToolTip": "DataStructure\\01_Array\\Methods\\05_CopyTo.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T12:12:56.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T04:38:38.578Z"
             }
           ]
         },
