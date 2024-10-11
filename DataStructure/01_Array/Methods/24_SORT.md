@@ -72,3 +72,39 @@ public static void Sort<TKey,TValue> (TKey[] keys, TValue[]? items, int index, i
 | Sort<TKey,TValue>(TKey[], TValue[]) | Sorts a pair of Array objects (one contains the keys and the other contains the corresponding items) based on the keys in the first Array using the IComparable<T> generic interface implementation of each key. |
 | Sort<TKey,TValue>(TKey[], TValue[], IComparer<TKey>) | Sorts a pair of Array objects (one contains the keys and the other contains the corresponding items) based on the keys in the first Array using the specified IComparer<T> generic interface. |
 | Sort<TKey,TValue>(TKey[], TValue[], Int32, Int32) | Sorts a range of elements in a pair of Array objects (one contains the keys and the other contains the corresponding items) based on the keys in the first Array using the IComparable<T> generic interface implementation of each key. |
+
+
+
+## 💡 Examples
+### Sort an Entire Array
+```csharp
+int[] numbers = { 5, 2, 8, 3, 1 };
+Array.Sort(numbers);
+Console.WriteLine(string.Join(", ", numbers)); // Output: 1, 2, 3, 5, 8
+```
+
+
+🤝 Contribution
+We welcome contributions to improve the Array.Sort method documentation and examples. If you have suggestions, bug fixes, or enhancements, please follow these steps:
+
+	1. Fork the Repository: Click the “Fork” button at the top right of this page to 
+		create a copy of this repository in your GitHub account.
+
+	2. Clone the Repository: Clone your forked repository to your local machine using:
+		`git clone https://github.com/your-username/your-repo-name.git`
+
+	3. **Create a Branch**: Create a new branch for your changes:
+		`git checkout -b feature/your-feature-name`
+
+	4. **Make Changes**: Make your changes to the code or documentation.
+
+	5. **Commit Changes**: Commit your changes with a descriptive commit message:
+		`git commit -m "Description of your changes"`
+
+	6. **Push Changes**: Push your changes to your forked repository:
+		`git push origin feature/your-feature-name`
+
+	7. **Create a Pull Request**: Open a pull request from your forked repository to the main repository. 
+								Provide a clear description of your changes and why they are beneficial.
+
+_We appreciate your contributions and will review them as soon as possible._
