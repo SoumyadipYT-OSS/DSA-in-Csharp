@@ -26,5 +26,5 @@ class Program {
         Console.WriteLine("Index of 6: " + list.IndexOf(6)); // Output: -1
     }
 }
-
+```
 🎉 Happy Coding! 😊
