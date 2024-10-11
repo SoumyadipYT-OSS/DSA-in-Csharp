@@ -17,4 +17,28 @@ public static void Sort (Array keys, Array? items, int index, int length);
 public static void Sort (Array array, int index, int length);
 
 public static void Sort (Array keys, Array? items, System.Collections.IComparer? comparer);
+
+public static void Sort (Array keys, Array? items);
+
+public static void Sort (Array array);
+
+public static void Sort (Array array, System.Collections.IComparer? comparer);
+
+public static void Sort<T> (T[] array);
+
+public static void Sort<T> (T[] array, System.Collections.Generic.IComparer<T>? comparer);
+
+public static void Sort<T> (T[] array, Comparison<T> comparison);
+
+public static void Sort<T> (T[] array, int index, int length);
+
+public static void Sort<T> (T[] array, int index, int length, System.Collections.Generic.IComparer<T>? comparer);
+
+public static void Sort<TKey,TValue> (TKey[] keys, TValue[]? items, int index, int length, System.Collections.Generic.IComparer<TKey>? comparer);
+
+public static void Sort<TKey,TValue> (TKey[] keys, TValue[]? items);
+
+public static void Sort<TKey,TValue> (TKey[] keys, TValue[]? items, System.Collections.Generic.IComparer<TKey>? comparer);
+
+public static void Sort<TKey,TValue> (TKey[] keys, TValue[]? items, int index, int length);
 ```
