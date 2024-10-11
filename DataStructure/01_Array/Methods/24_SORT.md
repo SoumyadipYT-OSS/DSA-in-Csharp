@@ -116,3 +116,11 @@ The `Array.Sort` method in C# 12 is a powerful and flexible tool for sorting arr
 Whether you need to sort an entire array, a specific range, or use custom sorting logic, 
 Array.Sort has you covered. By understanding and utilizing its various overloads, 
 you can efficiently manage and manipulate your data.
+
+
+## 📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+![signature](https://github.com/user-attachments/assets/748d14a3-56b1-4b11-abff-0a75eff93b16)
+
+🎉 Happy Coding! 😊
