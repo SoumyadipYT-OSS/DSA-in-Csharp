@@ -26,5 +26,5 @@ class Program {
         Console.WriteLine("Contains 6: " + list.Contains(6)); // Output: False
     }
 }
-
+```
 🎉 Happy Coding! 😊
