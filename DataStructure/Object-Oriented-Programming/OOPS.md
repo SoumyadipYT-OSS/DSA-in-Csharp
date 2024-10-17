@@ -105,3 +105,27 @@ public class Circle : Shape {
 ## 💡 Practical Examples
 **• Bank Account System:** Implement different types of bank accounts using inheritance.
 **• Vehicle Management System:** Create a hierarchy of vehicles with common and specific properties.
+
+
+### 📝 Exercises
+1.  Create a class Person with properties Name and Age. Implement methods to display these details.        
+2.  Implement a class hierarchy for Employee and Manager with appropriate inheritance.
+
+3.  Create an abstract class Appliance with a method TurnOn. Implement this method in derived classes WashingMachine and Refrigerator.
+
+
+
+## 🤝 Contributing
+
+We welcome contributions! Please read our Contributing Guidelines for more details.
+
+## 📜 License
+
+This project is licensed under the Siksha 'O' University, IIT Bombay License - see the LICENSE file for details.
+
+---
+
+![signature](https://github.com/user-attachments/assets/c0f3155e-d875-4627-87e9-89ecaab93eca)
+
+
+!Happy Coding 🚀
