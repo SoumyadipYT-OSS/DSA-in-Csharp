@@ -104,6 +104,7 @@ public class Circle : Shape {
 
 ## 💡 Practical Examples
 **• Bank Account System:** Implement different types of bank accounts using inheritance.
+
 **• Vehicle Management System:** Create a hierarchy of vehicles with common and specific properties.
 
 
