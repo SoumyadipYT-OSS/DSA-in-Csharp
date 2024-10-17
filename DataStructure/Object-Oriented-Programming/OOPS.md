@@ -207,7 +207,7 @@ This project is licensed under the Siksha 'O' University, IIT Bombay License - s
 ---
 
 
-## ╾━╤デ╦︻ (▀̿ĺ̯▀̿ ̿)   📖 Extra Resources please refer:
+## 📖 Extra Resources please refer:
 • Microsoft Learn: Object-Oriented Programming in C#
 
 • W3Schools: C# OOP
