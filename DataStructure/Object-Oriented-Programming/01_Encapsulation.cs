@@ -7,9 +7,10 @@ public class BankAccount {
         if (amt > 0) {
             balance = balance + amt;
         }
+        Console.WriteLine("Deposited...\nBalance: " + GetBalance());        // encapsulated: here GetBalance() is private, so it is called through Deposit function
     }
 
-    public decimal GetBalance() {
+    private decimal GetBalance() {
         return balance;
     }
 
@@ -19,6 +20,5 @@ public class BankAccount {
         int deposit = 1000;
         BankAccount bank_accountObj = new BankAccount();
         bank_accountObj.Deposit(deposit);
-        Console.WriteLine("Balance: " + bank_accountObj.GetBalance());
     }
 }
