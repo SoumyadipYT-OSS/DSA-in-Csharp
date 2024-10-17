@@ -116,6 +116,82 @@ public class Circle : Shape {
 
 
 
+## 🚀 Some Extra Features of OOPs in C# 12 🌟
+
+In this section, we'll explore some advanced and exciting features of Object-Oriented Programming (OOP) in C# 12. These features will help you write more efficient, maintainable, and scalable code. Let's dive in! 🏊‍♂️
+
+### 🔗 Interfaces
+Interfaces define a contract that implementing classes must follow. They can contain method signatures, properties, events, and indexers.
+```csharp
+public interface IDriveable {
+    void Drive();
+}
+
+public class Car : IDriveable {
+    public void Drive() {
+        Console.WriteLine("The car is driving.");
+    }
+}
+```
+
+### 🏠 Properties
+Properties provide a flexible mechanism to read, write, or compute the values of private fields.
+```csharp
+public class Person {
+    private string name;
+
+    public string Name {
+        get { return name; }
+        set { name = value; }
+    }
+}
+```
+
+### 📢 Events
+Events provide a way for a class to notify other classes or objects when something of interest occurs.
+```csharp
+public class Alarm {
+    public event Action OnAlarmRaised;
+
+    public void RaiseAlarm() {
+        OnAlarmRaised?.Invoke();
+    }
+}
+```
+
+### 🧬 Generics
+Generics allow you to define classes, methods, and interfaces with a placeholder for the type of data they store or use.
+```csharp
+public class GenericList<T> {
+    private List<T> items = new List<T>();
+
+    public void Add(T item) {
+        items.Add(item);
+    }
+
+    public T Get(int index) {
+        return items[index];
+    }
+}
+```
+
+### 🌌 Abstract Classes
+Abstract classes cannot be instantiated and are designed to be inherited by subclasses that implement or override its abstract methods.
+
+### 🔌 Extension Methods
+Extension methods allow you to add new methods to existing types without modifying their source code.
+
+### 🧑‍🤝‍🧑 Delegates     ✔️
+Delegates are type-safe function pointers that allow methods to be passed as parameters.
+
+### 🧪 LINQ (Language Integrated Query)   ✔️
+LINQ provides a consistent query experience for objects, databases, XML, and more.
+
+Happy coding! 🎉
+
+
+
+
 ## 🤝 Contributing
 
 We welcome contributions! Please read our Contributing Guidelines for more details.
@@ -128,5 +204,14 @@ This project is licensed under the Siksha 'O' University, IIT Bombay License - s
 
 ![signature](https://github.com/user-attachments/assets/c0f3155e-d875-4627-87e9-89ecaab93eca)
 
+---
+
+
+## ╾━╤デ╦︻ (▀̿ĺ̯▀̿ ̿)   📖 Extra Resources please refer:
+• Microsoft Learn: Object-Oriented Programming in C#
+
+• W3Schools: C# OOP
+
+• freeCodeCamp: Master OOP and Design Patterns in C#
 
 !Happy Coding 🚀
