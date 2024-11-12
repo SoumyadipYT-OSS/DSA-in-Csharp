@@ -109,7 +109,8 @@ public class Circle : Shape {
 
 
 ### 📝 Exercises
-1.  Create a class Person with properties Name and Age. Implement methods to display these details.        
+1.  Create a class Person with properties Name and Age. Implement methods to display these details.
+        
 2.  Implement a class hierarchy for Employee and Manager with appropriate inheritance.
 
 3.  Create an abstract class Appliance with a method TurnOn. Implement this method in derived classes WashingMachine and Refrigerator.
