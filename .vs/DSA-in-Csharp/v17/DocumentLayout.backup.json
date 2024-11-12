@@ -1,14 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\GitHub_repo_connections\\DSA-in-Csharp\\",
+  "WorkspaceRootPath": "E:\\Github_repo\\DSA-in-Csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub_repo_connections\\DSA-in-Csharp\\DataStructure\\01_Array\\Methods\\18_IndexOf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataStructure\\01_Array\\Methods\\18_IndexOf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github_repo\\DSA-in-Csharp\\DataStructure\\Object-Oriented-Programming\\05_OOPs_Project\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataStructure\\Object-Oriented-Programming\\05_OOPs_Project\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub_repo_connections\\DSA-in-Csharp\\DataStructure\\01_Array\\Methods\\17_GetValue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataStructure\\01_Array\\Methods\\17_GetValue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github_repo\\DSA-in-Csharp\\DataStructure\\Object-Oriented-Programming\\05_OOPs_Project\\GiftCardAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataStructure\\Object-Oriented-Programming\\05_OOPs_Project\\GiftCardAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github_repo\\DSA-in-Csharp\\DataStructure\\Object-Oriented-Programming\\05_OOPs_Project\\LineOfCreditAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataStructure\\Object-Oriented-Programming\\05_OOPs_Project\\LineOfCreditAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github_repo\\DSA-in-Csharp\\DataStructure\\Object-Oriented-Programming\\05_OOPs_Project\\InterestEarningAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataStructure\\Object-Oriented-Programming\\05_OOPs_Project\\InterestEarningAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github_repo\\DSA-in-Csharp\\DataStructure\\Object-Oriented-Programming\\05_OOPs_Project\\BankAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataStructure\\Object-Oriented-Programming\\05_OOPs_Project\\BankAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,7 +29,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 200,
+          "DockedHeight": 275,
           "SelectedChildIndex": 1,
           "Children": [
             {
@@ -27,33 +39,72 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "18_IndexOf.cs",
-              "DocumentMoniker": "D:\\GitHub_repo_connections\\DSA-in-Csharp\\DataStructure\\01_Array\\Methods\\18_IndexOf.cs",
-              "RelativeDocumentMoniker": "DataStructure\\01_Array\\Methods\\18_IndexOf.cs",
-              "ToolTip": "D:\\GitHub_repo_connections\\DSA-in-Csharp\\DataStructure\\01_Array\\Methods\\18_IndexOf.cs",
-              "RelativeToolTip": "DataStructure\\01_Array\\Methods\\18_IndexOf.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Github_repo\\DSA-in-Csharp\\DataStructure\\Object-Oriented-Programming\\05_OOPs_Project\\Program.cs",
+              "RelativeDocumentMoniker": "DataStructure\\Object-Oriented-Programming\\05_OOPs_Project\\Program.cs",
+              "ToolTip": "E:\\Github_repo\\DSA-in-Csharp\\DataStructure\\Object-Oriented-Programming\\05_OOPs_Project\\Program.cs",
+              "RelativeToolTip": "DataStructure\\Object-Oriented-Programming\\05_OOPs_Project\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwAsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T04:48:55.367Z",
+              "WhenOpened": "2024-11-12T18:41:01.811Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "17_GetValue.cs",
-              "DocumentMoniker": "D:\\GitHub_repo_connections\\DSA-in-Csharp\\DataStructure\\01_Array\\Methods\\17_GetValue.cs",
-              "RelativeDocumentMoniker": "DataStructure\\01_Array\\Methods\\17_GetValue.cs",
-              "ToolTip": "D:\\GitHub_repo_connections\\DSA-in-Csharp\\DataStructure\\01_Array\\Methods\\17_GetValue.cs",
-              "RelativeToolTip": "DataStructure\\01_Array\\Methods\\17_GetValue.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Title": "GiftCardAccount.cs",
+              "DocumentMoniker": "E:\\Github_repo\\DSA-in-Csharp\\DataStructure\\Object-Oriented-Programming\\05_OOPs_Project\\GiftCardAccount.cs",
+              "RelativeDocumentMoniker": "DataStructure\\Object-Oriented-Programming\\05_OOPs_Project\\GiftCardAccount.cs",
+              "ToolTip": "E:\\Github_repo\\DSA-in-Csharp\\DataStructure\\Object-Oriented-Programming\\05_OOPs_Project\\GiftCardAccount.cs",
+              "RelativeToolTip": "DataStructure\\Object-Oriented-Programming\\05_OOPs_Project\\GiftCardAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T04:38:38.578Z",
+              "WhenOpened": "2024-11-12T18:40:46.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LineOfCreditAccount.cs",
+              "DocumentMoniker": "E:\\Github_repo\\DSA-in-Csharp\\DataStructure\\Object-Oriented-Programming\\05_OOPs_Project\\LineOfCreditAccount.cs",
+              "RelativeDocumentMoniker": "DataStructure\\Object-Oriented-Programming\\05_OOPs_Project\\LineOfCreditAccount.cs",
+              "ToolTip": "E:\\Github_repo\\DSA-in-Csharp\\DataStructure\\Object-Oriented-Programming\\05_OOPs_Project\\LineOfCreditAccount.cs",
+              "RelativeToolTip": "DataStructure\\Object-Oriented-Programming\\05_OOPs_Project\\LineOfCreditAccount.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:40:26.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InterestEarningAccount.cs",
+              "DocumentMoniker": "E:\\Github_repo\\DSA-in-Csharp\\DataStructure\\Object-Oriented-Programming\\05_OOPs_Project\\InterestEarningAccount.cs",
+              "RelativeDocumentMoniker": "DataStructure\\Object-Oriented-Programming\\05_OOPs_Project\\InterestEarningAccount.cs",
+              "ToolTip": "E:\\Github_repo\\DSA-in-Csharp\\DataStructure\\Object-Oriented-Programming\\05_OOPs_Project\\InterestEarningAccount.cs",
+              "RelativeToolTip": "DataStructure\\Object-Oriented-Programming\\05_OOPs_Project\\InterestEarningAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:38:32.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "E:\\Github_repo\\DSA-in-Csharp\\DataStructure\\Object-Oriented-Programming\\05_OOPs_Project\\BankAccount.cs",
+              "RelativeDocumentMoniker": "DataStructure\\Object-Oriented-Programming\\05_OOPs_Project\\BankAccount.cs",
+              "ToolTip": "E:\\Github_repo\\DSA-in-Csharp\\DataStructure\\Object-Oriented-Programming\\05_OOPs_Project\\BankAccount.cs",
+              "RelativeToolTip": "DataStructure\\Object-Oriented-Programming\\05_OOPs_Project\\BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:27:22.866Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedHeight": 200,
+          "DockedHeight": 125,
           "SelectedChildIndex": -1,
           "Children": [
             {
