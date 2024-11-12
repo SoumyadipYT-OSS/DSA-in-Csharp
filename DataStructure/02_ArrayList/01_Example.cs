@@ -25,7 +25,6 @@ public class SamplesArrayList {
     }
 }
 
-
 /*
 This code produces output similar to the following:
 
