@@ -42,7 +42,7 @@ class Program
 ```
 
 
-## `List<T>(IEnumerable<T>)` 🌟
+## `List<T>(IEnumerable<T>)` 🌟  ✔️
 ### Remarks
 The List<T>(IEnumerable<T>) constructor initializes a new List<T> that contains 
 elements copied from the specified collection. 
@@ -75,7 +75,7 @@ class Program
 ```
 
 
-## `List<T>(Int32)` 🌟
+## `List<T>(Int32)` 🌟   
 ### Remarks
 The List<T>(Int32) constructor initializes an empty List<T> with the 
 specified initial capacity. This is useful when you know the 
