@@ -2,9 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\DataStructure",
-    "\\DataStructure\\01_Array",
-    "\\DataStructure\\01_Array\\Methods"
+    "\\DataStructure\\02_ArrayList",
+    "\\DataStructure\\02_ArrayList\\Properties"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\DataStructure\\02_ArrayList\\Properties\\06_SyncRoot.cs",
   "PreviewInSolutionExplorer": false
 }
