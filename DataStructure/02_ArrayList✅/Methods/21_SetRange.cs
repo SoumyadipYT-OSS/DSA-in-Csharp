@@ -11,6 +11,7 @@ class Program {
     }
 
 
+    // Main method
     static void Main() {
         ArrayList myAl = new ArrayList { "Apple", "Banana", "Cherry", "Pomegranate" };
 
