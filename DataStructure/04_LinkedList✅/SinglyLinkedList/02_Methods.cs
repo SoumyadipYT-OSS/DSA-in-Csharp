@@ -1,6 +1,7 @@
 using System;
 using System.Threading;
 using System.Threading.Tasks;
+using System.Runtime.Serialization;
 
 class Node {
     public int data;
@@ -24,10 +25,23 @@ class SinglyLinkedList {
                     Console.Write(".");
                 }
                 Console.Write("]\r");
-                await Task.Delay(900);
+                await Task.Delay(500);
             }
         }
         Console.WriteLine($"{operationName}[...]\n"); // Final state after completion
+    }
+
+    // Method to get the memory address of each node
+    public void DisplayMemoryAddresses() {
+        Node curr = head;
+        ObjectIDGenerator idGenerator = new ObjectIDGenerator();
+        bool firstTime;
+
+        while (curr != null) {
+            long id = idGenerator.GetId(curr, out firstTime);
+            Console.WriteLine($"Node with data {curr.data} has unique id {id}");
+            curr = curr.Next;
+        }
     }
 
     // InsertAtBeginning()
@@ -362,7 +376,8 @@ class Program {
             Console.WriteLine("13. Get Nth node from end");
             Console.WriteLine("14. Get First");
             Console.WriteLine("15. Get Last");
-            Console.WriteLine("16. Exit");
+            Console.WriteLine("16. Check the memory wherer your linked list is created");
+            Console.WriteLine("17. Exit");
             Console.WriteLine("Enter your choice: ");
 
 
@@ -440,6 +455,9 @@ class Program {
                         await sl.GetLast();
                         break;
                     case 16:
+                        sl.DisplayMemoryAddresses();
+                        break;
+                    case 17:
                         exit = true;
                         break;
                     default:
