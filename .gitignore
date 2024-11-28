@@ -23,3 +23,18 @@ bld/
 project.lock.json
 project.fragment.lock.json
 artifacts/
+
+
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db

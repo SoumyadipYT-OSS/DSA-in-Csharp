@@ -2,11 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\DataStructure",
-    "\\DataStructure\\01_Array\u2705",
-    "\\DataStructure\\02_ArrayList\u2705",
-    "\\DataStructure\\02_ArrayList\u2705\\Methods",
-    "\\DataStructure\\03_List\u2714\uFE0F"
+    "\\DataStructure\\04_LinkedList\u2705",
+    "\\DataStructure\\04_LinkedList\u2705\\SinglyLinkedList"
   ],
-  "SelectedNode": "\\DataStructure\\02_ArrayList\u2705\\Methods\\24_ToArray.exe",
+  "SelectedNode": "\\DataStructure\\04_LinkedList\u2705\\SinglyLinkedList\\02_Methods.cs",
   "PreviewInSolutionExplorer": false
 }
