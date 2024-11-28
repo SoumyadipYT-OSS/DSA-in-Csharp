@@ -226,6 +226,114 @@ class SinglyLinkedList {
         }
         Console.WriteLine("null");
     }
+
+    // Method to check the linkedList empty or not
+    public bool IsEmpty() {
+        return head == null;
+    }
+
+    // Remove all elements from the linked List
+    public async Task Clear() {
+        bool isCleared = false;
+        var animationTask = AnimateOperation("Clearing list", () => isCleared);
+
+        head = null;
+        isCleared = true;
+        await animationTask;
+    }
+
+
+    // Retrieve the Nth Node from the beginning of the Linked List
+    public async Task<Node> GetNthNode(int n) {
+        bool isFound = false;
+        string nth = "";
+        if (n==1) {
+            nth = "1st";
+        } else if (n == 2) {
+            nth = "2nd";
+        } else if (n == 3) {
+            nth = "3rd";
+        } else {
+            nth = $"{n}th";
+        }
+        var animationTask = AnimateOperation($"Getting {nth} node", () => isFound);
+
+        Node curr = head;
+        int count = 0;
+
+        while (curr != null) {
+            if (count == n) {
+                isFound = true;
+                await animationTask;
+                return curr;
+            }
+            count++;
+            curr = curr.Next;
+        }
+
+        isFound = true;
+        await animationTask;
+        return null;
+    }
+
+
+    // Retrieve the nth node from the end of the Singly LinkedList
+    public async Task<Node> GetNthNodeFromEnd(int n) {
+        bool isFound = false;
+        string nth = "";
+        if (n == 1) {
+            nth = "1st";
+        } else if (n == 2) {
+            nth = "2nd";
+        } else if (n == 3) {
+            nth = "3rd";
+        } else {
+            nth = $"{n}th";
+        }
+        var animationTask = AnimateOperation($"Getting {nth} node from end", () => isFound);
+
+        int length = await GetLength();
+        if (n > length) {
+            isFound = true;
+            await animationTask;
+            return null;
+        }
+
+        Node curr = head;
+        for (int i=0; i<length-n; i++) {
+            curr = curr.Next;
+        }
+
+        isFound = true;
+        await animationTask;
+        return curr;
+    }
+
+    // Get the first node of the linked list
+    public Node GetFirst() {
+        return head;
+    }
+
+    // Get the last node of the linked list
+    public async Task<Node> GetLast() {
+        bool isFound = false;
+        var animationTask = AnimateOperation("Getting last node", () => isFound);
+
+        if (head == null) {
+            isFound = true;
+            await animationTask;
+            return null;
+        }
+
+        Node curr = head;
+        while (curr.Next != null) {
+            curr = curr.Next;
+        }
+
+        isFound = true;
+        await animationTask;
+        return curr;
+    }
 }
 
 
@@ -248,8 +356,15 @@ class Program {
             Console.WriteLine("7. Reverse the list");
             Console.WriteLine("8. Search for a node with a specific value");
             Console.WriteLine("9. Display the list");
-            Console.WriteLine("10. Exit");
+            Console.WriteLine("10. Check LinkedList empty or not");
+            Console.WriteLine("11. Clear the Linked List");
+            Console.WriteLine("12. Get Nth node");
+            Console.WriteLine("13. Get Nth node from end");
+            Console.WriteLine("14. Get First");
+            Console.WriteLine("15. Get Last");
+            Console.WriteLine("16. Exit");
             Console.WriteLine("Enter your choice: ");
+
 
             try {
                 int choice = int.Parse(Console.ReadLine());
@@ -301,6 +416,30 @@ class Program {
                         sl.Display();
                         break;
                     case 10:
+                        sl.IsEmpty();
+                        break;
+                    case 11:
+                        sl.Clear();
+                        break;
+                    case 12:
+                        Console.Write("Enter the nth value to search: ");
+                        int N = int.Parse(Console.ReadLine());
+                        Node foundNode = await sl.GetNthNode(N);
+                        Console.WriteLine($"The value is: ", foundNode);
+                        break;
+                    case 13:
+                        Console.Write("Enter the nth value from end to search: ");
+                        int N = int.Parse(Console.ReadLine());
+                        Node foundNode = await sl.GetNthNodeFromEnd(N);
+                        Console.WriteLine($"The value is: ", foundNode);
+                        break;
+                    case 14:
+                        sl.GetFirst();
+                        break;
+                    case 15:
+                        sl.GetLast();
+                        break;
+                    case 16:
                         exit = true;
                         break;
                     default:
