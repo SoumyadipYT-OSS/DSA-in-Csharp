@@ -24,7 +24,7 @@ class SinglyLinkedList {
                     Console.Write(".");
                 }
                 Console.Write("]\r");
-                await Task.Delay(500);
+                await Task.Delay(900);
             }
         }
         Console.WriteLine($"{operationName}[...]\n"); // Final state after completion
@@ -419,25 +419,25 @@ class Program {
                         sl.IsEmpty();
                         break;
                     case 11:
-                        sl.Clear();
+                        await sl.Clear();
                         break;
                     case 12:
                         Console.Write("Enter the nth value to search: ");
-                        int N = int.Parse(Console.ReadLine());
-                        Node foundNode = await sl.GetNthNode(N);
-                        Console.WriteLine($"The value is: ", foundNode);
+                        int Nth = int.Parse(Console.ReadLine());
+                        Node foundNthNode = await sl.GetNthNode(Nth);
+                        Console.WriteLine($"The value is: ", foundNthNode);
                         break;
                     case 13:
                         Console.Write("Enter the nth value from end to search: ");
-                        int N = int.Parse(Console.ReadLine());
-                        Node foundNode = await sl.GetNthNodeFromEnd(N);
-                        Console.WriteLine($"The value is: ", foundNode);
+                        int Nth_from_end = int.Parse(Console.ReadLine());
+                        Node foundNth_from_endNode = await sl.GetNthNodeFromEnd(Nth_from_end);
+                        Console.WriteLine($"The value is: ", foundNth_from_endNode);
                         break;
                     case 14:
                         sl.GetFirst();
                         break;
                     case 15:
-                        sl.GetLast();
+                        await sl.GetLast();
                         break;
                     case 16:
                         exit = true;
