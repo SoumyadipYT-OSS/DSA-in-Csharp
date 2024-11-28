@@ -50,7 +50,6 @@ This repository aims to be a one-stop resource for learning and mastering Data S
 - Heaps
 - Graphs
 - Hashing
-- DP [Dynamic Programming]
 
 ## 🔍 Algorithms
 
