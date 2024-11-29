@@ -1,4 +1,4 @@
-# 📚 DSA in C# (Csharp 🚀)
+# 📚 Data Structure and Algorithm in C# (Csharp 🚀)
 #### *Author: Soumyadip Majumder*
 
 ![OIP](https://github.com/user-attachments/assets/9af1c82d-ee08-4e35-a182-407011f0c2db)          ![download](https://github.com/user-attachments/assets/f32be685-d351-4299-a197-04e2d0fcd134)

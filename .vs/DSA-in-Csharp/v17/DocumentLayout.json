@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "E:\\GitHub_repos\\DSA-in-Csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\GitHub_repos\\DSA-in-Csharp\\DataStructure\\04_LinkedList\u2705\\AdvancedMethods\\SortList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataStructure\\04_LinkedList\u2705\\AdvancedMethods\\SortList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\GitHub_repos\\DSA-in-Csharp\\DataStructure\\07_Stack\u2705\\02_Example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataStructure\\07_Stack\u2705\\02_Example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\GitHub_repos\\DSA-in-Csharp\\DataStructure\\04_LinkedList\u2705\\AdvancedMethods\\MergeTwoLists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataStructure\\04_LinkedList\u2705\\AdvancedMethods\\MergeTwoLists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\GitHub_repos\\DSA-in-Csharp\\DataStructure\\04_LinkedList\u2705\\AdvancedMethods\\RemoveDuplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataStructure\\04_LinkedList\u2705\\AdvancedMethods\\RemoveDuplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\GitHub_repos\\DSA-in-Csharp\\DataStructure\\04_LinkedList\u2705\\AdvancedMethods\\DetectCycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataStructure\\04_LinkedList\u2705\\AdvancedMethods\\DetectCycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\GitHub_repos\\DSA-in-Csharp\\DataStructure\\07_Stack\u2705\\01_Example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataStructure\\07_Stack\u2705\\01_Example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,53 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SortList.cs",
-              "DocumentMoniker": "E:\\GitHub_repos\\DSA-in-Csharp\\DataStructure\\04_LinkedList\u2705\\AdvancedMethods\\SortList.cs",
-              "RelativeDocumentMoniker": "DataStructure\\04_LinkedList\u2705\\AdvancedMethods\\SortList.cs",
-              "ToolTip": "E:\\GitHub_repos\\DSA-in-Csharp\\DataStructure\\04_LinkedList\u2705\\AdvancedMethods\\SortList.cs",
-              "RelativeToolTip": "DataStructure\\04_LinkedList\u2705\\AdvancedMethods\\SortList.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAcwCsAAAABAAAAAAAAAA==",
+              "Title": "02_Example.cs",
+              "DocumentMoniker": "E:\\GitHub_repos\\DSA-in-Csharp\\DataStructure\\07_Stack\u2705\\02_Example.cs",
+              "RelativeDocumentMoniker": "DataStructure\\07_Stack\u2705\\02_Example.cs",
+              "ToolTip": "E:\\GitHub_repos\\DSA-in-Csharp\\DataStructure\\07_Stack\u2705\\02_Example.cs",
+              "RelativeToolTip": "DataStructure\\07_Stack\u2705\\02_Example.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T16:10:31.178Z",
+              "WhenOpened": "2024-11-29T19:22:14.196Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MergeTwoLists.cs",
-              "DocumentMoniker": "E:\\GitHub_repos\\DSA-in-Csharp\\DataStructure\\04_LinkedList\u2705\\AdvancedMethods\\MergeTwoLists.cs",
-              "RelativeDocumentMoniker": "DataStructure\\04_LinkedList\u2705\\AdvancedMethods\\MergeTwoLists.cs",
-              "ToolTip": "E:\\GitHub_repos\\DSA-in-Csharp\\DataStructure\\04_LinkedList\u2705\\AdvancedMethods\\MergeTwoLists.cs",
-              "RelativeToolTip": "DataStructure\\04_LinkedList\u2705\\AdvancedMethods\\MergeTwoLists.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Title": "01_Example.cs",
+              "DocumentMoniker": "E:\\GitHub_repos\\DSA-in-Csharp\\DataStructure\\07_Stack\u2705\\01_Example.cs",
+              "RelativeDocumentMoniker": "DataStructure\\07_Stack\u2705\\01_Example.cs",
+              "ToolTip": "E:\\GitHub_repos\\DSA-in-Csharp\\DataStructure\\07_Stack\u2705\\01_Example.cs",
+              "RelativeToolTip": "DataStructure\\07_Stack\u2705\\01_Example.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwC0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T16:06:30.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RemoveDuplicates.cs",
-              "DocumentMoniker": "E:\\GitHub_repos\\DSA-in-Csharp\\DataStructure\\04_LinkedList\u2705\\AdvancedMethods\\RemoveDuplicates.cs",
-              "RelativeDocumentMoniker": "DataStructure\\04_LinkedList\u2705\\AdvancedMethods\\RemoveDuplicates.cs",
-              "ToolTip": "E:\\GitHub_repos\\DSA-in-Csharp\\DataStructure\\04_LinkedList\u2705\\AdvancedMethods\\RemoveDuplicates.cs",
-              "RelativeToolTip": "DataStructure\\04_LinkedList\u2705\\AdvancedMethods\\RemoveDuplicates.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T16:03:34.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DetectCycle.cs",
-              "DocumentMoniker": "E:\\GitHub_repos\\DSA-in-Csharp\\DataStructure\\04_LinkedList\u2705\\AdvancedMethods\\DetectCycle.cs",
-              "RelativeDocumentMoniker": "DataStructure\\04_LinkedList\u2705\\AdvancedMethods\\DetectCycle.cs",
-              "ToolTip": "E:\\GitHub_repos\\DSA-in-Csharp\\DataStructure\\04_LinkedList\u2705\\AdvancedMethods\\DetectCycle.cs",
-              "RelativeToolTip": "DataStructure\\04_LinkedList\u2705\\AdvancedMethods\\DetectCycle.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAcwC8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T15:57:52.003Z",
+              "WhenOpened": "2024-11-29T18:33:38.812Z",
               "EditorCaption": ""
             }
           ]

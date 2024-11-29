@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\DataStructure",
-    "\\DataStructure\\04_LinkedList\u2705",
-    "\\DataStructure\\04_LinkedList\u2705\\AdvancedMethods"
+    "\\DataStructure\\07_Stack\u2705"
   ],
-  "SelectedNode": "\\DataStructure\\04_LinkedList\u2705\\AdvancedMethods\\SortList.cs",
+  "SelectedNode": "\\DataStructure\\07_Stack\u2705\\02_Example.cs",
   "PreviewInSolutionExplorer": false
 }
