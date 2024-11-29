@@ -8,5 +8,11 @@ class Program {
         string joined = string.Join(" ", words);    // C and C#
 
         Console.WriteLine(joined);
+
+
+        string[] words2 = { "A", "I", "F", "A" };
+        string joined2 = string.Join(".", words2);
+
+        Console.WriteLine(joined2);
     }
 }
