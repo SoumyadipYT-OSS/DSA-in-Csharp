@@ -187,4 +187,21 @@ Alternatively, you can use the Developer Command Prompt for Visual Studio:
    csc /unsafe YourFileName.cs
    ```
 
+
+
 Happy coding! 🚀
+
+
+## 🤝 Co-Sponsors
+
+We are grateful for the support of our co-sponsors who help make this event possible. 
+
+### 🌐 Visual Studio
+
+<img src="https://images.g2a.com/323x433/1x1x0/microsoft-visual-studio-2022-enterprise-pc-microsoft-key-global/e0a2f2041c4a4c14984bc316" alt="Visual Studio Icon" width="64" height="64">
+
+Visual Studio is a powerful IDE that provides comprehensive tools and services for developers to create amazing applications. With features like IntelliSense, debugging, and integrated version control, Visual Studio helps streamline the development process and improve productivity.
+
+---
+
+Thank you to all our co-sponsors for their continued support! 🙏
