@@ -204,4 +204,4 @@ Visual Studio is a powerful IDE that provides comprehensive tools and services f
 
 ---
 
-Thank you to all our co-sponsors for their continued support! 🙏
+Thank you to all our co-sponsors for their continued environment support! 🙏
