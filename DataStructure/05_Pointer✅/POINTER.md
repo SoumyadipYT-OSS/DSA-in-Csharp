@@ -163,4 +163,27 @@ Remember, working with pointers requires an `unsafe` context in C#.
 The code that contains unsafe blocks must be compiled with the 
 `AllowUnsafeBlocks` compiler option.
 
+
+
+### 📌 Compiling Code with `csc` Command in Visual Studio and Visual Studio Code 🖥️
+
+When working with pointers in C#, you need to compile your code with the `/unsafe` option. Here's how you can do it in both Visual Studio and Visual Studio Code.
+
+#### 🖥️ Visual Studio (🖌️){"icon":{"id":"i19Ns28h30P4","name":"Visual Studio","commonName":"visual-studio","category":"Logos","subcategory":"Microsoft","platform":"nolan","isFree":true,"isColor":true,"isExplicit":false,"authorId":"","authorName":"icons8","sourceFormat":"svg"},"id":"i19Ns28h30P4","svg":null}
+
+1. **Open your project** in Visual Studio.
+2. **Right-click on your project** in the Solution Explorer and select **Properties**.
+3. **Navigate to the Build tab**.
+4. **Check the "Allow unsafe code"** checkbox.
+5. **Save your changes** and build your project.
+
+Alternatively, you can use the Developer Command Prompt for Visual Studio:
+
+1. **Open the Developer Command Prompt** for Visual Studio.
+2. **Navigate to your project directory**.
+3. **Compile your code** using the following command:
+   ```sh
+   csc /unsafe YourFileName.cs
+   ```
+
 Happy coding! 🚀
