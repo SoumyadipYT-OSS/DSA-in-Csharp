@@ -22,5 +22,11 @@ class Program {
         string replaced3 = str3.Replace("b", " ");
         Console.WriteLine(str3);
         Console.WriteLine(replaced3);
+
+
+        string str4 = "Deoo";
+        string replaced4 = str4.Replace("o", "l");
+        Console.WriteLine(str4);
+        Console.WriteLine(replaced4);
     }
 }
