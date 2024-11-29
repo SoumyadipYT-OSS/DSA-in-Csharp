@@ -2,6 +2,7 @@ using System;
 
 /* CompareTo: Compares the current string with another string.  */
 
+
 class Program {
     static void Main() {
         Console.WriteLine("1. Comparing Two Different Strings");
@@ -41,6 +42,9 @@ class Program {
         Console.WriteLine(res6);    // 1; (Since "coding!" precedes "coding" in the sort order)
 
         Console.WriteLine("7. Comparing Strings with Null");
-        string str13 = 
+        string str13 = "string";
+        string str14 = null;
+        int res7 = str13.CompareTo(str14);
+        Console.WriteLine(res7);    // 1; (Any string is considered greater than null. Therefore it returns 1.
     }
 }
