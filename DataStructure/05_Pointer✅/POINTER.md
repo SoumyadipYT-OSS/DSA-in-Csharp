@@ -198,7 +198,7 @@ We are grateful for the support of our co-sponsors who help make this event poss
 
 ### 🌐 Visual Studio
 
-<img src="https://images.g2a.com/323x433/1x1x0/microsoft-visual-studio-2022-enterprise-pc-microsoft-key-global/e0a2f2041c4a4c14984bc316" alt="Visual Studio Icon" width="240" height="200">
+<img src="https://images.g2a.com/323x433/1x1x0/microsoft-visual-studio-2022-enterprise-pc-microsoft-key-global/e0a2f2041c4a4c14984bc316" alt="Visual Studio Icon" width="200" height="200">
 
 Visual Studio is a powerful IDE that provides comprehensive tools and services for developers to create amazing applications. With features like IntelliSense, debugging, and integrated version control, Visual Studio helps streamline the development process and improve productivity.
 
