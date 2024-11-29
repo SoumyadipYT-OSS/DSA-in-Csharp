@@ -16,5 +16,9 @@ class Program {
 
         int length = str.Length;
         Console.WriteLine("3) The length of '{0}' is {1}", str, length);
+
+
+        string characters = "abc\u0000def";     // \u0000 is a null character, so it will be counted
+        Console.WriteLine(characters.Length);   // Displays 7
     }
 }
