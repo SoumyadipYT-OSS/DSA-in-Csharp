@@ -2,7 +2,6 @@ using System;
 
 /*  Insert: A new string that is equivalent to this instance, but with value inserted at position startIndex. */
 
-
 class Program {
     static void Main() {
         string original = "aaabbb";
