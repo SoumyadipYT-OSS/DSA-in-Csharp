@@ -169,8 +169,7 @@ The code that contains unsafe blocks must be compiled with the
 
 When working with pointers in C#, you need to compile your code with the `/unsafe` option. Here's how you can do it in both Visual Studio and Visual Studio Code.
 
-#### 🖥️ Visual Studio (🖌️)
-<img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3254515/visual-studio-icon-md.png" alt="Visual Studio Icon" width="32" height="32">   <img src="https://iconape.com/wp-content/png_logo_vector/visual-studio-code.png" alt="Visual Studio Code Icon" width="32" height="32">
+#### 🖥️ Visual Studio and Visual Studio Code(🖌️)   <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3254515/visual-studio-icon-md.png" alt="Visual Studio Icon" width="32" height="32">   <img src="https://iconape.com/wp-content/png_logo_vector/visual-studio-code.png" alt="Visual Studio Code Icon" width="32" height="32">
 
 1. **Open your project** in Visual Studio.
 2. **Right-click on your project** in the Solution Explorer and select **Properties**.
