@@ -36,6 +36,8 @@ This repository aims to be a one-stop resource for learning and mastering Data S
 ## 🛠️ Basic Data Structures
 
 - Arrays
+- ArrayList
+- List
 - Strings
 - Pointers
 - Linked Lists
