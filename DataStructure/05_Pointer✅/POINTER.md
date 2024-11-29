@@ -196,7 +196,7 @@ Happy coding! 🚀
 
 We are grateful for the support of our co-sponsors who help make this event possible. 
 
-### 🌐 Visual Studio
+### 🌐 Visual Studio & Roslyn
 
 <img src="https://images.g2a.com/323x433/1x1x0/microsoft-visual-studio-2022-enterprise-pc-microsoft-key-global/e0a2f2041c4a4c14984bc316" alt="Visual Studio Icon" width="150" height="200"> <img src="https://user-images.githubusercontent.com/46729679/109719841-17b7dd00-7b5e-11eb-8f5e-87eb2d4d1be9.png" alt="Roslyn Icon" width="150" height="200">
 
