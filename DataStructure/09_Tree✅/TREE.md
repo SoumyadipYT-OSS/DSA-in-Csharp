@@ -51,3 +51,14 @@ be a non-linear data structure.
 	science applications. They allow for more complex and organized data 
 	handling, leading to more efficient algorithms and improved system 
 	organization.
+
+
+## Terminologies in Tree Data Structure:
+
+**• Parent Node:** The node which is an immediate predecessor of a node 
+is called the parent node of that node. {B} is the parent node of {D, E}.
+
+**• Child Node:** The node which is the immediate successor of a node is 
+called the child node of that node. Examples: {D, E} are the child nodes 
+of {B}.
+
