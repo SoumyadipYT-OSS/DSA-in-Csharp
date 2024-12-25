@@ -32,3 +32,22 @@ between the nodes.
    excellent choice for situations where data might by dynamically added 
    or removed. This is especially true for trees that automatically balance 
    themselves, such as AVL trees or Red-Black trees.
+
+
+
+## Why Tree is considered a non-linear data structure?
+The data in a tree are not stored in a sequential manner i.e., they are not 
+stored linearly. Instead they are arranged on multiple levels or we can say 
+it is a heirarchical structure. For this reason, the tree is considered to 
+be a non-linear data structure.
+
+
+#### *Parse Trees*
+	• In compilers, trees are used for syntax analysis and to generate 
+	a syntax tree (a type of parse tree).
+
+	In essence, the importance of tree data structures stems from their 
+	hierarchical nature, efficiency and their utility in various computer 
+	science applications. They allow for more complex and organized data 
+	handling, leading to more efficient algorithms and improved system 
+	organization.
