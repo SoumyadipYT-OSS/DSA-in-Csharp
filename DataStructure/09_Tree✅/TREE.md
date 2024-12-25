@@ -56,9 +56,18 @@ be a non-linear data structure.
 ## Terminologies in Tree Data Structure:
 
 **• Parent Node:** The node which is an immediate predecessor of a node 
-is called the parent node of that node. {B} is the parent node of {D, E}.
+is called the parent node of that node. {Q} is the parent node of {A, B}.
 
 **• Child Node:** The node which is the immediate successor of a node is 
-called the child node of that node. Examples: {D, E} are the child nodes 
-of {B}.
+called the child node of that node. Examples: {A, B} are the child nodes 
+of {Q}.
+
+**• Root Node:** The topmost node of a tree or the node which does not have 
+any parent node is called the root node. {P} is the root node of the tree.
+A non-empty tree must contain exactly one root node and exactly one path 
+from the root to all other nodes of the tree.
+
+**• Leaf Node or External Node:** The nodes which do not have any child 
+nodes are called leaf nodes. Here, {E, F, G, H, I} all are leaf nodes.
+
 
