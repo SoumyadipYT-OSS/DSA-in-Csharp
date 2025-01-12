@@ -8,6 +8,8 @@ A Binary Tree is a hierarchical data structure in which each node has at most tw
 - **Hierarchical Data Representation**: They are ideal for representing hierarchical data such as file systems.
 - **Dynamic Growth**: Binary Trees can grow and shrink dynamically, making them suitable for applications where data changes frequently.
 
+- ![2rTqYlcrnWtICedt131tDft0CmkzZaViExJX](https://github.com/user-attachments/assets/0fc5e0ff-50f2-4d25-a851-ab1c3e17276a)
+
 ## Terminologies
 - **Node**: The fundamental part of a tree, which contains data.
 - **Root**: The topmost node of a tree.
@@ -84,13 +86,13 @@ public class BinarySearchTree
 
 
 ### Real-World Applications:
-*• File Systems:* Organizing files and directories.
+*â€¢ File Systems:* Organizing files and directories.
 
-*• Databases:* Indexing for quick data retrieval.
+*â€¢ Databases:* Indexing for quick data retrieval.
 
-*• Networking:* Routing algorithms.
+*â€¢ Networking:* Routing algorithms.
 
-*• Artificial Intelligence:* Decision trees and game trees.
+*â€¢ Artificial Intelligence:* Decision trees and game trees.
 
 
 In essence, Binary Trees are a fundamental 
