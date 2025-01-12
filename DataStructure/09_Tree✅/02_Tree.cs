@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 
 class TreeNode {
@@ -30,6 +30,22 @@ class Tree {
         foreach (var child in node.Children) {
             Traverse(child, action);
         }
+    }
+
+    public void PrintTree(TreeNode node, string indent = "", bool last = true) { 
+        if (node == null) return; 
+        Console.Write(indent); 
+        if (last) { 
+            Console.Write("└─"); 
+            indent += " "; 
+        } else { 
+            Console.Write("├─"); 
+            indent += "| "; 
+        } 
+        Console.WriteLine(node.Value); 
+        for (int i = 0; i < node.Children.Count; i++) { 
+            PrintTree(node.Children[i], indent, i == node.Children.Count - 1); 
+        } 
     }
 }
 
