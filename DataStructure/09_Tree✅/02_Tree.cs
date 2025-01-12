@@ -64,6 +64,8 @@ class Program {
 
         child2.AddChild(new TreeNode(6));
 
-        tree.Traverse(tree.Root, value => Console.WriteLine(value));
+
+        Console.WriteLine("Tree structure");
+        tree.PrintTree(tree.Root);
     }
 }
