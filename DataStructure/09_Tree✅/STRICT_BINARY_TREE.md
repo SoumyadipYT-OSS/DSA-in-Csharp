@@ -11,7 +11,7 @@ This means that no node in a strict binary tree has only one child.
 - **Balanced Operations**: Operations such as insertion, deletion, and traversal can be more balanced and efficient.
 
 
-
+![Screenshot 2025-01-13 081407](https://github.com/user-attachments/assets/6d391e1f-e7c0-42c6-8902-5f4ddb8ec2ed)
 
 
 ## Terminologies
