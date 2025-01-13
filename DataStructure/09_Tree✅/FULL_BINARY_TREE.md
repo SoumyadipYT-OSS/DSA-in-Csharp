@@ -9,7 +9,7 @@ A Full Binary Tree, also known as a Proper Binary Tree or Strict Binary Tree, is
 - **Balanced Operations**: Operations such as insertion, deletion, and traversal can be more balanced and efficient.
 
 
-
+![Screenshot 2025-01-13 090937](https://github.com/user-attachments/assets/332f95c7-d60d-4b99-9b83-07b76b505791)
 
 
 ## Terminologies
@@ -105,11 +105,11 @@ class Program
 
 
 ### Real-World Applications
-*• Decision Trees:* Used in machine learning for decision-making processes.
+*â€¢ Decision Trees:* Used in machine learning for decision-making processes.
 
-*• Expression Trees:* Used in compilers to represent expressions.
+*â€¢ Expression Trees:* Used in compilers to represent expressions.
 
-*• Hierarchical Data Representation:* Useful for representing hierarchical data such as organizational structures.
+*â€¢ Hierarchical Data Representation:* Useful for representing hierarchical data such as organizational structures.
 
 
 In essence, Full Binary Trees are a fundamental data structure 
