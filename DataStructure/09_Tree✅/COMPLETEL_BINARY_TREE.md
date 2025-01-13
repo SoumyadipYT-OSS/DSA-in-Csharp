@@ -9,6 +9,10 @@ levels are completely filled except possibly the last level, which is filled fro
 - **Balanced Operations**: Operations such as insertion, deletion, and traversal can be more balanced and efficient.
 - **Heap Implementation**: Complete binary trees are often used to implement binary heaps, which are useful in priority queues.
 
+
+![Screenshot 2025-01-13 092625](https://github.com/user-attachments/assets/8ac9fda3-5e07-4513-a2f0-fa1c51ea2d8b)
+
+
 ## Terminologies
 - **Node**: The fundamental part of a tree, which contains data.
 - **Root**: The topmost node of a tree.
@@ -119,8 +123,8 @@ class Program
 
 
 ### Real-World Applications
-*• Heap Implementation:* Used in priority queues and heap sort algorithms.
+*â€¢ Heap Implementation:* Used in priority queues and heap sort algorithms.
 
-*• Binary Search Trees:* Useful for efficient searching and sorting operations.
+*â€¢ Binary Search Trees:* Useful for efficient searching and sorting operations.
 
-*• Hierarchical Data Representation:* Useful for representing hierarchical data such as organizational structures.
+*â€¢ Hierarchical Data Representation:* Useful for representing hierarchical data such as organizational structures.
