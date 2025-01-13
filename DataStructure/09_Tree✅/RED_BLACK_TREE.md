@@ -10,6 +10,10 @@ A Red-Black Tree is a type of self-balancing binary search tree. Each node store
 4. **Red Property**: If a red node has children, then the children are always black (no two red nodes can be adjacent).
 5. **Depth Property**: Every path from a given node to its descendant NIL nodes has the same number of black nodes.
 
+
+![Screenshot 2025-01-13 125252](https://github.com/user-attachments/assets/05945c1f-0006-4235-95d5-e23581f08c96)
+
+
 ## Operations
 
 ### Insertion
@@ -71,10 +75,10 @@ public class RedBlackTree
 
 
 ### Real-World Applications
-*• Databases:* Used for indexing and quick data retrieval.
+*â€¢ Databases:* Used for indexing and quick data retrieval.
 
-*• File Systems:* Organizing files and directories.
+*â€¢ File Systems:* Organizing files and directories.
 
-*• Networking:* Routing algorithms.
+*â€¢ Networking:* Routing algorithms.
 
-*• Artificial Intelligence:* Decision trees and game trees.
+*â€¢ Artificial Intelligence:* Decision trees and game trees.
