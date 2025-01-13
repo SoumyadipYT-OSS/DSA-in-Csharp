@@ -9,6 +9,10 @@ A B-Tree is a self-balancing tree data structure that maintains sorted data and 
 3. **Sorted**: Keys within a node are sorted.
 4. **Height**: The height of the tree is kept low by splitting and merging nodes.
 
+
+![Screenshot 2025-01-14 001631](https://github.com/user-attachments/assets/ead6400c-ca95-4fec-aef7-f935401a4908)
+
+
 ## Operations
 
 ### Insertion
@@ -73,10 +77,10 @@ public class BTree
 
 
 ### Real-World Applications:
-*• Databases:*  Used for indexing and quick data retrieval.
+*â€¢ Databases:*  Used for indexing and quick data retrieval.
 
-*• File Systems:* Organizing files and directories.
+*â€¢ File Systems:* Organizing files and directories.
 
-*• Networking:* Routing algorithms.
+*â€¢ Networking:* Routing algorithms.
 
-*• Operating Systems:* Managing memory and file systems.
+*â€¢ Operating Systems:* Managing memory and file systems.
