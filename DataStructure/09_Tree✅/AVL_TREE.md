@@ -12,6 +12,10 @@ this property.
 - **Efficient Searching**: AVL trees provide O(log n) time complexity for search operations.
 - **Dynamic Growth**: AVL trees can grow and shrink dynamically, making them suitable for applications where data changes frequently.
 
+
+https://github.com/user-attachments/assets/b8f13b44-b470-483b-9eab-65af6d257494
+
+
 ## Terminologies
 - **Node**: The fundamental part of a tree, which contains data.
 - **Root**: The topmost node of a tree.
@@ -159,10 +163,10 @@ class Program
 ```
 
 ### Real-World Applications
-*• Databases:* Used for indexing and quick data retrieval.
+*â€¢ Databases:* Used for indexing and quick data retrieval.
 
-*• File Systems:* Organizing files and directories.
+*â€¢ File Systems:* Organizing files and directories.
 
-*• Networking:* Routing algorithms.
+*â€¢ Networking:* Routing algorithms.
 
-*• Artificial Intelligence:* Decision trees and game trees.
+*â€¢ Artificial Intelligence:* Decision trees and game trees.
