@@ -1,7 +1,11 @@
 # AVL Tree
 
 ## Introduction
-An AVL Tree is a type of self-balancing binary search tree named after its inventors, Adelson-Velsky and Landis. In an AVL tree, the heights of the two child subtrees of any node differ by at most one. If at any time they differ by more than one, rebalancing is performed to restore this property.
+An AVL Tree is a type of self-balancing binary search tree named after 
+its inventors, Adelson-Velsky and Landis. In an AVL tree, the heights 
+of the two child subtrees of any node differ by at most one. If at any 
+time they differ by more than one, rebalancing is performed to restore 
+this property.
 
 ## Why Use an AVL Tree?
 - **Self-Balancing**: AVL trees maintain their balance through rotations, ensuring that operations such as insertion, deletion, and searching are efficient.
