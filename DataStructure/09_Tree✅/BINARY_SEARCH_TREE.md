@@ -10,6 +10,7 @@ A Binary Search Tree (BST) is a type of binary tree in which each node has at mo
 
 
 ![1_tUBYCHi32Zj0B2UCw0qmlA](https://github.com/user-attachments/assets/1c3f261d-f54c-4d49-9b56-8aa459ab7ada)
+![1_H5VunRRvQkQbCKcGCTGWEw](https://github.com/user-attachments/assets/1267d0b1-e0cc-424c-9b37-ce8fb38851f7)
 
 
 ## Terminologies
