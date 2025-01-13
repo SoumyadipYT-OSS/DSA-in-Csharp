@@ -10,7 +10,7 @@ A B-Tree is a self-balancing tree data structure that maintains sorted data and 
 4. **Height**: The height of the tree is kept low by splitting and merging nodes.
 
 
-![Screenshot 2025-01-14 001631](https://github.com/user-attachments/assets/ead6400c-ca95-4fec-aef7-f935401a4908)
+![Uploading Screenshot 2025-01-14 002917.png…]()
 
 
 ## Operations
