@@ -8,6 +8,10 @@ A Binary Search Tree (BST) is a type of binary tree in which each node has at mo
 - **Ordered Data**: BSTs maintain data in a sorted order, which makes them useful for applications that require ordered data.
 - **Dynamic Growth**: BSTs can grow and shrink dynamically, making them suitable for applications where data changes frequently.
 
+
+![1_tUBYCHi32Zj0B2UCw0qmlA](https://github.com/user-attachments/assets/1c3f261d-f54c-4d49-9b56-8aa459ab7ada)
+
+
 ## Terminologies
 - **Node**: The fundamental part of a tree, which contains data.
 - **Root**: The topmost node of a tree.
@@ -101,10 +105,10 @@ class Program
 
 
 ### Real-World Applications:
-*• Databases:* Used for indexing and quick data retrieval.
+*â€¢ Databases:* Used for indexing and quick data retrieval.
 
-*• File Systems:* Organizing files and directories.
+*â€¢ File Systems:* Organizing files and directories.
 
-*• Networking:* Routing algorithms.
+*â€¢ Networking:* Routing algorithms.
 
-*• Artificial Intelligence:* Decision trees and game trees.
+*â€¢ Artificial Intelligence:* Decision trees and game trees.
