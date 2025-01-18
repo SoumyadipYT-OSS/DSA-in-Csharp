@@ -3,6 +3,10 @@
 ## Introduction
 An N-Ary tree is a tree data structure where each node can have at most N children. This implementation in C# demonstrates how to create, search, and print an N-Ary tree.
 
+
+![Screenshot 2025-01-18 151707](https://github.com/user-attachments/assets/f3e7efbe-5078-4cb4-87dd-f8f4157b3f43)
+
+
 ## Tree Node Class
 The `TreeNode` class represents a node in the N-Ary tree. Each node has a value, a child, and a sibling.
 
@@ -101,25 +105,25 @@ class Program
 ```
 
 ### Real-World Applicatons
-*• File Systems:* Many operating systems use N-Ary trees to represent the hierarchical structure of directories and files. 
+*â€¢ File Systems:* Many operating systems use N-Ary trees to represent the hierarchical structure of directories and files. 
                   Each directory can contain multiple files and subdirectories, making it a perfect fit for an N-Ary tree.
 
-*• XML/HTML Parsing:* N-Ary trees are used to parse and represent XML and HTML documents. Each element in the document 
+*â€¢ XML/HTML Parsing:* N-Ary trees are used to parse and represent XML and HTML documents. Each element in the document 
                       can have multiple child elements, which can be efficiently represented using an N-Ary tree.
 
-*• Database Indexing:* N-Ary trees, particularly B-Trees and B+ Trees, are used in database indexing to allow quick data 
+*â€¢ Database Indexing:* N-Ary trees, particularly B-Trees and B+ Trees, are used in database indexing to allow quick data 
                        retrieval. These trees help in maintaining sorted data and allow searches, sequential access, 
                        insertions, and deletions in logarithmic time.
 
-*• Game Development:* In game development, N-Ary trees can be used to represent game states and decision trees. Each node 
+*â€¢ Game Development:* In game development, N-Ary trees can be used to represent game states and decision trees. Each node 
                       represents a possible state or decision, and the children represent the possible outcomes or 
                       subsequent decisions.
 
-*• Network Routing:* N-Ary trees can be used in network routing algorithms to represent the possible paths data packets 
+*â€¢ Network Routing:* N-Ary trees can be used in network routing algorithms to represent the possible paths data packets 
                      can take through a network. Each node represents a router, and the children represent the possible 
                      next hops.
 
-*• Organizational Charts:* Companies often use N-Ary trees to represent organizational structures. Each node represents 
+*â€¢ Organizational Charts:* Companies often use N-Ary trees to represent organizational structures. Each node represents 
                            an employee, and the children represent the employees that report to them.
 
 
