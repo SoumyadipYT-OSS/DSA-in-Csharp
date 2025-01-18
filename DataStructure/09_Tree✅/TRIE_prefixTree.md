@@ -3,6 +3,10 @@
 ## Introduction
 A Trie, also known as a Prefix Tree, is a tree-like data structure that is used to store a dynamic set of strings where the keys are usually strings. It is used for efficient retrieval of a key in a large dataset of strings.
 
+
+![Screenshot 2025-01-18 161734](https://github.com/user-attachments/assets/d5bf0626-bf56-45f0-a374-9722b16f66be)
+
+
 ## Why Use a Trie?
 - **Efficient Searching**: Tries provide O(m) time complexity for search operations, where m is the length of the key.
 - **Prefix Matching**: Tries are particularly useful for applications that involve prefix matching, such as autocomplete and spell checking.
@@ -112,15 +116,15 @@ class Program
 
 
 ### Real-World Applications
-*• Autocomplete:* Used in search engines and text editors to suggest words based on prefixes.
+*â€¢ Autocomplete:* Used in search engines and text editors to suggest words based on prefixes.
 
-*• Spell Checking:* Used to quickly find and suggest corrections for misspelled words.
+*â€¢ Spell Checking:* Used to quickly find and suggest corrections for misspelled words.
 
-*• IP Routing:* Used in networking to store routing information.
+*â€¢ IP Routing:* Used in networking to store routing information.
 
-*• DNA Sequencing:* Used in bioinformatics to store and search DNA sequences.
+*â€¢ DNA Sequencing:* Used in bioinformatics to store and search DNA sequences.
 
-*• Data Compression:* Used in algorithms like LZW (Lempel-Ziv-Welch) for efficient data compression.
+*â€¢ Data Compression:* Used in algorithms like LZW (Lempel-Ziv-Welch) for efficient data compression.
 
 This implementation provides a basic structure for a Trie (Prefix Tree) in C#. It includes methods for inserting words, 
 searching for words, and checking for prefixes. This can be further extended to include more functionalities as needed.
