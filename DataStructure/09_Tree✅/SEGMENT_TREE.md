@@ -3,6 +3,10 @@
 ## Introduction
 A Segment Tree is a data structure that allows efficient range queries and updates. It is particularly useful for problems involving intervals or segments, such as finding the sum, minimum, or maximum of elements in a given range.
 
+
+![Screenshot 2025-01-19 113345](https://github.com/user-attachments/assets/1d12f020-ae66-4969-be95-6ac80da047e1)
+
+
 ## Why Use a Segment Tree?
 - **Efficient Range Queries**: Segment Trees provide O(log n) time complexity for range queries.
 - **Efficient Updates**: Segment Trees allow updates to elements in O(log n) time.
@@ -93,13 +97,13 @@ class Program
 
 
 ### Real-World Applications
-*• Range Sum Queries:* Used in scenarios where t he sum of elements in a given range needs to be calculated frequently.
+*â€¢ Range Sum Queries:* Used in scenarios where t he sum of elements in a given range needs to be calculated frequently.
 
-*• Range Minimum/Maximum Queries:* Used in scenarios where the minimum or maximum of elements in a given range needs to be found.
+*â€¢ Range Minimum/Maximum Queries:* Used in scenarios where the minimum or maximum of elements in a given range needs to be found.
 
-*• Interval Scheduling:* Used in scheduling problems where intervals need to be managed efficiently.
+*â€¢ Interval Scheduling:* Used in scheduling problems where intervals need to be managed efficiently.
 
-*• Image Processing:* Used in image processing algorithms that involve range queries and updates.
+*â€¢ Image Processing:* Used in image processing algorithms that involve range queries and updates.
 
 
 This implementation provides a basic structure for a Segment Tree in C#. It includes methods for building the tree, 
