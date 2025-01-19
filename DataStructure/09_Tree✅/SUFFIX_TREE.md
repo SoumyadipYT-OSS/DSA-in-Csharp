@@ -196,3 +196,4 @@ class Program
 This implementation provides a basic structure for a Suffix Tree in C#. 
 It includes methods for building the tree and printing the suffixes. 
 This can be further extended to include more functionalities as needed.
+
