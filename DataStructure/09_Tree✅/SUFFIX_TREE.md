@@ -3,6 +3,10 @@
 ## Introduction
 A Suffix Tree is a compressed trie of all the suffixes of a given string. It is a powerful data structure that allows for efficient string matching and various other string operations.
 
+
+![image](https://github.com/user-attachments/assets/ba388422-61a5-4d28-bdcd-070c5305a9d6)
+
+
 ## Why Use a Suffix Tree?
 - **Efficient String Matching**: Suffix Trees provide O(m) time complexity for searching a pattern in a text, where m is the length of the pattern.
 - **Multiple String Operations**: Suffix Trees can be used for various string operations such as finding the longest repeated substring, longest common substring, and more.
@@ -180,13 +184,13 @@ class Program
 
 
 ### Real-World Applications
-*• String Matching:* Used in scenarios where efficient string matching is required, such as search engines and text editors.
+*â€¢ String Matching:* Used in scenarios where efficient string matching is required, such as search engines and text editors.
 
-*• Bioinformatics:* Used in bioinformatics to analyze DNA sequences.
+*â€¢ Bioinformatics:* Used in bioinformatics to analyze DNA sequences.
 
-*• Data Compression:* Used in data compression algorithms to find repeated substrings.
+*â€¢ Data Compression:* Used in data compression algorithms to find repeated substrings.
 
-*• Plagiarism Detection:* Used to detect plagiarism by finding common substrings between documents.
+*â€¢ Plagiarism Detection:* Used to detect plagiarism by finding common substrings between documents.
 
 
 This implementation provides a basic structure for a Suffix Tree in C#. 
