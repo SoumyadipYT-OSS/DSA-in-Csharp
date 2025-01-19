@@ -3,6 +3,10 @@
 ## Introduction
 A Heap Tree is a specialized tree-based data structure that satisfies the heap property. In a max heap, for any given node I, the value of I is greater than or equal to the values of its children. In a min heap, the value of I is less than or equal to the values of its children.
 
+
+![image](https://github.com/user-attachments/assets/bd8bfb4e-7c1f-42d9-bac2-d00adb4d4e5a)
+
+
 ## Why Use a Heap Tree?
 - **Efficient Priority Queue**: Heap Trees are commonly used to implement priority queues.
 - **Efficient Sorting**: Heapsort, an efficient sorting algorithm, is based on the heap data structure.
@@ -140,10 +144,10 @@ class Program
 
 
 ### Real-World Applications
-*• String Matching:* Used in scenarios where efficient string matching is required, such as search engines and text editors.
+*â€¢ String Matching:* Used in scenarios where efficient string matching is required, such as search engines and text editors.
 
-*• Bioinformatics:* Used in bioinformatics to analyze DNA sequences.
+*â€¢ Bioinformatics:* Used in bioinformatics to analyze DNA sequences.
 
-*• Data Compression:* Used in data compression algorithms to find repeated substrings.
+*â€¢ Data Compression:* Used in data compression algorithms to find repeated substrings.
 
-*• Plagiarism Detection:* Used to detect plagiarism by finding common substrings between documents.
+*â€¢ Plagiarism Detection:* Used to detect plagiarism by finding common substrings between documents.
