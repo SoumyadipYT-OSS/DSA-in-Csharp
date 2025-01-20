@@ -1,32 +1,32 @@
 using System;
-using System.Collections;
+using System.Collections.Generic;
 
 
-public class SimpleHashtable {
+public class SimpleHashMap {
     public static void Main() {
-        // Create a Hashtable
-        Hashtable hashtable = new Hashtable();
+        // Create a Dictionary (HashMap)
+        Dictionary<string, int> hashMap = new Dictionary<string, int>();
 
         // Insert key-value pairs
-        hashtable["apple"] = 1;
-        hashtable["banana"] = 2;
-        hashtable["cherry"] = 3;
+        hashMap["apple"] = 1;
+        hashMap["banana"] = 2;
+        hashMap["cherry"] = 3;
 
         // Lookup values
-        Console.WriteLine("Value for 'apple': " + hashtable["apple"]);
-        Console.WriteLine("Value for 'banana': " + hashtable["banana"]);
+        Console.WriteLine("Value for 'apple': " + hashMap["apple"]);
+        Console.WriteLine("Value for 'banana': " + hashMap["banana"]);
 
         // Check if a key exists
-        if (hashtable.Contains("cherry")) {
-            Console.WriteLine("Cherry exists in the Hashtable.");
+        if (hashMap.ContainsKey("cherry")) {
+            Console.WriteLine("Cherry exists in the HashMap.");
         }
 
         // Remove a key-value pair
-        hashtable.Remove("banana");
+        hashMap.Remove("banana");
 
-        // Iterate over the Hashtable
-        foreach (DictionaryEntry entry in hashtable) {
-            Console.WriteLine("Key: " + entry.Key + ", Value: " + entry.Value);
+        // Iterate over the HashMap
+        foreach (var kvp in hashMap) {
+            Console.WriteLine("Key: " + kvp.Key + ", Value: " + kvp.Value);
         }
     }
 }
