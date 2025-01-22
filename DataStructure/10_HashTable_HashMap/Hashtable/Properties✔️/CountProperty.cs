@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 
+/*      Count: Gets the number of key/value pairs contained in the Hashtable.       */
 public class Example {
     public static void Main() {
         // Create a new Hashtable
