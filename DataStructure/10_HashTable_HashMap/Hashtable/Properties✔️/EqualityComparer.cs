@@ -2,6 +2,8 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 
+/*  EqualityComparer: Gets the IEqualityComparer to use for the Hashtable.  */
+
 public class CustomEqualityComparer : IEqualityComparer {
     public new bool Equals(object x, object y) {
         return StringComparer.OrdinalIgnoreCase.Equals(x, y);
