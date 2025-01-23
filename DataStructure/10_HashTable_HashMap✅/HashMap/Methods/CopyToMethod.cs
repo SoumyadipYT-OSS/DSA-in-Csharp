@@ -1,6 +1,8 @@
 using System;
 using System.Collections.Generic;
 
+/*      CopyTo(KeyValuePair<TKey, TValue>[] array, int index)       */
+
 public class Example {
     public static void Main() {
         // Create a new Dictionary
