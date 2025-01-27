@@ -44,6 +44,11 @@ traversed from B to A and A to B as well.
 
 ---------------
 
+## _Terminology of Graph_
+1.  *Path:* A path is nothing but a way to reach from initial node to terminal(*target*) node.
+
+---------------
+
 ## Key Concepts
 - **Vertex**: A node in the graph.
 - **Edge**: A connection between two vertices.
