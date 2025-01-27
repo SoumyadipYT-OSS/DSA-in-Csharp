@@ -85,10 +85,122 @@ traversed from B to A and A to B as well.
 ## Graph Representation
 In data structure, we can represent graph in two ways --
  
-    Sequential representation
+1. Sequential representation
+```csharp
+    using System;
+using System.Collections.Generic;
 
-    Linked representation. (_linked list_)
-We will represent the graph using an adjacency list. Each vertex will have a list of adjacent vertices.
+public class Graph
+{
+    private Dictionary<int, List<int>> adjList;
+
+    public Graph()
+    {
+        adjList = new Dictionary<int, List<int>>();
+    }
+
+    public void AddVertex(int vertex)
+    {
+        if (!adjList.ContainsKey(vertex))
+        {
+            adjList[vertex] = new List<int>();
+        }
+    }
+
+    public void AddEdge(int vertex1, int vertex2)
+    {
+        if (adjList.ContainsKey(vertex1) && adjList.ContainsKey(vertex2))
+        {
+            adjList[vertex1].Add(vertex2);
+            adjList[vertex2].Add(vertex1);
+        }
+    }
+
+    public void PrintGraph()
+    {
+        foreach (var vertex in adjList)
+        {
+            Console.Write(vertex.Key + ": ");
+            foreach (var edge in vertex.Value)
+            {
+                Console.Write(edge + " ");
+            }
+            Console.WriteLine();
+        }
+    }
+
+    public static void Main(string[] args)
+    {
+        Graph graph = new Graph();
+        graph.AddVertex(1);
+        graph.AddVertex(2);
+        graph.AddVertex(3);
+        graph.AddEdge(1, 2);
+        graph.AddEdge(2, 3);
+        graph.PrintGraph();
+    }
+}
+```
+
+2. Linked representation. (_linked list_)
+```csharp
+using System;
+using System.Collections.Generic;
+
+public class Graph
+{
+    private Dictionary<int, LinkedList<int>> adjList;
+
+    public Graph()
+    {
+        adjList = new Dictionary<int, LinkedList<int>>();
+    }
+
+    public void AddVertex(int vertex)
+    {
+        if (!adjList.ContainsKey(vertex))
+        {
+            adjList[vertex] = new LinkedList<int>();
+        }
+    }
+
+    public void AddEdge(int vertex1, int vertex2)
+    {
+        if (adjList.ContainsKey(vertex1) && adjList.ContainsKey(vertex2))
+        {
+            adjList[vertex1].AddLast(vertex2);
+            adjList[vertex2].AddLast(vertex1);
+        }
+    }
+
+    public void PrintGraph()
+    {
+        foreach (var vertex in adjList)
+        {
+            Console.Write(vertex.Key + ": ");
+            foreach (var edge in vertex.Value)
+            {
+                Console.Write(edge + " ");
+            }
+            Console.WriteLine();
+        }
+    }
+
+    public static void Main(string[] args)
+    {
+        Graph graph = new Graph();
+        graph.AddVertex(1);
+        graph.AddVertex(2);
+        graph.AddVertex(3);
+        graph.AddEdge(1, 2);
+        graph.AddEdge(2, 3);
+        graph.PrintGraph();
+    }
+}
+
+```
+
+• We will represent the graph using an adjacency list. Each vertex will have a list of adjacent vertices.
 
 ## Implementation
 
@@ -200,3 +312,4 @@ public class Graph
 >> Transaction Networks: Analyzing financial transactions to detect fraudulent activities.
 
 >> Anomaly Detection: Identifying unusual patterns in data that may indicate fraud.
+
