@@ -8,6 +8,8 @@ each-other by the help of edge.
     -> Where 'V' indicates no. of vertices or nodes
         and 'E' indicates no. of edges.
 
+![Screenshot 2025-01-27 213400](https://github.com/user-attachments/assets/e599366c-7fca-47dc-bf12-0b31e2637367)
+
 ## Components of a Graph
 - **Vertex (Node)**: A fundamental part of a graph that represents an entity. For example, in a social network, each person can be represented as a vertex.
 - **Edge**: A connection between two vertices. Edges can be directed (one-way) or undirected (two-way). For example, in a road network, an edge can represent a road connecting two cities.
@@ -89,52 +91,52 @@ public class Graph
 
 
 ### Real-World Applications:
-*• Social Networks:*
+*â€¢ Social Networks:*
 >> Connections: Representing relationships between users (e.g., friends, followers).
 
 >> Recommendations: Suggesting friends or content based on mutual connections and interests.
 
-*• Transportation Networks:*
+*â€¢ Transportation Networks:*
 >> Routes: Mapping out routes and connections between cities, train stations, or bus stops.
 
 >> Navigation: Finding the shortest or fastest path between two locations using algorithms like Dijkstra's or A*.
 
-*• Internet & Web:*
+*â€¢ Internet & Web:*
 >> Web Pages: Representing web pages as nodes and hyperlinks as edges.
 
 >> Search Engines: Using graph algorithms to rank web pages (e.g., Google's PageRank algorithm).
-*• Biology & Medicine:*
+*â€¢ Biology & Medicine:*
 
 >> Protein Interaction Networks: Mapping interactions between proteins in a cell.
 
 >> Epidemiology: Modeling the spread of diseases through populations.
 
-*• Telecommunications:*
+*â€¢ Telecommunications:*
 >> Network Design: Designing and optimizing communication networks.
 
 >> Routing: Finding efficient paths for data transmission.
 
-*• Recommendation Systems:*
+*â€¢ Recommendation Systems:*
 >> Product Recommendations: Suggesting products to users based on their purchase history and preferences.
 
 >> Content Recommendations: Recommending movies, books, or articles based on user behavior and ratings.
 
-*• Game Development:*
+*â€¢ Game Development:*
 >> Pathfinding: Implementing AI for characters to navigate through game environments.
 
 >> Level Design: Creating interconnected levels and worlds.
 
-*• Electrical Engineering:*
+*â€¢ Electrical Engineering:*
 >> Circuit Design: Representing electrical circuits with components as nodes and connections as edges.
 
 >> Power Grids: Modeling and optimizing power distribution networks.
 
-*• Project Management:*
+*â€¢ Project Management:*
 >> Task Scheduling: Representing tasks as nodes and dependencies as edges to manage project timelines.
 
 >> Resource Allocation: Optimizing the allocation of resources across tasks
 
-*• Fraud Detection:*
+*â€¢ Fraud Detection:*
 >> Transaction Networks: Analyzing financial transactions to detect fraudulent activities.
 
 >> Anomaly Detection: Identifying unusual patterns in data that may indicate fraud.
