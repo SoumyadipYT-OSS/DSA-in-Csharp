@@ -36,6 +36,12 @@ total number of 5 vertices and 6 edges.
 It indicates a specific path from one vertex to another vertex in graph 'G'.
 ![Screenshot 2025-01-27 220643](https://github.com/user-attachments/assets/f8ec61c2-0212-4a0f-9d19-8d1b65eee38b)
 
+### Undirected Graph
+In this graph, edges are not associated with the any directions. For example:
+if an edge exists between A & B vertices, then the vertices can be 
+traversed from B to A and A to B as well.
+
+
 ## Key Concepts
 - **Vertex**: A node in the graph.
 - **Edge**: A connection between two vertices.
