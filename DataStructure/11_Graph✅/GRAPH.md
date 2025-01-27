@@ -60,7 +60,11 @@ traversed from B to A and A to B as well.
               with that node in the the graph.
 ![Screenshot 2025-01-28 001419](https://github.com/user-attachments/assets/17f6860e-dad5-4cb1-86c4-efdd59363e4c)
 
----------------
+ 5. *Complete Graph:* If all the nodes of a graph connected to each other it is 
+                      called complete graph. It is denoted by 'K'.
+
+
+ ---------------
 
 ## Key Concepts
 - **Vertex**: A node in the graph.
