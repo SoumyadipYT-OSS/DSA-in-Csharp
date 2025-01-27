@@ -52,6 +52,10 @@ traversed from B to A and A to B as well.
                     the nodes A & B are called as neighbours.
 ![Screenshot 2025-01-27 231556](https://github.com/user-attachments/assets/5dad1e63-955a-419d-bccf-7b0264f43489)
 
+ 3. *Cycle:* A cycle is nothing but path wich has no repeated edges or vertices
+            except the first & last vertices.
+ 
+
 ---------------
 
 ## Key Concepts
