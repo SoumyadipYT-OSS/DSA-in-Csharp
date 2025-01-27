@@ -1,8 +1,12 @@
 # Graph Data Structure in C#
 
-## Introduction
-A graph is a collection of nodes (vertices) and edges connecting them. 
-Graphs are used to represent various real-world problems like social networks, transportation systems, and more. In this guide, we will explore the implementation of a graph data structure in C#.
+## What is Graph?
+Graph is a collection of data item called node, where nodes are connected to 
+each-other by the help of edge.
+    -> A graph 'G' can be represent on ordered
+        pair i.e. G(V, E).
+    -> Where 'V' indicates no. of vertices or nodes
+        and 'E' indicates no. of edges.
 
 ## Components of a Graph
 - **Vertex (Node)**: A fundamental part of a graph that represents an entity. For example, in a social network, each person can be represented as a vertex.
