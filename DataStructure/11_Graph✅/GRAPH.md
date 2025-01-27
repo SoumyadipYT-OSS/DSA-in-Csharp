@@ -58,6 +58,7 @@ traversed from B to A and A to B as well.
  
  4. *Degree:* The degree of nodes indicates the total number of edges connected 
               with that node in the the graph.
+![Screenshot 2025-01-28 001419](https://github.com/user-attachments/assets/17f6860e-dad5-4cb1-86c4-efdd59363e4c)
 
 ---------------
 
