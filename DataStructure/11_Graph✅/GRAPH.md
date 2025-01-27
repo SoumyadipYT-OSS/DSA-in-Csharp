@@ -26,11 +26,14 @@ total number of 5 vertices and 6 edges.
 - **Edge**: A connection between two vertices. Edges can be directed (one-way) or undirected (two-way). For example, in a road network, an edge can represent a road connecting two cities.
 
 ## Types of Graphs
-- **Undirected Graph**: A graph where edges have no direction. The connection between vertices is bidirectional.
-- **Directed Graph (Digraph)**: A graph where edges have a direction, indicating a one-way relationship between vertices.
+- **Undirected Graph**: A graph where edges have no direction. The connection between vertices is bidirectional. _It is also called connected graph._
+- **Directed Graph (Digraph)**: A graph where edges have a direction, indicating a one-way relationship between vertices. _It is also called unconnected graph_
 - **Weighted Graph**: A graph where edges have weights, representing the cost or distance between vertices.
 - **Unweighted Graph**: A graph where edges do not have weights.
 
+
+### Directed Graph
+It indicates a specific path from one vertex to another vertex in graph 'G'.
 
 
 ## Key Concepts
