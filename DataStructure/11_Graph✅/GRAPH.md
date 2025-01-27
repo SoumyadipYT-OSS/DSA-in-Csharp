@@ -45,11 +45,12 @@ traversed from B to A and A to B as well.
 ---------------
 
 ## _Terminology of Graph_
-1.  *Path:* A path is nothing but a way to reach from initial node to terminal(*target*) node.
+ 1.  *Path:* A path is nothing but a way to reach from initial node to terminal(*target*) node.
 ![Screenshot 2025-01-27 225725](https://github.com/user-attachments/assets/a9892d2b-e130-4131-92c1-5c4810cc95ae)
 
-2. *Adjacent Node:* If two nodes A and B are connected via an edge (E), then
+ 2. *Adjacent Node:* If two nodes A and B are connected via an edge (E), then
                     the nodes A & B are called as neighbours.
+
 
 ---------------
 
