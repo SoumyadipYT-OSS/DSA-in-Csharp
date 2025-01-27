@@ -16,6 +16,10 @@ each-other by the help of edge.
 
 *__Explanation_*: Here is simple example of complex graph. 
 ![Screenshot 2025-01-27 215154](https://github.com/user-attachments/assets/ad42989a-55bf-41ca-b454-3249b38f953d)
+>> So, G(5,6) in the figure, it is telling that the graph 'G' has 
+total number of 5 vertices and 6 edges.
+
+---------------
 
 ## Components of a Graph
 - **Vertex (Node)**: A fundamental part of a graph that represents an entity. For example, in a social network, each person can be represented as a vertex.
