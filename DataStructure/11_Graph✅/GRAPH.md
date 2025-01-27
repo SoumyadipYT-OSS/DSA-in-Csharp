@@ -1,4 +1,4 @@
-# Graph Data Structure in C#
+![Screenshot 2025-01-27 215154](https://github.com/user-attachments/assets/d2c1d4e5-89ea-4661-9561-1e816312aba5)# Graph Data Structure in C#
 
 ## What is Graph?
 Graph is a collection of data item called node, where nodes are connected to 
@@ -13,6 +13,7 @@ each-other by the help of edge.
 >> In Simple, collection of vertices and edges called Graph.
 
 *__Explanation_*: 
+![Screenshot 2025-01-27 215154](https://github.com/user-attachments/assets/ad42989a-55bf-41ca-b454-3249b38f953d)
 
 ## Components of a Graph
 - **Vertex (Node)**: A fundamental part of a graph that represents an entity. For example, in a social network, each person can be represented as a vertex.
