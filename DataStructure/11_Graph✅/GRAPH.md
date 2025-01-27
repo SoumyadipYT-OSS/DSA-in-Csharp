@@ -63,7 +63,9 @@ traversed from B to A and A to B as well.
  5. *Complete Graph:* If all the nodes of a graph connected to each other it is 
                       called complete graph. It is denoted by 'K'.
 ![Screenshot 2025-01-28 014515](https://github.com/user-attachments/assets/3121c8a5-6593-4130-a53b-e4ce981914b2)
-
+>> Note: A complete graph contains n(n-1)/2 edges, where n is the number of nodes.
+         Suppose a complete graph contains 4 nodes then its total number of edges 
+         will be 4(4-1)/2 = 6 edges.
 
  ---------------
 
