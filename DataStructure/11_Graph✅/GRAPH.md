@@ -83,6 +83,9 @@ traversed from B to A and A to B as well.
 - **Adjacency List**: A way to represent a graph using lists to store adjacent vertices.
 
 ## Graph Representation
+In data structure, we can represent graph in two ways --
+ -> Sequential representation
+ -> Linked representation. (_linked list_)
 We will represent the graph using an adjacency list. Each vertex will have a list of adjacent vertices.
 
 ## Implementation
