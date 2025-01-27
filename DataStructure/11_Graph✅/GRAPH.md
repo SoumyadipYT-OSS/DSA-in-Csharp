@@ -89,14 +89,36 @@ public class Graph
 >> Search Engines: Using graph algorithms to rank web pages (e.g., Google's PageRank algorithm).
 *• Biology & Medicine:*
 
+>> Protein Interaction Networks: Mapping interactions between proteins in a cell.
+
+>> Epidemiology: Modeling the spread of diseases through populations.
+
 *• Telecommunications:*
+>> Network Design: Designing and optimizing communication networks.
+
+>> Routing: Finding efficient paths for data transmission.
 
 *• Recommendation Systems:*
+>> Product Recommendations: Suggesting products to users based on their purchase history and preferences.
+
+>> Content Recommendations: Recommending movies, books, or articles based on user behavior and ratings.
 
 *• Game Development:*
+>> Pathfinding: Implementing AI for characters to navigate through game environments.
+
+>> Level Design: Creating interconnected levels and worlds.
 
 *• Electrical Engineering:*
+>> Circuit Design: Representing electrical circuits with components as nodes and connections as edges.
+
+>> Power Grids: Modeling and optimizing power distribution networks.
 
 *• Project Management:*
+>> Task Scheduling: Representing tasks as nodes and dependencies as edges to manage project timelines.
+
+>> Resource Allocation: Optimizing the allocation of resources across tasks
 
 *• Fraud Detection:*
+>> Transaction Networks: Analyzing financial transactions to detect fraudulent activities.
+
+>> Anomaly Detection: Identifying unusual patterns in data that may indicate fraud.
