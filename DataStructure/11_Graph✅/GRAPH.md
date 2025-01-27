@@ -60,6 +60,9 @@ traversed from B to A and A to B as well.
               with that node in the the graph.
 ![Screenshot 2025-01-28 001419](https://github.com/user-attachments/assets/17f6860e-dad5-4cb1-86c4-efdd59363e4c)
 
+>> _Degree for Directed graph_
+![Screenshot 2025-01-28 004956](https://github.com/user-attachments/assets/7d035b6b-dc4e-4819-8a50-58fef6f16d8a)
+
 ---------------
 
 ## Key Concepts
