@@ -55,6 +55,9 @@ traversed from B to A and A to B as well.
  3. *Cycle:* A cycle is nothing but path wich has no repeated edges or vertices
             except the first & last vertices.
  ![Screenshot 2025-01-27 232341](https://github.com/user-attachments/assets/1032359d-f6fb-4312-8b4f-d3e7a67c1ffe)
+ 
+ 4. *Degree:* The degree of nodes indicates the total number of edges connected 
+              with that node in the the graph.
 
 ---------------
 
