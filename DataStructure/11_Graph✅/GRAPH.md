@@ -34,7 +34,7 @@ total number of 5 vertices and 6 edges.
 
 ### Directed Graph
 It indicates a specific path from one vertex to another vertex in graph 'G'.
-
+![Screenshot 2025-01-27 220643](https://github.com/user-attachments/assets/f8ec61c2-0212-4a0f-9d19-8d1b65eee38b)
 
 ## Key Concepts
 - **Vertex**: A node in the graph.
