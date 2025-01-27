@@ -10,6 +10,10 @@ each-other by the help of edge.
 
 ![Screenshot 2025-01-27 213400](https://github.com/user-attachments/assets/e599366c-7fca-47dc-bf12-0b31e2637367)
 
+>> In Simple, collection of vertices and edges called Graph.
+
+*__Explanation_*: 
+
 ## Components of a Graph
 - **Vertex (Node)**: A fundamental part of a graph that represents an entity. For example, in a social network, each person can be represented as a vertex.
 - **Edge**: A connection between two vertices. Edges can be directed (one-way) or undirected (two-way). For example, in a road network, an edge can represent a road connecting two cities.
