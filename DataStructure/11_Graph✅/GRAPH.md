@@ -4,6 +4,18 @@
 A graph is a collection of nodes (vertices) and edges connecting them. 
 Graphs are used to represent various real-world problems like social networks, transportation systems, and more. In this guide, we will explore the implementation of a graph data structure in C#.
 
+## Components of a Graph
+- **Vertex (Node)**: A fundamental part of a graph that represents an entity. For example, in a social network, each person can be represented as a vertex.
+- **Edge**: A connection between two vertices. Edges can be directed (one-way) or undirected (two-way). For example, in a road network, an edge can represent a road connecting two cities.
+
+## Types of Graphs
+- **Undirected Graph**: A graph where edges have no direction. The connection between vertices is bidirectional.
+- **Directed Graph (Digraph)**: A graph where edges have a direction, indicating a one-way relationship between vertices.
+- **Weighted Graph**: A graph where edges have weights, representing the cost or distance between vertices.
+- **Unweighted Graph**: A graph where edges do not have weights.
+
+
+
 ## Key Concepts
 - **Vertex**: A node in the graph.
 - **Edge**: A connection between two vertices.
