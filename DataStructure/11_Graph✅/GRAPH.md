@@ -69,9 +69,11 @@ traversed from B to A and A to B as well.
 
  6. *Weighted Graph:* If edge of a graph are assigned with value or weight then
                       then it is called weighted graph.
+![Screenshot 2025-01-28 030843](https://github.com/user-attachments/assets/ab8c3d85-5e28-44b1-8a8f-eb3755ae0fc7)
 
  7. *Multi-Graph:* If a graph contains multiple edges between two nodes.
                    That graph is called multi-graph.
+![Screenshot 2025-01-28 031319](https://github.com/user-attachments/assets/a52d4b61-2e53-468b-9ad1-835949399b16)
 
  ---------------
 
