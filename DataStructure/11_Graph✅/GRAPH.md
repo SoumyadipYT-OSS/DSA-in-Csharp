@@ -1,4 +1,4 @@
-![Screenshot 2025-01-27 215154](https://github.com/user-attachments/assets/d2c1d4e5-89ea-4661-9561-1e816312aba5)# Graph Data Structure in C#
+# Graph Data Sctructure in C#
 
 ## What is Graph?
 Graph is a collection of data item called node, where nodes are connected to 
