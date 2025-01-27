@@ -79,9 +79,14 @@ public class Graph
 >> Recommendations: Suggesting friends or content based on mutual connections and interests.
 
 *• Transportation Networks:*
+>> Routes: Mapping out routes and connections between cities, train stations, or bus stops.
+
+>> Navigation: Finding the shortest or fastest path between two locations using algorithms like Dijkstra's or A*.
 
 *• Internet & Web:*
+>> Web Pages: Representing web pages as nodes and hyperlinks as edges.
 
+>> Search Engines: Using graph algorithms to rank web pages (e.g., Google's PageRank algorithm).
 *• Biology & Medicine:*
 
 *• Telecommunications:*
