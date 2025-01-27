@@ -12,7 +12,9 @@ each-other by the help of edge.
 
 >> In Simple, collection of vertices and edges called Graph.
 
-*__Explanation_*: 
+---------------
+
+*__Explanation_*: Here is simple example of complex graph. 
 ![Screenshot 2025-01-27 215154](https://github.com/user-attachments/assets/ad42989a-55bf-41ca-b454-3249b38f953d)
 
 ## Components of a Graph
