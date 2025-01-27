@@ -50,7 +50,7 @@ traversed from B to A and A to B as well.
 
  2. *Adjacent Node:* If two nodes A and B are connected via an edge (E), then
                     the nodes A & B are called as neighbours.
-
+![Screenshot 2025-01-27 231556](https://github.com/user-attachments/assets/5dad1e63-955a-419d-bccf-7b0264f43489)
 
 ---------------
 
