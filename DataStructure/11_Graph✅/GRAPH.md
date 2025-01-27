@@ -46,6 +46,7 @@ traversed from B to A and A to B as well.
 
 ## _Terminology of Graph_
 1.  *Path:* A path is nothing but a way to reach from initial node to terminal(*target*) node.
+![Screenshot 2025-01-27 225725](https://github.com/user-attachments/assets/a9892d2b-e130-4131-92c1-5c4810cc95ae)
 
 ---------------
 
