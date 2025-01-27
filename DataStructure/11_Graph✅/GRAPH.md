@@ -67,6 +67,12 @@ traversed from B to A and A to B as well.
          Suppose a complete graph contains 4 nodes then its total number of edges 
          will be 4(4-1)/2 = 6 edges.
 
+ 6. *Weighted Graph:* If edge of a graph are assigned with value or weight then
+                      then it is called weighted graph.
+
+ 7. *Multi-Graph:* If a graph contains multiple edges between two nodes.
+                   That graph is called multi-graph.
+
  ---------------
 
 ## Key Concepts
