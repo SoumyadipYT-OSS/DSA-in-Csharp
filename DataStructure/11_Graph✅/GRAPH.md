@@ -40,7 +40,9 @@ It indicates a specific path from one vertex to another vertex in graph 'G'.
 In this graph, edges are not associated with the any directions. For example:
 if an edge exists between A & B vertices, then the vertices can be 
 traversed from B to A and A to B as well.
+![Screenshot 2025-01-27 222428](https://github.com/user-attachments/assets/22e98f42-ad3d-4059-bf1a-7714503940ae)
 
+---------------
 
 ## Key Concepts
 - **Vertex**: A node in the graph.
