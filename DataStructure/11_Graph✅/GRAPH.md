@@ -87,7 +87,7 @@ In data structure, we can represent graph in two ways --
  
 1. Sequential representation
 ```csharp
-    using System;
+using System;
 using System.Collections.Generic;
 
 public class Graph
