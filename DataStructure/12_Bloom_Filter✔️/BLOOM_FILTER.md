@@ -178,3 +178,11 @@ optimize Bloom Filters for a wide array of scenarios. Future explorations could 
 Counting or Scalable Bloom Filters, paving the way for applications that require dynamic data handling and deletion support. 
 Ultimately, Bloom Filters are a potent tool in the developer’s toolbox, balancing efficiency and performance in systems 
 where facing massive data sets is common.
+
+
+
+## References & Further Reading
+- [Bloom Filters: A Probabilistic Data Structure](https://en.wikipedia.org/wiki/Bloom_filter)
+- [Probabilistic Data Structures for Computer Science](https://www.cs.cmu.edu/~avrim/451f11/lectures/lect12.pdf)
+- [Understanding Bloom Filters](https://www.cs.utexas.edu/~moore/publications/bloom.pdf)
+- [Counting Bloom Filters](https://www.cs.cmu.edu/~dga/papers/bloom.pdf)
