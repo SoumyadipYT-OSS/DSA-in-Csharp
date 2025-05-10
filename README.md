@@ -1,114 +1,143 @@
 # 📚 Data Structure and Algorithm in C# (Csharp 🚀)
 #### *Author: Soumyadip Majumder*
 
-![OIP](https://github.com/user-attachments/assets/9af1c82d-ee08-4e35-a182-407011f0c2db)          ![download](https://github.com/user-attachments/assets/f32be685-d351-4299-a197-04e2d0fcd134)
+[![OIP](https://github.com/user-attachments/assets/9af1c82d-ee08-4e35-a182-407011f0c2db)](https://github.com)  [![download](https://github.com/user-attachments/assets/f32be685-d351-4299-a197-04e2d0fcd134)](https://github.com)
 
-### !Important Notes: 
-	✅ This sign for complete all properties and methods for the class.
-	✔️ This sign for new features in C# 12
+---
 
+### !Important Notes:
+- ✅ *Indicates that all properties and methods for the class are completely implemented.*
+- ✔️ *Denotes features using new capabilities of C# 12.*
 
-Welcome to the **DSA in CSharp** repository! This project is dedicated to providing comprehensive resources and code examples for mastering Data Structures and Algorithms (DSA) using C# 12 and .NET 8.
+---
+
+## Welcome!
+Welcome to the **DSA in CSharp** repository – your one-stop resource for mastering Data Structures and Algorithms using **C# 12** and **.NET 8**. Whether you're preparing for technical interviews or enhancing your coding skills, you'll find practical examples and step-by-step tutorials here.
+
+---
 
 ## 🚀 Features
+- **Comprehensive Coverage**: Explore all major data structures and algorithms.
+- **Modern C#**: Leverage the latest enhancements in C# 12 and .NET 8.
+- **Practical Examples**: Real-world code samples to solidify your understanding.
+- **Interview Preparation**: Essential concepts to ace coding rounds.
 
-- **Comprehensive Coverage**: Includes all major data structures and algorithms.
-- **Modern C#**: Utilizes the latest features of C# 12 and .NET 8.
-- **Practical Examples**: Real-world examples to help you understand and implement DSA concepts.
-- **Interview Preparation**: Essential for cracking coding interviews and coding rounds.
+---
 
 ## 📂 Table of Contents
+1. [Introduction](#introduction)
+2. [Basic Data Structures](#basic-data-structures)
+3. [Advanced Data Structures](#advanced-data-structures)
+4. [Algorithms](#algorithms)
+5. [Additional Topics](#additional-topics)
+6. [C# Specific Collections](#c-specific-collections)
+7. [Pointers in C#](#pointers-in-c)
+8. [Data Structures Overview](#data-structures-overview)
+9. [Contributing](#contributing)
+10. [License](#license)
 
-1. Introduction
-2. Basic Data Structures
-3. Advanced Data Structures
-4. Algorithms
-5. Additional Topics
-6. C# Specific Collections
-7. Pointers in C#
-8. Contributing
-9. License
+---
 
 ## 📖 Introduction
+This repository serves as a comprehensive resource for learning, implementing, and mastering Data Structures and Algorithms in C#. Whether you’re a beginner aiming to strengthen your fundamentals or an experienced developer preparing for interviews, our projects and examples will guide you every step of the way.
 
-This repository aims to be a one-stop resource for learning and mastering Data Structures and Algorithms in C#. Whether you're preparing for interviews or looking to enhance your coding skills, you'll find valuable content here.
+---
 
 ## 🛠️ Basic Data Structures
+- **Arrays:** Fixed-size collections with constant-time element access.
+- **ArrayList:** Non-generic, dynamically resizing arrays.
+- **List&lt;T&gt;:** Generic, dynamic arrays with type safety.
+- **Strings:** Immutable sequences of characters.
+- **Pointers:** Direct memory access under unsafe code contexts.
+- **Linked Lists:** Nodes connected via pointers for efficient insertions/deletions.
+- **Stacks:** LIFO structures for Last-In-First-Out operations.
+- **Queues:** FIFO structures for First-In-First-Out operations.
 
-- Arrays
-- ArrayList
-- List
-- Strings
-- Pointers
-- Linked Lists
-- Stacks
-- Queues
+---
 
 ## 🌳 Advanced Data Structures
+- **Trees:** Hierarchical data representation for quick searches.
+- **Heaps:** Complete binary trees for efficient priority operations.
+- **Graphs:** Networks of nodes/edges for complex relationships.
+- **Hash Tables / Hash Maps:** Key-value stores with near-constant lookups.
+- **Bloom Filters:** Probabilistic structures for membership testing.
+- **Skip Lists:** Layered, probabilistic linked lists with logarithmic search times.
+- **Priority Queues:** Abstract queues (often backed by heaps) for priority order.
+- **Concurrent Collections:** Thread-safe collections built for multi-threaded scenarios.
 
-- Trees
-- Heaps
-- Graphs
-- Hashing
+---
 
 ## 🔍 Algorithms
+- **Sorting Algorithms:** QuickSort, MergeSort, Bubble Sort, etc.
+- **Searching Algorithms:** Linear Search, Binary Search, DFS, BFS.
+- **Dynamic Programming:** Optimized recursive breakdowns.
+- **Greedy Algorithms:** Fast, heuristic-based solutions.
+- **Backtracking:** Recursive exploration with constraint satisfaction.
+- **Divide and Conquer:** Splitting problems to conquer recursively.
 
-- Sorting Algorithms
-- Searching Algorithms
-- Dynamic Programming
-- Greedy Algorithms
-- Backtracking
-- Divide and Conquer
+---
 
 ## 📊 Additional Topics
+- **Bit Manipulation:** Low-level operations for performance.
+- **Mathematical Algorithms:** Number theory and computational geometry.
+- **String Algorithms:** Pattern matching, searching, and parsing.
+- **Geometric Algorithms:** Computational geometry for graphics.
+- **Randomized Algorithms:** Probabilistic approaches to optimization.
 
-- Bit Manipulation
-- Mathematical Algorithms
-- String Algorithms
-- Geometric Algorithms
-- Randomized Algorithms
+---
 
 ## 🗂️ C# Specific Collections
+- **Generic Collections:** `List<T>`, `Dictionary<TKey,TValue>`, etc.
+- **Non-Generic Collections:** Legacy collections like `ArrayList`.
+- **Concurrent Collections:** Thread-safe collections (`ConcurrentDictionary`, `ConcurrentQueue`, etc.).
+- **Immutable Collections:** Collections that do not change after creation.
 
-- Generic Collections
-- Non-Generic Collections
-- Concurrent Collections
-- Immutable Collections
+---
 
 ## 🧩 Pointers in C#
+- **Declaration and Initialization**
+- **Dereferencing and Address-of Operators**
+- **Pointer Arithmetic**
+- **Unsafe Code Blocks**
+- **Fixed Statements for Pinning Objects**
 
-- Declaration and Initialization
-- Dereferencing and Address-of Operators
-- Pointer Arithmetic
-- Unsafe Code Blocks
-- Fixed Statement for Pinning Objects
+---
 
+## 🔎 Data Structures Overview
 
-## Data Structures and Algorithms
+Below is a summary table showcasing the major data structures covered, with their descriptions and average complexities:
 
-| Data Structure | Description                         | Complexity (Average) |
-|----------------|-------------------------------------|----------------------|
-| **Array**      | Collection of elements              | O(1) for access      |
-| **Linked List**| Sequence of nodes                   | O(n) for access      |
-| **Stack**      | LIFO (Last In, First Out) structure | O(1) for push/pop    |
-| **Queue**      | FIFO (First In, First Out) structure| O(1) for enqueue/dequeue |
-| **Tree**       | Hierarchical structure              | O(log n) for search  |
-| **Graph**      | Set of nodes connected by edges     | O(V+E) for traversal |
-| **Hash Table** | Key-value pairs                     | O(1) for search      |
+| **Data Structure**         | **Description**                                                                                             | **Complexity (Average)**                         |
+|----------------------------|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| **Array**                  | Fixed-size collection offering constant-time index access.                                               | O(1) for access; O(n) for insertion/deletion       |
+| **ArrayList**              | Dynamically resizing non-generic collection.                                                                | O(1) amortized for add; O(n) for deletion          |
+| **List&lt;T&gt;**           | Generic dynamic array with type-safety and efficient random access.                                          | O(1) amortized for add; O(n) for removal           |
+| **Linked List**            | Sequential collection of nodes with pointers; efficient insertions/deletions at extremes.                   | O(n) for access; O(1) for insertion/deletion         |
+| **Stack**                  | LIFO (Last-In-First-Out) structure for managing data.                                                       | O(1) for push/pop                                  |
+| **Queue**                  | FIFO (First-In-First-Out) structure for orderly processing.                                                  | O(1) for enqueue/dequeue                           |
+| **Tree**                   | Hierarchical, non-linear data structure optimized for quick lookups.                                          | O(log n) for balanced tree operations              |
+| **Graph**                  | Network of nodes connected by edges, used in various traversal and optimization algorithms.                   | O(V+E) for traversal                                |
+| **Hash Table / Hash Map**  | Key-value storage offering fast lookups and insertions.                                                       | O(1) average for search/insertion/deletion          |
+| **Bloom Filter**           | Probabilistic data structure for membership queries, allowing false positives.                                | O(k) for k hash functions                           |
+| **Skip List**              | Probabilistic layered linked list structure supporting fast search, insertion, and deletion.                     | O(log n)                                           |
+| **Heap**                   | Binary tree (array-backed) used primarily for managing priority; supports efficient extraction of minimum/maximum.| O(1) for peek; O(log n) for insert/delete           |
+| **Priority Queue**         | Abstract data type (often implemented using a heap) for element prioritization.                                | O(1) for peek; O(log n) for insert/dequeue          |
+| **Concurrent Collections** | Thread-safe data structures (e.g., `ConcurrentDictionary`, `ConcurrentQueue`) built for multi-threaded applications. | Varies; generally optimized for concurrency         |
 
-
+---
 
 ## 🤝 Contributing
+We welcome contributions! Please check our [Contributing Guidelines](./CONTRIBUTING.md) for details on how to report issues, propose enhancements, or submit pull requests.
 
-We welcome contributions! Please read our Contributing Guidelines for more details.
+---
 
 ## 📜 License
-
-This project is licensed under the Siksha 'O' University, IIT Bombay License - see the LICENSE file for details.
+This project is licensed under the **Siksha 'O' University, IIT Bombay License** – see the [LICENSE](LICENSE) file for details.
 
 ---
 
 ![signature](https://github.com/user-attachments/assets/c0f3155e-d875-4627-87e9-89ecaab93eca)
 
+---
 
-!Happy Coding 🚀
+Happy Coding 🚀
