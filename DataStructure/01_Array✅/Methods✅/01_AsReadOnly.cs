@@ -31,7 +31,7 @@ class Program {
 
     // Main method
     static void Main() {
-        string[] myArr = { "C#", "Python", "C++", "Pearl" };
+        string[] myArr = { "C#", "Python", "C++", "Perl" };
         Console.WriteLine("The string array contains initially: ");
         PrintValues(myArr);
 

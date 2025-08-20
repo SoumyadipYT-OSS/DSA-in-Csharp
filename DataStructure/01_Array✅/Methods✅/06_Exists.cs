@@ -39,7 +39,7 @@ class Program {
 
     protected static void Example3() {
         string[] programmingLanguages = { "C#", "Python", "C++", "TypeScript", "COBOL",
-                                            "JavaScript", "Pearl", "Ruby", "R", "C",
+                                            "JavaScript", "Perl", "Ruby", "R", "C",
                                             "GoLang", "Elixir", "CUDA", "Java", "Solidity" };
 
         char[] findChars = { 'C', 'E', 'R', 'P' };

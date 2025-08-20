@@ -31,7 +31,7 @@ class SampleProgram {
         PrintValues(myQ);
 
         // Contains method
-        Console.Write("Does it Contain word \"SUV\"? " + myQ.Contains("SUV"));
+        Console.WriteLine("Does it Contain word \"SUV\"? " + myQ.Contains("SUV"));
 
 
         // ToArray Method
