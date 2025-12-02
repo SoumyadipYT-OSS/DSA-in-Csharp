@@ -34,7 +34,5 @@ class Program
         // Demonstrating update via indexer
         dict[2] = "Two updated";
         Console.WriteLine($"Updated item with key 2: {dict[2]}");
-
-        Console.ReadKey();
     }
 }
