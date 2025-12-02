@@ -1,8 +1,8 @@
 # 📚 Data Structure and Algorithm in C# (Csharp 🚀)
 #### *Author: Soumyadip Majumder*
 
-[![OIP](https://github.com/user-attachments/assets/9af1c82d-ee08-4e35-a182-407011f0c2db)](https://github.com)  [![download]
-<img width="1536" height="1024" alt="net10-hero-min" src="https://github.com/user-attachments/assets/b1e9aacf-1302-449e-9cdd-3ffc91eb3dd8" />
+[![OIP](https://github.com/user-attachments/assets/9af1c82d-ee08-4e35-a182-407011f0c2db)](https://github.com)
+<img width="400" height="200" alt="net10-hero-min" src="https://github.com/user-attachments/assets/b1e9aacf-1302-449e-9cdd-3ffc91eb3dd8" />
 
 ---
 
