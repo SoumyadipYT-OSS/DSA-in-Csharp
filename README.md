@@ -17,7 +17,7 @@ Welcome to the **DSA in CSharp** repository – your one-stop resource for maste
 
 ---
 
-## 🚀 Features
+## Features
 - **Comprehensive Coverage**: Explore all major data structures and algorithms.
 - **Modern C#**: Leverage the latest enhancements in C# 12 and .NET 8.
 - **Practical Examples**: Real-world code samples to solidify your understanding.
@@ -25,7 +25,7 @@ Welcome to the **DSA in CSharp** repository – your one-stop resource for maste
 
 ---
 
-## 📂 Table of Contents
+## Table of Contents
 1. [Introduction](#introduction)
 2. [Basic Data Structures](#basic-data-structures)
 3. [Advanced Data Structures](#advanced-data-structures)
@@ -39,12 +39,12 @@ Welcome to the **DSA in CSharp** repository – your one-stop resource for maste
 
 ---
 
-## 📖 Introduction
+## Introduction
 This repository serves as a comprehensive resource for learning, implementing, and mastering Data Structures and Algorithms in C#. Whether you’re a beginner aiming to strengthen your fundamentals or an experienced developer preparing for interviews, our projects and examples will guide you every step of the way.
 
 ---
 
-## 🛠️ Basic Data Structures
+## Basic Data Structures
 - **Arrays:** Fixed-size collections with constant-time element access.
 - **ArrayList:** Non-generic, dynamically resizing arrays.
 - **List&lt;T&gt;:** Generic, dynamic arrays with type safety.
@@ -56,7 +56,7 @@ This repository serves as a comprehensive resource for learning, implementing, a
 
 ---
 
-## 🌳 Advanced Data Structures
+## Advanced Data Structures
 - **Trees:** Hierarchical data representation for quick searches.
 - **Heaps:** Complete binary trees for efficient priority operations.
 - **Graphs:** Networks of nodes/edges for complex relationships.
@@ -68,7 +68,7 @@ This repository serves as a comprehensive resource for learning, implementing, a
 
 ---
 
-## 🔍 Algorithms
+## Algorithms
 - **Sorting Algorithms:** QuickSort, MergeSort, Bubble Sort, etc.
 - **Searching Algorithms:** Linear Search, Binary Search, DFS, BFS.
 - **Dynamic Programming:** Optimized recursive breakdowns.
@@ -78,7 +78,7 @@ This repository serves as a comprehensive resource for learning, implementing, a
 
 ---
 
-## 📊 Additional Topics
+## Additional Topics
 - **Bit Manipulation:** Low-level operations for performance.
 - **Mathematical Algorithms:** Number theory and computational geometry.
 - **String Algorithms:** Pattern matching, searching, and parsing.
@@ -87,7 +87,7 @@ This repository serves as a comprehensive resource for learning, implementing, a
 
 ---
 
-## 🗂️ C# Specific Collections
+## C# Specific Collections
 - **Generic Collections:** `List<T>`, `Dictionary<TKey,TValue>`, etc.
 - **Non-Generic Collections:** Legacy collections like `ArrayList`.
 - **Concurrent Collections:** Thread-safe collections (`ConcurrentDictionary`, `ConcurrentQueue`, etc.).
@@ -95,7 +95,7 @@ This repository serves as a comprehensive resource for learning, implementing, a
 
 ---
 
-## 🧩 Pointers in C#
+## Pointers in C#
 - **Declaration and Initialization**
 - **Dereferencing and Address-of Operators**
 - **Pointer Arithmetic**
@@ -104,7 +104,7 @@ This repository serves as a comprehensive resource for learning, implementing, a
 
 ---
 
-## 🔎 Data Structures Overview
+## Data Structures Overview
 
 Below is a summary table showcasing the major data structures covered, with their descriptions and average complexities:
 
@@ -132,7 +132,7 @@ We welcome contributions! Please check our [Contributing Guidelines](./CONTRIBUT
 
 ---
 
-## 📜 License
+## License
 This project is licensed under the **Siksha 'O' University, IIT Bombay License** – see the [LICENSE](LICENSE) file for details.
 
 ---
