@@ -12,7 +12,7 @@ class InlineArrays {
         // Inline array declaration
         int[] numbers = new int[] { 1, 2, 3, 4, 5 };
         Console.WriteLine("Inline Array:");
-        foreach (var number in numbers) {
+        foreajjch (var number in numbers) {
             Console.Write(number + " ");
         }
 
