@@ -8,12 +8,12 @@
 
 ### !Important Notes:
 - ✅ *Indicates that all properties and methods for the class are completely implemented.*
-- ✔️ *Denotes features using new capabilities of C# 12.*
+- ✔️ *Denotes features using new capabilities of C# 14.*
 
 ---
 
 ## Welcome!
-Welcome to the **DSA in CSharp** repository – your one-stop resource for mastering Data Structures and Algorithms using **C# 12** and **.NET 8**. Whether you're preparing for technical interviews or enhancing your coding skills, you'll find practical examples and step-by-step tutorials here.
+Welcome to the **DSA in CSharp** repository – your one-stop resource for mastering Data Structures and Algorithms using **C# 14** and **.NET 10**. Whether you're preparing for technical interviews or enhancing your coding skills, you'll find practical examples and step-by-step tutorials here.
 
 ---
 
