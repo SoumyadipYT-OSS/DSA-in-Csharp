@@ -7,6 +7,19 @@ Although it is now considered **legacy** (replaced by `Dictionary<TKey, TValue>`
 
 ---
 
+## ❌ Recommendation
+
+<div style="background-color:#E6F7FF; padding:10px; border-radius:5px;">
+
+We don't recommend that you use the **Hashtable** class for new development.  
+Instead, we recommend that you use the generic **`Dictionary<TKey, TValue>`** class, which is type-safe, faster, and modern.  
+
+For more information, see: *Non-generic collections shouldn't be used* on GitHub.
+
+</div>
+
+---
+
 ## 🔎 Key Features
 - **Non-generic:** Stores keys and values as `object`.
 - **Unique Keys:** Each key must be unique.
